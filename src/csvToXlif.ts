@@ -1,10 +1,25 @@
 import { jsToXliff12, xliff12ToJs } from 'xliff';
+import translateText, { LanguageName } from './translateText.js';
 import { cloneDeep } from 'lodash-es';
 import fs from 'fs';
-import translateText from './translateText.js';
-import translatedCacheFile from './translatedCache.json' assert { type: 'json' };
+import { parseArgs } from 'node:util';
 
-const translatedCache = cloneDeep(translatedCacheFile) as [string, string][];
+const { values: args } = parseArgs({
+	options: { input: { type: 'string' }, lang: { type: 'string' }, limit: { type: 'string' } },
+});
+if (!args.lang || !args.input) process.exit(1);
+
+const pairsPath = './src/pairs';
+const languageName = args.lang as LanguageName;
+const contentName = args.input;
+const limit = args.limit || Infinity;
+
+console.log(languageName, contentName);
+
+const pairsFilename = `./src/pairs/${contentName}-${languageName}.json`;
+let pairs: [string, string][] = [];
+if (fs.existsSync(`./src/pairs/${pairsFilename}`))
+	pairs = JSON.parse(fs.readFileSync(pairsFilename).toString());
 
 type ItemArray = (string | GenericSpan | ItemArray)[];
 interface GenericSpan {
@@ -20,7 +35,7 @@ const handleItem = async (item: GenericSpan | ItemArray) => {
 		for (let i = 0; i < item.length; i += 1) {
 			const nestedItem = item[i];
 			if (typeof nestedItem === 'string') {
-				const translated = await translateText(nestedItem, translatedCache);
+				const translated = await translateText(languageName, nestedItem, pairs);
 				item[i] = translated;
 				console.log(item[i]);
 			} else {
@@ -30,7 +45,7 @@ const handleItem = async (item: GenericSpan | ItemArray) => {
 	} else if (typeof item === 'object' && typeof item.GenericSpan.contents !== 'string') {
 		await handleItem(item.GenericSpan.contents);
 	} else if (typeof item.GenericSpan.contents === 'string') {
-		const translated = await translateText(item.GenericSpan.contents, translatedCache);
+		const translated = await translateText(languageName, item.GenericSpan.contents, pairs);
 		item.GenericSpan.contents = translated;
 	}
 };
@@ -46,7 +61,7 @@ const run = async () => {
 			console.log(`Item number ${count}`);
 			const item: { source: GenericSpan | ItemArray | string; target: any } = resource[key2];
 			if (typeof item.source === 'string') {
-				const translated = await translateText(item.source, translatedCache);
+				const translated = await translateText(languageName, item.source, pairs);
 				(item as any).target = translated;
 			} else {
 				const target = cloneDeep(item.source);
@@ -55,8 +70,6 @@ const run = async () => {
 			}
 		}
 	}
-	fs.writeFileSync('./out.json', JSON.stringify(js, null, 1));
-	// fs.writeFileSync('./src/translatedCache.json', JSON.stringify(translatedCache, null, 1));
 	const translatedXliff = await jsToXliff12(js);
 	fs.writeFileSync('./filesOut/ethicsTranslated.xlf', translatedXliff);
 };

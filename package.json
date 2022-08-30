@@ -8,10 +8,12 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "startVtt": "node ./build/vtt.js",
-    "startXlif": "node ./build/xlif.js",
+    "csvToVtt": "node ./build/csvToVtt.js",
+    "update": "npx --yes npm-check-updates -u --timeout 60000",
+    "vttToCsv": "node ./build/vttToCsv.js",
     "watch": "tsc --watch",
-    "update": "npx --yes npm-check-updates -u --timeout 60000"
+		"wordCount": "node ./build/wordCount.js",
+    "xlifToCsv": "node ./build/xlifToCsv.js"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.184",
@@ -28,6 +30,9 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
+    "aws-sdk": "^2.1205.0",
+    "csv-reader": "^1.0.9",
+    "csv-writer": "^1.6.0",
     "lodash-es": "^4.17.21",
     "node-fetch": "^3.2.10",
     "qs": "^6.11.0",
