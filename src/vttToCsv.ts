@@ -1,4 +1,5 @@
 import * as handlePairs from './handlePairs.js';
+import { Pair } from './types.js';
 import VttParser from 'webvtt-parser';
 import fs from 'fs';
 import normalizeWhitespace from './normalizeWhitespace.js';
@@ -9,12 +10,12 @@ import writeCsv from './writeCsv.js';
 const dividerString = '<span translate="no"></span>';
 const type = 'vtt';
 const { contentName, languageName, limit } = parseToCsvArgs();
-const pairsRaw = handlePairs.get(contentName, languageName, type);
-const pairs = handlePairs.removeComments(pairsRaw);
+const cachePairsRaw = handlePairs.get(contentName, languageName, type);
+const cachePairs = handlePairs.removeComments(cachePairsRaw);
 const vttPath = './filesIn';
 let count = 0;
 
-const handleFile = async (filename: string) => {
+const handleFile = async (filename: string, outputPairs: Pair[]) => {
 	const vtt = fs.readFileSync(`${vttPath}/vtt-${contentName}/${filename}`);
 	const parser = new VttParser.WebVTTParser();
 	const tree = parser.parse(vtt.toString(), 'metadata');
@@ -23,11 +24,12 @@ const handleFile = async (filename: string) => {
 		count += 1;
 		if (count > limit) break;
 		console.log(`Item ${count}`);
-		await translateText(languageName, sentence, pairs);
+		const translatedSentence = await translateText(languageName, sentence, cachePairs);
+		outputPairs.push([sentence, translatedSentence]);
 	}
 };
 
-const pagesToSentences = (pages: string[]) => {
+const pagesToSentences = (pages: string[]): string[] => {
 	const sentences: string[] = [];
 	let sentence = '';
 	for (const page of pages) {
@@ -42,6 +44,7 @@ const pagesToSentences = (pages: string[]) => {
 		}
 	}
 	if (sentence.length > 0) sentences.push(sentence);
+	sentences.push(dividerString);
 	return sentences;
 };
 const sentencePairsToPagePairs = (sentencePairs: [string, string][]): [string, string][] => {
@@ -57,17 +60,19 @@ const sentencePairsToPagePairs = (sentencePairs: [string, string][]): [string, s
 };
 
 const run = async () => {
+	const outputPairs: Pair[] = [];
 	const vttPattern = /.vtt$/;
 	const filenames = fs
 		.readdirSync(`${vttPath}/vtt-${contentName}`)
 		.filter((file) => file.match(vttPattern));
 	for (const filename of filenames) {
 		if (count > limit) break;
-		await handleFile(filename);
-		handlePairs.save(pairs, contentName, languageName, type);
+		const existingFilenameRow = outputPairs.find((pair) => pair[0].includes(filename));
+		if (!existingFilenameRow) outputPairs.push([`--!-- ${filename}`, '']);
+		await handleFile(filename, outputPairs);
+		handlePairs.save(cachePairs, contentName, languageName, type);
 	}
-	const pairsUncommented = handlePairs.removeComments(pairs);
-	const pagePairs = sentencePairsToPagePairs(pairsUncommented);
+	const pagePairs = sentencePairsToPagePairs(outputPairs);
 	await writeCsv(pagePairs, contentName, languageName, type);
 };
 

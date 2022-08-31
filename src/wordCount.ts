@@ -17,5 +17,10 @@ const type = args.type as 'xlif' | 'vtt';
 
 const pairsRaw = handlePairs.get(contentName, languageName, type);
 const pairs = handlePairs.removeComments(pairsRaw);
-const wordCount = pairs.reduce((acc, [inputText]) => acc + inputText.split(' ').length, 0);
+const wordCount = pairs.reduce(
+	(acc, [inputText]) =>
+		acc +
+		inputText.replace('<span translate="no"></span>', '').trimStart().trimEnd().split(' ').length,
+	0,
+);
 console.log(wordCount);

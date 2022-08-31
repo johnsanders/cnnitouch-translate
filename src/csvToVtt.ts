@@ -7,8 +7,8 @@ import readCsv from './readCsv.js';
 
 const type = 'vtt';
 const { contentName, languageName } = parseCsvArgs();
-const vttInPath = `./filesIn/vtt-${contentName}`;
-const vttOutPath = `./filesOut/vtt-${contentName}`;
+const vttInPath = `./filesIn/vtt-${contentName.toLowerCase()}`;
+const vttOutPath = `./filesOut/vtt-${contentName.toLowerCase()}`;
 const csvPath = './filesIn';
 const serializer = new VttParser.WebVTTSerializer();
 
