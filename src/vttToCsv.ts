@@ -63,11 +63,9 @@ const run = async () => {
 		.filter((file) => file.match(vttPattern));
 	for (const filename of filenames) {
 		if (count > limit) break;
-		const filenameRow = pairs.find((pair) => pair[0].includes(filename));
-		if (!filenameRow) pairs.push([`--!-- ${filename}`, '']);
 		await handleFile(filename);
+		handlePairs.save(pairs, contentName, languageName, type);
 	}
-	handlePairs.save(pairs, contentName, languageName, type);
 	const pairsUncommented = handlePairs.removeComments(pairs);
 	const pagePairs = sentencePairsToPagePairs(pairsUncommented);
 	await writeCsv(pagePairs, contentName, languageName, type);
