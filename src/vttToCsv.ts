@@ -56,6 +56,7 @@ const sentencePairsToPagePairs = (sentencePairs: [string, string][]): [string, s
 		normalizeWhitespace(page).trimEnd(),
 		pagesTranslated[i],
 	]);
+	console.log(pagesInput.length, pagesTranslated.length);
 	return pagePairs;
 };
 
@@ -68,7 +69,7 @@ const run = async () => {
 	for (const filename of filenames) {
 		if (count > limit) break;
 		const existingFilenameRow = outputPairs.find((pair) => pair[0].includes(filename));
-		if (!existingFilenameRow) outputPairs.push([`--!-- ${filename}`, '']);
+		if (!existingFilenameRow) outputPairs.push([`--!-- ${filename}`, '----']);
 		await handleFile(filename, outputPairs);
 		handlePairs.save(cachePairs, contentName, languageName, type);
 	}
