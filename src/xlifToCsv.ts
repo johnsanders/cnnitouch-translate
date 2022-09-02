@@ -25,8 +25,10 @@ const handleItem = async (item: GenericSpan | ItemArray, outputPairs: Pair[]) =>
 		await handleItem(item.GenericSpan.contents, outputPairs);
 	} else if (typeof item.GenericSpan.contents === 'string') {
 		const inputString = item.GenericSpan.contents;
-		const translated = await translateText(languageName, inputString, cachePairs);
-		outputPairs.push([inputString, translated]);
+		if (inputString.length > 0) {
+			const translated = await translateText(languageName, inputString, cachePairs);
+			outputPairs.push([inputString, translated]);
+		}
 	}
 };
 
