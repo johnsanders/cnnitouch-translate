@@ -56,7 +56,7 @@ const sentencePairsToPagePairs = (sentencePairs: [string, string][]): [string, s
 		normalizeWhitespace(page).trimEnd(),
 		pagesTranslated[i],
 	]);
-	console.log(pagesInput.length, pagesTranslated.length);
+	console.log(`Page pairs: ${pagesInput.length} in, ${pagesTranslated.length} out`);
 	return pagePairs;
 };
 
