@@ -2,13 +2,13 @@ import * as handlePairs from './handlePairs.js';
 import { GenericSpan, ItemArray, Pair } from './types.js';
 import { cloneDeep } from 'lodash-es';
 import fs from 'fs';
-import parseToCsvArgs from './parseCsvArgs.js';
+import { csv as parseCsvArgs } from './parseArgs.js';
 import translateText from './translateText.js';
 import writeCsv from './writeCsv.js';
 import { xliff12ToJs } from 'xliff';
 
 const type = 'xlif';
-const { contentName, languageName, limit } = parseToCsvArgs();
+const { contentName, languageName, limit } = parseCsvArgs();
 const cachePairs = handlePairs.get(contentName, languageName, type);
 
 const handleItem = async (item: GenericSpan | ItemArray, outputPairs: Pair[]) => {

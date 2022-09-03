@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
+import { captions as parseArgs } from './parseArgs.js';
 import vimeoKey from './vimeoKey_disableGit.js';
 
 const apiBase = 'https://api.vimeo.com';
@@ -9,13 +10,13 @@ const downloadPath = '/Users/jsanders/Downloads';
 const getIdUrl = (id: string) => `${apiBase}/videos/${id}/texttracks`;
 let count = 0;
 
-const downloadEnglish = async (id: string, files: any[]) => {
+const download = async (id: string, language: string, files: any[]) => {
 	const fileFullPath = `${downloadPath}/${id}.vtt`;
 	if (fs.existsSync(fileFullPath)) {
 		console.log('File already exists', id);
 		return true;
 	}
-	const englishFile = files.find((file: any) => file.active && file.language === 'en');
+	const englishFile = files.find((file: any) => file.active && file.language === language);
 	if (!englishFile) return false;
 	else {
 		const downloadRes = await fetch(englishFile.link);
@@ -26,7 +27,21 @@ const downloadEnglish = async (id: string, files: any[]) => {
 	}
 };
 
+const deleteInactive = async (files: any[]) => {
+	const toDelete = files.find((file: any) => file.active === false);
+	if (toDelete) {
+		console.log('Deleting', toDelete.uri);
+		await fetch(apiBase + toDelete.uri, {
+			headers,
+			method: 'DELETE',
+		});
+		console.log('Deleted', toDelete.name);
+	} else console.log('No inactive captions to delete');
+};
+
 const run = async () => {
+	const args = parseArgs();
+	const idsString = fs.readFileSync('./src/captionsIdList.txt').toString();
 	const ids = idsString.split(/\s+/).filter((id) => id !== '');
 	for (const id of ids) {
 		count += 1;
@@ -36,31 +51,13 @@ const run = async () => {
 			method: 'GET',
 		});
 		const files = (await infoRes.json()) as any;
-
-		const toDelete = files.data.find((file: any) => file.active === false);
-		if (toDelete) {
-			console.log('Deleting', toDelete.uri);
-			await fetch(apiBase + toDelete.uri, {
-				headers,
-				method: 'DELETE',
-			});
-			console.log('Deleted', toDelete.name);
-		} else console.log('No inactive captions to delete');
-
-		const downloaded = await downloadEnglish(id, files.data);
+		if (args.deleteInactive) await deleteInactive(files);
+		const downloaded = await download(id, args.languageName, files.data);
 		if (!downloaded) {
 			console.log('Failed to download', id);
 			break;
 		}
 	}
 };
-
-// needs all captions:
-// 494109006
-// 494108852
-// 495162302
-// 497312368
-// 494100589
-const idsString = ``;
 
 run();

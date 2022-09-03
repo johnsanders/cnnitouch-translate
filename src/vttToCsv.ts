@@ -3,13 +3,13 @@ import { Pair } from './types.js';
 import VttParser from 'webvtt-parser';
 import fs from 'fs';
 import normalizeWhitespace from './normalizeWhitespace.js';
-import parseToCsvArgs from './parseCsvArgs.js';
+import { csv as parseCsvArgs } from './parseArgs.js';
 import translateText from './translateText.js';
 import writeCsv from './writeCsv.js';
 
 const dividerString = '<span translate="no"></span>';
 const type = 'vtt';
-const { contentName, languageName, limit } = parseToCsvArgs();
+const { contentName, languageName, limit } = parseCsvArgs();
 const cachePairsRaw = handlePairs.get(contentName, languageName, type);
 const cachePairs = handlePairs.removeComments(cachePairsRaw);
 const vttPath = './filesIn';
@@ -37,7 +37,7 @@ const pagesToSentences = (pages: string[]): string[] => {
 		const words = page.split(' ');
 		for (const word of words) {
 			sentence += word + ' ';
-			if (word.includes('.')) {
+			if (word.includes('.') || word.includes('?')) {
 				sentences.push(sentence);
 				sentence = '';
 			}
@@ -57,6 +57,7 @@ const sentencePairsToPagePairs = (sentencePairs: [string, string][]): [string, s
 		pagesTranslated[i],
 	]);
 	console.log(`Page pairs: ${pagesInput.length} in, ${pagesTranslated.length} out`);
+	if (pagesInput.length !== pagesTranslated.length) console.log('🚨🚨🚨');
 	return pagePairs;
 };
 

@@ -2,7 +2,7 @@ import { Pair } from './types.js';
 import VttParser from 'webvtt-parser';
 import fs from 'fs';
 import normalizeWhitespace from './normalizeWhitespace.js';
-import parseCsvArgs from './parseCsvArgs.js';
+import { csv as parseCsvArgs } from './parseArgs.js';
 import readCsv from './readCsv.js';
 
 const type = 'vtt';

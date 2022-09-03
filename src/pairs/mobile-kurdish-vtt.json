@@ -1,0 +1,930 @@
+[
+ [
+  "<span translate=\"no\"></span>(gentle music) <span translate=\"no\"></span>(air whooshing) <span translate=\"no\"></span>The biggest drawback to using your smartphones <span translate=\"no\"></span>for video storytelling <span translate=\"no\"></span>is the fact that it's video and audio features <span translate=\"no\"></span>are all automatic. ",
+  "<span translate=\"no\"></span>(مۆسیقای نەرم) <span translate=\"no\"></span>(فڕینی هەوا) <span translate=\"no\"></span>گەورەترین گەڕانەوە بۆ بەکارهێنانی مۆبایلە زیرەکەکانت <span translate=\"no\"></span>بۆ <span translate=\"no\"></span>چیرۆکی ڤیدیۆیی ئەو ڕاستییەیە کە تایبەتمەندیەکانی ڤیدیۆ و دەنگ <span translate=\"no\"></span>هەمووی ئۆتۆماتیکن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Fortunately, there are apps that let you change that. ",
+  "<span translate=\"no\"></span>خۆشبەختانە، کاربەرنامەکان هەن کە ڕێگەت پێ دەدەن بیگۆڕن. "
+ ],
+ [
+  "<span translate=\"no\"></span>For this lesson, I'll be using FiLMiC Pro, <span translate=\"no\"></span>but as I mentioned previously, <span translate=\"no\"></span>there are several options out there <span translate=\"no\"></span>that will give you manual control over your camera. ",
+  "<span translate=\"no\"></span>بۆ ئەم وانەیە، من فی ئێڵ ئێم سی پرۆ بەکار دێنم، <span translate=\"no\"></span>بەڵام وەک پێشتر باسم کرد، <span translate=\"no\"></span>چەند هەڵبژاردنێک هەیە لە دەرەوە <span translate=\"no\"></span>کە کۆنتڕۆڵی دەستیت دەدات بە کامێراکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Let's begin by selecting your camera's resolution. ",
+  "<span translate=\"no\"></span>با بە دیاریکردنی بڕیاری کامێراکەت دەست پێ بکەین. "
+ ],
+ [
+  "<span translate=\"no\"></span>Most smartphones can shoot up to 4K, <span translate=\"no\"></span>which is four times higher than the resolution of 1080 HD. ",
+  "<span translate=\"no\"></span>زۆربەی مۆبایلە زیرەکەکان دەتوانن تا 4 کەی تەقە بکەن، <span translate=\"no\"></span>کە چوار جار زیاترە لە بڕیاری 1080 ئێچ دی. "
+ ],
+ [
+  "<span translate=\"no\"></span>Higher resolution produce better quality images, <span translate=\"no\"></span>but also increase the size of your files. ",
+  "<span translate=\"no\"></span>ووردەکاری بەرز وێنەی کوالێتی باشتر بەرهەمدێنێ، <span translate=\"no\"></span>بەڵام هەروەها قەبارەی فایلەکانت زیاد دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you opt to film in 4K, <span translate=\"no\"></span>make sure you have enough hard drive space <span translate=\"no\"></span>to store the footage. ",
+  "<span translate=\"no\"></span>ئەگەر بە 4 کەی فیلم ببژێریت، <span translate=\"no\"></span>دڵنیابە کە شوێنی درایڤێکی قورست هەیە <span translate=\"no\"></span>بۆ هەڵگرتنی گرتە ڤیدیۆکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Larger files can also slow down <span translate=\"no\"></span>your editing software as you edit. ",
+  "<span translate=\"no\"></span>فایلە گەورەترەکان دەتوانن <span translate=\"no\"></span>نەرمامڕازی بژارکردنەکەت هێواش ببنەوە کاتێک بژاری دەکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>For this tutorial, I'll be shooting in 1080. ",
+  "<span translate=\"no\"></span>بۆ ئەم فێرکاریە، من لە ساڵی ١٠٨٠ تەقە دەکەم. "
+ ],
+ [
+  "<span translate=\"no\"></span>Now you need to set your frame rate. ",
+  "<span translate=\"no\"></span>ئێستا پێویستە ڕێژەی چوارچێوەکەت دابنێیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Frame rate refers to the number of individual images <span translate=\"no\"></span>comprising a second of video you record. ",
+  "<span translate=\"no\"></span>ڕێژەی چوارچێوە ئاماژە دەکات بە ژمارەی وێنەی تاکەکەسی <span translate=\"no\"></span>پێکدێت لە دووەم ڤیدیۆ کە تۆمارت کردووە. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's also called frames per second or FPS. ",
+  "<span translate=\"no\"></span>هەروەها پێی دەوترێت چوارچێوە لە چرکە یان ئێف پی ئێس. "
+ ],
+ [
+  "<span translate=\"no\"></span>This very shot is being recorded at 24 frames per second, <span translate=\"no\"></span>which means the camera is capturing 24 images of me <span translate=\"no\"></span>every second to create the illusion <span translate=\"no\"></span>that I'm speaking continuously to you. ",
+  "<span translate=\"no\"></span>ئەم لێدانە لە 24 چوارچێوە لە چرکەیەکدا تۆمار دەکرێت <span translate=\"no\"></span>واتە کامێراکە 24 وێنەی من <span translate=\"no\"></span>هەر چرکەیەک بۆ دروست کردنی ئەو وەهمە <span translate=\"no\"></span>کە من بە بەردەوامی قسەتان بۆ دەکەم. "
+ ],
+ [
+  "<span translate=\"no\"></span>The most common frame rate in filmmaking <span translate=\"no\"></span>is 24 frames per second. ",
+  "<span translate=\"no\"></span>باوترین ڕێژەی چوارچێوە لە فیلمسازی <span translate=\"no\"></span>24 چوارچێوە لە چرکەیەکدا. "
+ ],
+ [
+  "<span translate=\"no\"></span>It produces a filmmaker a cinematic look <span translate=\"no\"></span>that is the global standard for film projectors. ",
+  "<span translate=\"no\"></span>فیلمێکی سینەمایی بەرهەمدەهێنێت <span translate=\"no\"></span>کە ستانداردی جیهانییە بۆ بەرهەمهێنەرانی فیلم "
+ ],
+ [
+  "<span translate=\"no\"></span>Other common frame rates include 25 frames per second <span translate=\"no\"></span>for PAL TV systems <span translate=\"no\"></span>and 30 frames per second for NTSC TV systems. ",
+  "<span translate=\"no\"></span>ڕێژەی چوارچێوە باوەکانی تر 25 چوارچێوە لە چرکەیەکدا <span translate=\"no\"></span>بۆ سیستەمەکانی پال تی ڤی <span translate=\"no\"></span>و 30 چوارچێوە لە چرکەیەکدا بۆ سیستەمی تەلەفزیۆنی ئێن تی ئێس سی دەگرێتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>60 frames per second <span translate=\"no\"></span>is used for filming live television and sports. ",
+  "<span translate=\"no\"></span>٦٠ چوارچێوە لە چرکەیەکدا <span translate=\"no\"></span>بۆ وێنەگرتنی ڕاستەوخۆی تەلەڤزیۆن و وەرزش بەکار دەهێنرێت "
+ ],
+ [
+  "<span translate=\"no\"></span>For this tutorial, I will be using 24 frames per second. ",
+  "<span translate=\"no\"></span>بۆ ئەم فێرکاریە، من لە چرکەیەکدا ٢٤ چوارچێوە بەکار دێنم. "
+ ],
+ [
+  "<span translate=\"no\"></span>Lastly, you will need to set your camera's white balance. ",
+  "<span translate=\"no\"></span>دواجار، تۆ پێویستت بە دانانی باڵانسی سپی کامێراکەت دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Cameras determine proper color reproduction <span translate=\"no\"></span>based on the light source illuminating your shot. ",
+  "<span translate=\"no\"></span>کامێراکان <span translate=\"no\"></span>ڕەنگی گونجاو دیاری دەکەن لەسەر بنەمای سەرچاوەی ڕوناکی تیشکدانەوە لە لێدانەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Light sources can be natural such as the sun <span translate=\"no\"></span>or artificial such as fluorescent or incandescent lights. ",
+  "<span translate=\"no\"></span>سەرچاوە رووناکەکان دەتوانن سروشتی بن وەک خۆر <span translate=\"no\"></span>یان دەستکرد وەک فلۆرسێنت یان چرای چەور. "
+ ],
+ [
+  "<span translate=\"no\"></span>White balancing a camera ensures <span translate=\"no\"></span>that you're capturing footage with the proper colors. ",
+  "<span translate=\"no\"></span>وایت هاوسەنگ کردنی کامێرا دڵنیا <span translate=\"no\"></span>کە تۆ گرتە ڤیدیۆکان بە رەنگە گونجاوەکان دەگیرێیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Improperly white balancing a camera <span translate=\"no\"></span>will result in footage that is too blue <span translate=\"no\"></span>or too orange and cast. ",
+  "<span translate=\"no\"></span>بە شێوەیەکی نادروستی سپی هاوسەنگ کردنی کامێرایەک <span translate=\"no\"></span>دەبێتە هۆی ئەو گرتەیەی کە زۆر شینە <span translate=\"no\"></span>یان زۆر پرتەقاڵی و تێکردن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Color temperature is measured in degrees Kelvin. ",
+  "<span translate=\"no\"></span>پلەی گەرمی ڕەنگ بە پلەی کێلڤین دەپێورێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example, when shooting outside, <span translate=\"no\"></span>you must shoot at a color temperature close to 5,600 Kelvin, <span translate=\"no\"></span>which is white balance for daylight. ",
+  "<span translate=\"no\"></span>بۆ نمونە، لەکاتی تەقەکردن لە دەرەوە، <span translate=\"no\"></span>دەبێت تەقە لە پلەی گەرمی ڕەنگ بکەیت نزیک لە ٥،٦٠٠ کێلڤین، <span translate=\"no\"></span>کە هاوسەنگی سپییە بۆ رووناکی ڕۆژ. "
+ ],
+ [
+  "<span translate=\"no\"></span>When shooting indoors and using houselights, <span translate=\"no\"></span>you need to white balance for tungsten, <span translate=\"no\"></span>which is 3,200 Kelvin. ",
+  "<span translate=\"no\"></span>لە کاتی تەقەکردن لە ژوورەوە و بەکارهێنانی رووناکی ماڵەکان، <span translate=\"no\"></span>پێویستت بە باڵانسی سپی هەیە بۆ تۆنگستن، <span translate=\"no\"></span>کە ٣٢٠٠ کێلڤینە. "
+ ],
+ [
+  "<span translate=\"no\"></span>One of the biggest benefits <span translate=\"no\"></span>of manually adjusting white balance <span translate=\"no\"></span>is when you're dealing with mixed lighting. ",
+  "<span translate=\"no\"></span>یەکێک لە گەورەترین قازانجەکان <span translate=\"no\"></span>ڕێکخستنی دەستی هاوسەنگی سپی <span translate=\"no\"></span>ئەوەیە کە تۆ مامەڵە لەگەڵ ڕوناکی تێکەڵ دەکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>You may be shooting indoors <span translate=\"no\"></span>where natural light is coming through the windows <span translate=\"no\"></span>with their lights on as well. ",
+  "<span translate=\"no\"></span>لەوانەیە تۆ تەقە بکەیت لە ناوەوە <span translate=\"no\"></span>کە ڕوناکی سروشتی لە ناو پەنجەرەکاندا دێت <span translate=\"no\"></span>لەگەڵ ڕووناکیەکانیان. "
+ ],
+ [
+  "<span translate=\"no\"></span>In this situation, <span translate=\"no\"></span>you'll want to set your color temperature <span translate=\"no\"></span>to somewhere around 4,300 Kelvin, <span translate=\"no\"></span>which is roughly halfway between daylight and tungsten. ",
+  "<span translate=\"no\"></span>لەم دۆخەدا، <span translate=\"no\"></span>دەتەوێت پلەی گەرمی ڕەنگەکەت <span translate=\"no\"></span>بۆ شوێنێکی دەوروبەری ٤٣٠٠ کێلڤین، <span translate=\"no\"></span>کە بە نزیکەیی لە نیوەی ڕۆژدا و لە نێوان ڕۆژدا هەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>A handy way to determine what temperature <span translate=\"no\"></span>to white balance for is to use a light meter. ",
+  "<span translate=\"no\"></span>ڕێگایەکی دەست بۆ دیاریکردنی چ پلەی گەرمی <span translate=\"no\"></span>بۆ هاوسەنگی سپی ئەوەیە کە مەترێکی سووک بەکار بهێنیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>There are several light meter apps available for your phone, <span translate=\"no\"></span>which can instantly give you your scene's light temperature. ",
+  "<span translate=\"no\"></span>چەندین کاربەرنامەی مەتری سووک هەیە بۆ تەلەفۆنەکەت، <span translate=\"no\"></span>کە دەتوانێت دەستبەجێ پلەی گەرمی ڕووناکی دیمەنەکەت پێ بدات. "
+ ],
+ [
+  "<span translate=\"no\"></span>(gentle music) ",
+  "<span translate=\"no\"></span>(مۆسیقای نەرم) "
+ ],
+ [
+  "<span translate=\"no\"></span>",
+  "<span translate=\"no\"></span>"
+ ],
+ [
+  "<span translate=\"no\"></span>(gentle music) <span translate=\"no\"></span>Hello, I'm Farhod Family. ",
+  "<span translate=\"no\"></span>(مۆسیقای نەرم) <span translate=\"no\"></span>سڵاو، من خێزانی فەرهودم "
+ ],
+ [
+  "<span translate=\"no\"></span>I'm the co-founder of Studio Koa, <span translate=\"no\"></span>a non-fiction filmmaking company based in New York City. ",
+  "<span translate=\"no\"></span>من دامەزرێنەری ستۆدیۆی کۆام، <span translate=\"no\"></span>کۆمپانیایەکی فیلمی نا خەیاڵییە کە لە شاری نیویۆرکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>We've made videos and documentary films <span translate=\"no\"></span>that strive to tell immersive and compelling stories <span translate=\"no\"></span>that are both character-driven and visually engaging. ",
+  "<span translate=\"no\"></span>ئێمە ڤیدیۆ و فیلمی دیکۆمێنتیمان دروست کردووە <span translate=\"no\"></span>کە تێدەکۆشن بۆ گێڕانەوەی چیرۆکە زۆر و ناچارکەرەکان <span translate=\"no\"></span>کە هەردووک کارەکتەری لێخوڕین و بە شێوەیەکی بینراو تێوەگلاون. "
+ ],
+ [
+  "<span translate=\"no\"></span>Drawing from all that we have learned working <span translate=\"no\"></span>with some of the world's most prominent media brands, <span translate=\"no\"></span>we have produced this course on mobile storytelling <span translate=\"no\"></span>for CNN Academy. ",
+  "<span translate=\"no\"></span>وێنەکێشان لە هەموو ئەو شتانەی کە فێری کارکردنمان <span translate=\"no\"></span>لەگەڵ هەندێک لە مارکە دیارەکانی میدیای جیهان کردووە، <span translate=\"no\"></span>ئەم خولەمان لەسەر <span translate=\"no\"></span>چیرۆکی مۆبایل بۆ ئەکادیمیای سی ئێن ئێن بەرهەم هێناوە "
+ ],
+ [
+  "<span translate=\"no\"></span>Learning any craft can be daunting <span translate=\"no\"></span>and video is no exception. ",
+  "<span translate=\"no\"></span>فێربوونی هەر پیشەکارێک دەتوانێت <span translate=\"no\"></span>و ڤیدیۆکە بێ جیاوازی نیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>The best way to get started is to just dive right in <span translate=\"no\"></span>and make as many video stories as you can. ",
+  "<span translate=\"no\"></span>باشترین ڕێگا بۆ دەست پێکردنی ئەوەیە کە تەنها لە <span translate=\"no\"></span>بفڕیت و چەند چیرۆکێکی ڤیدیۆیی دروست بکەیت کە بتوانیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Fortunately, <span translate=\"no\"></span>you don't need fancy gear to be able <span translate=\"no\"></span>to tell a good video story. ",
+  "<span translate=\"no\"></span>خۆشبەختانە، <span translate=\"no\"></span>پێویستت بە گێڕی خەیاڵی نیە بۆ ئەوەی بتوانیت <span translate=\"no\"></span>چیرۆکێکی ڤیدیۆیی باش بگێڕیتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>All you really need in the beginning is curiosity. ",
+  "<span translate=\"no\"></span>هەموو ئەو شتەی کە لە سەرەتادا پێویستت پێیە، پێچانەوەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>And this, your smartphone. ",
+  "<span translate=\"no\"></span>و ئەمە، مۆبایلە زیرەکەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>The smartphone's greatest advantage as a video camera <span translate=\"no\"></span>is that it's light and portable. ",
+  "<span translate=\"no\"></span>گەورەترین سوودی مۆبایلە زیرەکەکە وەک کامێرایەکی ڤیدیۆیی <span translate=\"no\"></span>ئەوەیە کە ڕووناکی و هەڵگرە. "
+ ],
+ [
+  "<span translate=\"no\"></span>It fits in any pocket and can be used in situations <span translate=\"no\"></span>requiring extreme discretion. ",
+  "<span translate=\"no\"></span>لە هەموو گیرفانێکدا دەگونجێت و دەتوانێ لە دۆخێکدا بەکار بهێنرێت <span translate=\"no\"></span>پێویستی بە ھێزی زۆر هەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's also an all-in-one storytelling device <span translate=\"no\"></span>that can be used to shoot, <span translate=\"no\"></span>edit and publish video in a pitch. ",
+  "<span translate=\"no\"></span>هەروەها ئامێرێکی چیرۆکی هەموو <span translate=\"no\"></span>کە دەتوانرێت بەکار بهێنرێت بۆ تەقەکردن، <span translate=\"no\"></span>بژارکردن و بڵاوکردنەوەی ڤیدیۆ لە ئاوازێکدا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Another benefit is cost. ",
+  "<span translate=\"no\"></span>قازانجێکی تر تێچووە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Odds are you're not going to find <span translate=\"no\"></span>a more affordable camera than a smartphone. ",
+  "<span translate=\"no\"></span>ئەگەرەکان تۆ <span translate=\"no\"></span>کامیرایەکی گونجاوتر لە مۆبایلی زیرەک نادۆزیتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Certainly not one that can capture as high quality of video. ",
+  "<span translate=\"no\"></span>بە دڵنیاییەوە کەسێک نییە کە بتوانێت وەک کوالێتییەکی بەرزی ڤیدیۆیی بگرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>While the convenience of smartphones is hard to beat, <span translate=\"no\"></span>they have a few limitations <span translate=\"no\"></span>that require workaround solutions. ",
+  "<span translate=\"no\"></span>لە کاتێکدا کە ئاسانی مۆبایلە زیرەکەکان قورسە بۆ لێدان، <span translate=\"no\"></span>چەند سنوورێکیان هەیە <span translate=\"no\"></span>کە پێویستی بە چارەسەری کار هەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>To start with, smartphone microphones <span translate=\"no\"></span>are for phone calls, not for capturing high quality audio. ",
+  "<span translate=\"no\"></span>بۆ دەستپێکردن لەگەڵ، مایکرۆفۆنی زیرەک <span translate=\"no\"></span>بۆ پەیوەندی تەلەفۆنین، نەک بۆ گرتنی دەنگی کوالێتی بەرز. "
+ ],
+ [
+  "<span translate=\"no\"></span>Fortunately third-party microphone attachments are available <span translate=\"no\"></span>as add-ons to improve your phone's audio fidelity. ",
+  "<span translate=\"no\"></span>خۆشبەختانە هاوپێچەکانی مایکرۆفۆنی لایەنی سێیەم بەردەستن <span translate=\"no\"></span>وەک زیادکراو بۆ باشترکردنی توانای دەنگی تەلەفۆنەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Another limitation with smartphones is that they record <span translate=\"no\"></span>video and audio automatically, <span translate=\"no\"></span>stripping you of control and <span translate=\"no\"></span>determining how your video looks and sounds. ",
+  "<span translate=\"no\"></span>سنوورێکی تر لەگەڵ مۆبایلە زیرەکەکان ئەوەیە کە <span translate=\"no\"></span>ڤیدیۆ و دەنگ بە شێوەیەکی ئۆتۆماتیکی تۆمار دەکەن، <span translate=\"no\"></span>کۆنتڕۆل کردن و <span translate=\"no\"></span>دیاریکردنی چۆنییەتی پیشاندانی ڤیدیۆکەت و دەنگەکان. "
+ ],
+ [
+  "<span translate=\"no\"></span>To get around this, <span translate=\"no\"></span>there are apps that give users manual control <span translate=\"no\"></span>over audio and exposure. ",
+  "<span translate=\"no\"></span>بۆ ئەوەی لەم دەورە بگەرێنەوە، <span translate=\"no\"></span>کاربەرنامەکان هەن کە کۆنترۆڵی دەستی بە بەکارهێنەران دەدەن <span translate=\"no\"></span>لەسەر دەنگ و بەرکەوتن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Filmic Pro, Mavis and Pro Movie are three popular examples <span translate=\"no\"></span>worth exploring. ",
+  "<span translate=\"no\"></span>فیلمی پرۆ، ماڤیس و پرۆ فیلم سێ نموونەی بەناوبانگن <span translate=\"no\"></span>شایەنی گەڕانن. "
+ ],
+ [
+  "<span translate=\"no\"></span>The principles of good video storytelling <span translate=\"no\"></span>are the same for mobile storytelling <span translate=\"no\"></span>as they are for any other form of videography. ",
+  "<span translate=\"no\"></span>بنەماکانی <span translate=\"no\"></span>چیرۆک گێرانی ڤیدیۆیی باش وەک یەکن بۆ چیرۆکبێژی مۆبایل <span translate=\"no\"></span>وەک ئەوەی بۆ هەر شێوەیەکی تری ڤیدیۆیی بن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Your images should still be well composed and fit the <span translate=\"no\"></span>overall tone of your story. ",
+  "<span translate=\"no\"></span>وێنەکانت هێشتا دەبێت بە باشی پێکبێت و <span translate=\"no\"></span>ئاوازی گشتی چیرۆکەکەت بگونجێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>For it to be memorable, <span translate=\"no\"></span>it must have a strong narrative skeleton, <span translate=\"no\"></span>be fleshed out with compelling sequences and scenes <span translate=\"no\"></span>and be imbued with visual emotion and human emotion. ",
+  "<span translate=\"no\"></span>بۆ ئەوەی لەبیری بهێنرێتەوە <span translate=\"no\"></span>دەبێت ئێسکێکی چیرۆکێکی بەهێزی هەبێت <span translate=\"no\"></span>بە زنجیرە و دیمەنە ناچارکەرەکانی <span translate=\"no\"></span>دەربهێنرێت و بە هەستێکی بینراو و هەست و سۆزی مرۆڤەوە ببوژێنرێت "
+ ],
+ [
+  "<span translate=\"no\"></span>This course will give you the foundation <span translate=\"no\"></span>to make high quality videos on your phone <span translate=\"no\"></span>by teaching you the fundamentals <span translate=\"no\"></span>of strong video storytelling. ",
+  "<span translate=\"no\"></span>ئەم کۆرسە بناغەی <span translate=\"no\"></span>دەداتێ بۆ دروستکردنی ڤیدیۆی کوالێتی بەرز لەسەر تەلەفۆنەکەت <span translate=\"no\"></span>بە فێرکردنی بنەرەتی <span translate=\"no\"></span>چیرۆکی ڤیدیۆی بەهێز. "
+ ],
+ [
+  "<span translate=\"no\"></span>Let's get started. ",
+  "<span translate=\"no\"></span>با دەست پێبکەین "
+ ],
+ [
+  "<span translate=\"no\"></span>(light music) <span translate=\"no\"></span>In photography, <span translate=\"no\"></span>there are three interrelated pillars to exposing your image, <span translate=\"no\"></span>aperture or f-stop, shutter speed and ISO. ",
+  "<span translate=\"no\"></span>(مۆسیقای سووک) <span translate=\"no\"></span>لە وێنەگرتندا، <span translate=\"no\"></span>سێ کۆڵەکەی پێکەوەبەستراو هەیە بۆ خستنەڕووی وێنەکەت، <span translate=\"no\"></span>دیاپەرێکت یان ئێف-وەستان، خێرایی شاتر و ISO. "
+ ],
+ [
+  "<span translate=\"no\"></span>Most smartphones have fixed apertures, <span translate=\"no\"></span>meaning you cannot adjust your f-stop on them. ",
+  "<span translate=\"no\"></span>زۆربەی مۆبایلە تەلەفۆنە زیرەکەکان دیاپەرماتیکی چاکیان هەیە، <span translate=\"no\"></span>مانای ئەوەیە کە ناتوانیت ئێف راوەستێنیت لەسەریان ڕێک بخەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>However, by using a manual camera app, <span translate=\"no\"></span>you can control your camera's shutter speed and ISO, <span translate=\"no\"></span>therefore giving you much more creative control <span translate=\"no\"></span>over what you shoot. ",
+  "<span translate=\"no\"></span>هەرچۆنێک بێت، بە بەکارهێنانی کاربەرنامەی کامێرای دەستی، <span translate=\"no\"></span>دەتوانیت کۆنترۆڵی خێرایی شاتر و ISOی کامێراکەت بکەیت، <span translate=\"no\"></span>لەبەر ئەوە کۆنترۆڵی داهێنەرانەترت پێ بدەیت <span translate=\"no\"></span>لەسەر ئەوەی تەقەی لێ دەکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Shutter speed refers to how fast the shutter of the camera <span translate=\"no\"></span>opens and closes while letting light pass through <span translate=\"no\"></span>to the sensor. ",
+  "<span translate=\"no\"></span>خێرایی شاتەر ئاماژە بە چەند خێرای شاتەری کامێراکە دەکات <span translate=\"no\"></span>دەکرێتەوە و دایدەخات لەکاتی ڕێگەدان بە ڕووناکی بە <span translate=\"no\"></span>بۆ هەستەوەرەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>It is measured in fractions of a second, one over 60, <span translate=\"no\"></span>one over 125, 1 over 250, et cetera. ",
+  "<span translate=\"no\"></span>لە بەشی دووەمدا دەپێورێت، یەک لەسەر 60، <span translate=\"no\"></span>یەک لەسەر 125، 1 لەسەر 250، et cetera. "
+ ],
+ [
+  "<span translate=\"no\"></span>When shooting video, <span translate=\"no\"></span>you should set your shutter speed at this ratio, <span translate=\"no\"></span>one over two times the frame rate. ",
+  "<span translate=\"no\"></span>کاتی وێنەگرتنی ڤیدیۆ، <span translate=\"no\"></span>دەبێت خێرایی شاترەکەت بەم ڕێژەیە دابنێیت، <span translate=\"no\"></span>یەک لەسەر دوو جار ڕێژەی چوارچێوەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example, if you're shooting at 24 frames per second, <span translate=\"no\"></span>your shutter speed should be set to one over 48. ",
+  "<span translate=\"no\"></span>بۆ نمونە، ئەگەر تۆ تەقە لە 24 چوارچێوە لە چرکەیەکدا دەکەیت، <span translate=\"no\"></span>خێرایی شاترەکەت دەبێت بۆ یەک لەسەر 48 دابنرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>This will create an image that resembles <span translate=\"no\"></span>how the human eye perceives movement. ",
+  "<span translate=\"no\"></span>ئەمە وێنەیەک دروست دەکات کە <span translate=\"no\"></span>چۆن چاوی مرۆڤ هەست بە جوڵە دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you're filming in daylight, <span translate=\"no\"></span>you'll likely need to increase your shutter speed <span translate=\"no\"></span>to expose for the bright conditions outside. ",
+  "<span translate=\"no\"></span>ئەگەر تۆ لە ڕووناکی ڕۆژدا فیلم دەگری، <span translate=\"no\"></span>لەوانەیە پێویستت بە زیادکردنی خێرایی شاترەکەت بێت <span translate=\"no\"></span>بۆ دەرخستنی هەلومەرجە درەوشاوەکانی دەرەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>As a rule of thumb, if you increase your shutter speed, <span translate=\"no\"></span>the image will darken. ",
+  "<span translate=\"no\"></span>وەک یاسایەکی پەنجە، ئەگەر خێرایی شاترەکەت زیاد بکەیت، <span translate=\"no\"></span>وێنەکە تاریک دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Likewise if you decrease your shutter speed, <span translate=\"no\"></span>the image will become lighter. ",
+  "<span translate=\"no\"></span>بە هەمان شێوە ئەگەر خێرایی شاترەکەت کەم بکەیتەوە، <span translate=\"no\"></span>وێنەکە سووکتر دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>The other in-camera method for adjusting your exposure <span translate=\"no\"></span>is ISO, it's essentially artificial brightness. ",
+  "<span translate=\"no\"></span>شێوازی تری ناو کامێرا بۆ رێکخستنی بەرکەوتنی تۆ <span translate=\"no\"></span>ISOیە، لە بنچینەدا درەوشانەوەیەکی دەستکردە. "
+ ],
+ [
+  "<span translate=\"no\"></span>The higher ISO, <span translate=\"no\"></span>the brighter your image will be. ",
+  "<span translate=\"no\"></span>ISOی بەرزتر، <span translate=\"no\"></span>وێنەکەت گەشاوەتر دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>When filming in bright daylight, <span translate=\"no\"></span>you should select a low ISO. ",
+  "<span translate=\"no\"></span>لە کاتی وێنەگرتن بە ڕوناکی ڕۆژ، <span translate=\"no\"></span>پێویستە ئایسۆیەکی نزم هەڵبژێریت. "
+ ],
+ [
+  "<span translate=\"no\"></span>If your image is still too bright at that setting, <span translate=\"no\"></span>you can place a neutral density filter <span translate=\"no\"></span>over your phone's lens. ",
+  "<span translate=\"no\"></span>ئەگەر وێنەکەت هێشتا زۆر درەوشاوە بێت لەو ڕێکبەندەدا، <span translate=\"no\"></span>دەتوانی فلتەرێکی چڕی بێلایەنی <span translate=\"no\"></span>لەسەر لێنزی تەلەفۆنەکەت دابنێیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Neutral density filters are like sunglasses for your camera. ",
+  "<span translate=\"no\"></span>فلتەرەکانی چڕی بێلایەن وەک چاویلکەی خۆرن بۆ کامێراکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>They restrict the amount of light entering the lens. ",
+  "<span translate=\"no\"></span>بڕی ڕوناکی چوونە ناو لێنزەکە سنووردار دەکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>When filming inside, you will need to increase your ISO. ",
+  "<span translate=\"no\"></span>لە کاتی وێنەگرتنی ناوەوە، پێویستە ISOی خۆت زیاد بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Just remember, ISO is artificial light. ",
+  "<span translate=\"no\"></span>بیرت بێت، ISO ڕوناکی دەستکردە. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you push the ISO too high, <span translate=\"no\"></span>your image will lose quality and look grainy. ",
+  "<span translate=\"no\"></span>ئەگەر زۆر پاڵ بە ISO بدەیت، <span translate=\"no\"></span>وێنەکەت کوالێتی لە دەست دەدات و بە دانەوێڵە دەردەکەوێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>I recommend that you keep your ISO below 1600 <span translate=\"no\"></span>to avoid introducing grain to your footage, <span translate=\"no\"></span>but sometimes that can't be avoided <span translate=\"no\"></span>when filming in low light situations. ",
+  "<span translate=\"no\"></span>پێشنیار دەکەم کە ئای ئێس ئۆی خۆتان لە خوار ١٦٠٠ <span translate=\"no\"></span>بهێڵنەوە بۆ خۆلادان لە ناساندنی دانەوێڵە بە گرتە ڤیدیۆکەت، <span translate=\"no\"></span>بەڵام هەندێک جار کە ناتوانرێت <span translate=\"no\"></span>لە کاتی وێنەگرتن لە دۆخی نزمی ڕووناکیدا دوور بخرێتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>(upbeat music) <span translate=\"no\"></span>It's time to put your phone camera to work <span translate=\"no\"></span>and film your stories. ",
+  "<span translate=\"no\"></span>(مۆسیقای بەرز) <span translate=\"no\"></span>کاتی ئەوە هاتووە کامێرای تەلەفۆنەکەت دابنێیت بۆ کارکردن <span translate=\"no\"></span>و فیلمکردنی چیرۆکەکانت. "
+ ],
+ [
+  "<span translate=\"no\"></span>By now, you're familiar <span translate=\"no\"></span>with how to set your camera exposure properly, <span translate=\"no\"></span>but in order to capture compelling footage <span translate=\"no\"></span>that will enrich the scenes in your story, <span translate=\"no\"></span>you need to start thinking in terms of shots and sequences. ",
+  "<span translate=\"no\"></span>تا ئێستا، تۆ ئاشنایت بە <span translate=\"no\"></span>چۆن کامێراکەت ڕێک بخەیت، <span translate=\"no\"></span>بەڵام بۆ گرتنی <span translate=\"no\"></span>گرتەی ناچارکەر کە دیمەنەکانی چیرۆکەکەت دەوڵەمەند دەکات، <span translate=\"no\"></span>پێویستە لە ڕووی تەقە و زنجیرەوە دەست بە بیرکردنەوە بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>A shot is the footage captured <span translate=\"no\"></span>from the moment your camera starts recording <span translate=\"no\"></span>until the moment it stops. ",
+  "<span translate=\"no\"></span>لێدانەکە ئەو گرتەیەیە کە <span translate=\"no\"></span>گیراوە لەو ساتەی کامێراکەت دەست دەکات بە تۆمارکردنی <span translate=\"no\"></span>تا ئەو ساتەی کە دەوەستێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>A sequence is a linear array of shots. ",
+  "<span translate=\"no\"></span>زنجیرەیەک ڕیزێکی هێڵی وێنە. "
+ ],
+ [
+  "<span translate=\"no\"></span>A scene is a continuous sequence of action or dialogue, <span translate=\"no\"></span>and can consist of several shots in a sequence <span translate=\"no\"></span>or just one shot, <span translate=\"no\"></span>they are the building blocks of your story. ",
+  "<span translate=\"no\"></span>دیمەنێک زنجیرەیەکی بەردەوامی کردار یان دیالۆگە، <span translate=\"no\"></span>و دەتوانێت لە چەند لێدانێک پێکبێت لە زنجیرەیەک <span translate=\"no\"></span>یان تەنیا یەک لێدان، <span translate=\"no\"></span>ئەوان بلۆکی دروستکەری چیرۆکەکەتن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Figuring out how much footage to film <span translate=\"no\"></span>for your scenes varies, <span translate=\"no\"></span>but you'll want to have options in the edit suite. ",
+  "<span translate=\"no\"></span>تێبگەیت کە چەند فیلم بۆ وێنەگرتنی <span translate=\"no\"></span>بۆ دیمەنەکانت جیاوازە، <span translate=\"no\"></span>بەڵام دەتەوێت بژاردەیەکت هەبێت لە بژارکردنەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>To ensure that you're collecting enough material, <span translate=\"no\"></span>use the three by three rule, this works especially well <span translate=\"no\"></span>when filming a process of some kind. ",
+  "<span translate=\"no\"></span>بۆ دڵنیابوون لەوەی کە تۆ کەرەستەی پێویست کۆ دەکەیتەوە، <span translate=\"no\"></span>سێ بە سێ یاسا بەکار بهێنیت، ئەم کارە بە تایبەتی باش <span translate=\"no\"></span>لە کاتی وێنەگرتنی پرۆسەیەک لە جۆرەکان. "
+ ],
+ [
+  "<span translate=\"no\"></span>First identify three angles from which to film the process, <span translate=\"no\"></span>they should be sufficiently different from each other, <span translate=\"no\"></span>get creative. ",
+  "<span translate=\"no\"></span>سەرەتا سێ گۆشەیان دیاری کرد کە بۆ وێنەگرتنی پرۆسەکە، <span translate=\"no\"></span>دەبێت بە تەواوی لە یەکتر جیاواز بن، <span translate=\"no\"></span>داهێنەر بن. "
+ ],
+ [
+  "<span translate=\"no\"></span>At each angle, shoot the subject from three distances, <span translate=\"no\"></span>far away, medium, and close-up, <span translate=\"no\"></span>this will result in three types of shots, <span translate=\"no\"></span>wides, mediums, and close-ups. ",
+  "<span translate=\"no\"></span>لە هەر گۆشەیەک، بابەتەکە لە سێ دووریی و <span translate=\"no\"></span>دوور و مامناوەند و نزیکەوە بتەقێنن، <span translate=\"no\"></span>ئەمە دەبێتە هۆی سێ جۆر لێدان، <span translate=\"no\"></span>پانی، مامناوەند، و نزیککردنەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>A wide shot is often used to establish where you are <span translate=\"no\"></span>or provide context to your scene, <span translate=\"no\"></span>it gives viewers a sense of place <span translate=\"no\"></span>and how many characters are in your scene. ",
+  "<span translate=\"no\"></span>لێدانێکی فراوان زۆرجار بەکاردێت بۆ دامەزراندنی ئەو شوێنەی کە تۆ <span translate=\"no\"></span>یان چوارچێوەیەک بۆ دیمەنەکەت دابین دەکەیت، <span translate=\"no\"></span>هەستی شوێن <span translate=\"no\"></span>بە بینەران دەدات و چەند کارەکتەریش لە دیمەنەکەتدایە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Medium shots can help you to focus on your scene, <span translate=\"no\"></span>they can highlight character details and setting <span translate=\"no\"></span>at the same time. ",
+  "<span translate=\"no\"></span>لێدانە مامناوەندەکان دەتوانن یارمەتیت بدەن بۆ سەرنجدان لەسەر دیمەنەکەت، <span translate=\"no\"></span>دەتوانن وردەکاری کارەکتەرەکان و رێکخستنی <span translate=\"no\"></span>لەیەک کاتدا دیاری بکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Arguably, the most important type of shots are close-ups, <span translate=\"no\"></span>they provide crucial details to your scene, <span translate=\"no\"></span>and invite your viewer deeper into the story. ",
+  "<span translate=\"no\"></span>ئەرگولی، گرنگترین جۆری لێدانەکان نزیک کردنەوەکانن، <span translate=\"no\"></span>وردەکاری زۆر گرنگ پێشکەش بە دیمەنەکەت دەکەن، <span translate=\"no\"></span>و بینەرەکەت بە قووڵتر بانگهێشتی چیرۆکەکە دەکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Here's an important tip, no matter the shot, <span translate=\"no\"></span>make sure to hold the camera steady <span translate=\"no\"></span>and record for at least 10 seconds, <span translate=\"no\"></span>this will ensure that you have enough steady footage <span translate=\"no\"></span>from each angle when you're editing. ",
+  "<span translate=\"no\"></span>لێرەدا تێبینیەکی گرینگە، گرنگ نییە لێدانەکە، <span translate=\"no\"></span>دڵنیابە لەوەی کامێراکە بە جێگیری <span translate=\"no\"></span>و بەلایەنی کەمەوە بۆ 10 چرکە تۆمار بکەیت، <span translate=\"no\"></span>ئەمە دڵنیا دەبێت لەوەی کە <span translate=\"no\"></span>لە هەر گۆشەیەک کە تۆ دەستکاری دەکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>There is no absolute right or wrong formula to use, <span translate=\"no\"></span>but the key point to remember <span translate=\"no\"></span>is that you need a variety of shots <span translate=\"no\"></span>in order to make a scene come alive. ",
+  "<span translate=\"no\"></span>هیچ هاوکێشەیەکی ڕاست یان هەڵەی تەواو نییە بۆ بەکارهێنان، <span translate=\"no\"></span>بەڵام خاڵی سەرەکی بۆ بیرهێنانەوەی <span translate=\"no\"></span>ئەوەیە کە تۆ پێویستیت بە چەند تەقەیەک هەیە <span translate=\"no\"></span>بۆ ئەوەی دیمەنێک زیندوو بێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>(upbeat music) ",
+  "<span translate=\"no\"></span>(مۆسیقای بەرز) "
+ ],
+ [
+  "<span translate=\"no\"></span>(light music) <span translate=\"no\"></span>One of the greatest ironies of video production <span translate=\"no\"></span>is that audio quality is as important, <span translate=\"no\"></span>if not more important than video quality, <span translate=\"no\"></span>if your video has poor quality audio, <span translate=\"no\"></span>it instantly becomes unwatchable. ",
+  "<span translate=\"no\"></span>(مۆسیقای سووک) <span translate=\"no\"></span>یەکێک لە گەورەترین ئاسنەکانی بەرهەمهێنانی ڤیدیۆ <span translate=\"no\"></span>ئەوەیە کە کوالێتی دەنگ زۆر گرنگە، <span translate=\"no\"></span>ئەگەر لە کوالێتی ڤیدیۆ گرنگتر نەبێت، <span translate=\"no\"></span>ئەگەر ڤیدیۆکەت دەنگی کوالێتی خراپی هەبێت، <span translate=\"no\"></span>دەستبەجێ بێچاو "
+ ],
+ [
+  "<span translate=\"no\"></span>Earlier we looked at some of the drawbacks <span translate=\"no\"></span>of smartphones and audio is a big one. ",
+  "<span translate=\"no\"></span>پێشتر چاومان لە هەندێک لە کێشمەکێشەکان کرد <span translate=\"no\"></span>مۆبایلە زیرەکەکان و دەنگەکان شتێکی گەورەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Smartphones don't give you manual control for audio. ",
+  "<span translate=\"no\"></span>مۆبایلە زیرەکەکان کۆنتڕۆڵی دەستیت نادەن بۆ دەنگ. "
+ ],
+ [
+  "<span translate=\"no\"></span>And the built-in microphones are designed for phone calls, <span translate=\"no\"></span>not field production, but there are ways around that. ",
+  "<span translate=\"no\"></span>و مایکرۆفۆنە چەسپێنراوەکان بۆ پەیوەندی تەلەفۆنی دیزاین کراون، <span translate=\"no\"></span>بەرهەمی کێڵگەیی نیە، بەڵام لە دەوری ئەوە ڕێگا هەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>First I recommend that you attach a microphone to your phone <span translate=\"no\"></span>in order to capture rich audio in the field. ",
+  "<span translate=\"no\"></span>سەرەتا پێشنیار دەکەم کە مایکرۆفۆنێک بخەیتە سەر تەلەفۆنەکەت <span translate=\"no\"></span>بۆ گرتنی دەنگی دەوڵەمەند لە کێڵگەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>There are two types of microphones <span translate=\"no\"></span>commonly used for video production. ",
+  "<span translate=\"no\"></span>دوو جۆری مایکرۆفۆن هەیە <span translate=\"no\"></span>بە گشتی بۆ بەرهەمهێنانی ڤیدیۆ بەکاردێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Shotgun microphones are commonly mounted on cameras <span translate=\"no\"></span>and pick up audio that is directly in front <span translate=\"no\"></span>and slightly behind the microphone. ",
+  "<span translate=\"no\"></span>مایکرۆفۆنی شوتگون بە گشتی لەسەر کامێراکان <span translate=\"no\"></span>جێگیر کراون و دەنگ هەڵدەگرن کە ڕاستەوخۆ لەبەردەم <span translate=\"no\"></span>و کەمێک لە پشت مایکرۆفۆنەوەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>They're mainly used to pick up ambient sound <span translate=\"no\"></span>of the scene. ",
+  "<span translate=\"no\"></span>ئەوان بە شێوەیەکی سەرەکی بەکارهاتوون بۆ هەڵگرتنەوەی دەنگی <span translate=\"no\"></span>دیمەنەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Lavalier microphones are used to record voices. ",
+  "<span translate=\"no\"></span>مایکرۆفۆنی لاڤالیەر بۆ تۆمارکردنی دەنگ بەکار دەهێنرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>They are used in interviews and in the scenes <span translate=\"no\"></span>when you mic up your subject to capture clear audio, <span translate=\"no\"></span>even in noisy environments. ",
+  "<span translate=\"no\"></span>ئەوان لە چاوپێکەوتن و <span translate=\"no\"></span>دیمەنەکاندا بەکار دەهێنرێن کاتێک تۆ بابەتەکەت بۆ گرتنی دەنگێکی ڕوون و <span translate=\"no\"></span>تەنانەت لە ژینگە دەنگدارەکاندا "
+ ],
+ [
+  "<span translate=\"no\"></span>As you're recording, <span translate=\"no\"></span>it is important for you to constantly monitor <span translate=\"no\"></span>by listening to what you're capturing. ",
+  "<span translate=\"no\"></span>کە تۆ تۆماری دەکەیت، <span translate=\"no\"></span>گرنگە کە بەردەوام چاودێری <span translate=\"no\"></span>بکەیت بە گوێ گرتن لەو شتانەی کە دەیگریت. "
+ ],
+ [
+  "<span translate=\"no\"></span>That way you'll hear if something is off. ",
+  "<span translate=\"no\"></span>بەو شێوەیە گوێت لێ دەبێت ئەگەر شتێک کوژابێتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Using a pair of over the ear headphones is crucial for this. ",
+  "<span translate=\"no\"></span>بەکارهێنانی جووتێک لە سەر هێدفۆنی گوێ زۆر گرنگە بۆ ئەمە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Finally, being able to manually control your audio meters <span translate=\"no\"></span>is important for capturing good quality sound. ",
+  "<span translate=\"no\"></span>لە کۆتاییدا، توانای کۆنترۆڵکردنی دەستی مەترە دەنگیەکانت هەیە <span translate=\"no\"></span>گرینگە بۆ گرتنی دەنگی کوالێتی باش. "
+ ],
+ [
+  "<span translate=\"no\"></span>Audio meters <span translate=\"no\"></span>give shooters visual confirmation of the loudness <span translate=\"no\"></span>of the audio being recorded. ",
+  "<span translate=\"no\"></span>مەتری دەنگ <span translate=\"no\"></span>بە تەقەکەرەکان دووپاتکردنەوەی بینراوی دەنگ <span translate=\"no\"></span>دەنگەکە تۆمار دەکرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>The ideal level for your audio recording is to peak <span translate=\"no\"></span>at the negative 12 decibels mark. ",
+  "<span translate=\"no\"></span>ئاستی نموونەیی بۆ تۆمارکردنی دەنگ بۆ لوتکە <span translate=\"no\"></span>لە نیشانەی 12 دیسیبلی نەرێنی. "
+ ],
+ [
+  "<span translate=\"no\"></span>As you record, <span translate=\"no\"></span>you'll see the meters jump around <span translate=\"no\"></span>and not stay fixed at negative 12 decibels. ",
+  "<span translate=\"no\"></span>کە تۆماری دەکەیت، <span translate=\"no\"></span>تۆ بە دەوری <span translate=\"no\"></span>باز بدەیت و بە 12 دیسبیلی نەرێنی جێگیر نەمێنیتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>The goal is to have your meters stay near <span translate=\"no\"></span>that negative 12 decibels marker the entire time. ",
+  "<span translate=\"no\"></span>ئامانجەکە ئەوەیە کە مەترەکانت لە نزیک <span translate=\"no\"></span>بمێننەوە کە نیشاندەری ١٢ دیسبێل بە تەواوی کات. "
+ ],
+ [
+  "<span translate=\"no\"></span>When making videos, <span translate=\"no\"></span>do not cut corners on sound. ",
+  "<span translate=\"no\"></span>کاتێک ڤیدیۆ دروست دەکەن، <span translate=\"no\"></span>گۆشەکان لەسەر دەنگ دانەبڕێن. "
+ ],
+ [
+  "<span translate=\"no\"></span>High quality audio can make all the difference <span translate=\"no\"></span>in your story, reaching its full potential. ",
+  "<span translate=\"no\"></span>دەنگێکی کوالێتی بەرز دەتوانێت هەموو جیاوازیەکە دروست بکات <span translate=\"no\"></span>چیرۆکەکەت، گەیشتن بە توانای تەواو. "
+ ],
+ [
+  "<span translate=\"no\"></span>(lively music) <span translate=\"no\"></span>(screen whooshing) <span translate=\"no\"></span>Inspiration for video stories <span translate=\"no\"></span>can come from anywhere, <span translate=\"no\"></span>from your friends and family telling you <span translate=\"no\"></span>about something interesting that happened them <span translate=\"no\"></span>to print stories that could be explored in more depth <span translate=\"no\"></span>to unanswered questions, <span translate=\"no\"></span>and curiosities that arise in your everyday life. ",
+  "<span translate=\"no\"></span>(مۆسیقای زیندوو) <span translate=\"no\"></span> <span translate=\"no\"></span>ئیلهام بۆ چیرۆکە ڤیدیۆییەکان <span translate=\"no\"></span>لە هەر شوێنێکەوە بێت <span translate=\"no\"></span>لە هاوڕێکانت و خێزانەکەتەوە بە ئێوە دەڵێن <span translate=\"no\"></span>دەربارەی شتێکی سەرنجڕاکێش کە ڕووی داون <span translate=\"no\"></span>بۆ چاپکردنی چیرۆکەکان کە دەتوانرێت بە قووڵی زیاتر <span translate=\"no\"></span> <span translate=\"no\"></span>و پەڕاوێزی کە لە ژیانی ڕۆژانەی تۆدا دروست دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>The best stories are always hiding in plain sight. ",
+  "<span translate=\"no\"></span>باشترین چیرۆکەکان هەمیشە لە دیمەنی ئاشکرادا خۆیان حەشارداوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>The main thing is to get in the habit of looking. ",
+  "<span translate=\"no\"></span>شتە سەرەکیەکە ئەوەیە کە لە عادەتی سەیرکردندا تێبگات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Keep a notepad and pen with you <span translate=\"no\"></span>so that you can jot down your ideas <span translate=\"no\"></span>before you forget them. ",
+  "<span translate=\"no\"></span>پەڕەی تێبینی و پێنووس لەگەڵ خۆتدا بهێڵەوە <span translate=\"no\"></span>بۆ ئەوەی بتوانیت بیرۆکەکانت <span translate=\"no\"></span>پێش ئەوەی لەبیرت بچێتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Ideas in your head are just that, in your head. ",
+  "<span translate=\"no\"></span>بیرۆکەکان لە سەرتدا تەنیا ئەوەن، لە سەرت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Make the effort to make inquiries <span translate=\"no\"></span>about your subject to see where it leads. ",
+  "<span translate=\"no\"></span>هەوڵ بدە بۆ <span translate=\"no\"></span>پرسیارکردن دەربارەی بابەتەکەت بۆ ئەوەی بزانیت بەرەو کوێ دەبات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Only then can stories become real. ",
+  "<span translate=\"no\"></span>تەنها لەو کاتەدا چیرۆکەکان دەبنە ڕاستی. "
+ ],
+ [
+  "<span translate=\"no\"></span>Once you have figured out what story you want to tell, <span translate=\"no\"></span>you'll have to figure out how to tell it. ",
+  "<span translate=\"no\"></span>کاتێک زانیت کە دەتەوێت چی چیرۆکێک بڵێیت، <span translate=\"no\"></span>دەبێت بزانیت چۆن بیڵێیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>That said, good stories from documentaries <span translate=\"no\"></span>to Hollywood blockbusters all possess the same components. ",
+  "<span translate=\"no\"></span>کە وتبووی، چیرۆکە باشەکان لە بەڵگەنامەکانەوە <span translate=\"no\"></span>بۆ بڵۆک باستەرەکانی هۆلیوود هەموویان هەمان پێکهاتەیان هەیە "
+ ],
+ [
+  "<span translate=\"no\"></span>A protagonist or main character <span translate=\"no\"></span>and a strong narrative that has conflict and resolution. ",
+  "<span translate=\"no\"></span>کەسایەتیەکی پاڵەوان یان سەرەکی <span translate=\"no\"></span>و چیرۆکێکی بەهێز کە ناکۆکی و چارەسەری هەیە "
+ ],
+ [
+  "<span translate=\"no\"></span>Stories only differ in style and content. ",
+  "<span translate=\"no\"></span>چیرۆکەکان تەنها لە شێواز و ناوەڕۆکدا جیاوازن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Your storytelling ability will improve with experience <span translate=\"no\"></span>but here are a few important tips <span translate=\"no\"></span>to help you get started. ",
+  "<span translate=\"no\"></span>توانای چیرۆکبێژیەکەت بە ئەزموون <span translate=\"no\"></span>باشتر دەبێت بەڵام لێرەدا چەند ئامۆژگاریەکی گرنگ <span translate=\"no\"></span>بۆ یارمەتیدانت بۆ دەست پێ کردن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Choose a compelling character <span translate=\"no\"></span>who is also a good talker. ",
+  "<span translate=\"no\"></span>کاراکتەرێکی ناچارکەر هەڵبژێرە <span translate=\"no\"></span>کە هەروەها قسەکەرێکی باشە. "
+ ],
+ [
+  "<span translate=\"no\"></span>They should be willing and able <span translate=\"no\"></span>to show you their world <span translate=\"no\"></span>and allow you sufficient access <span translate=\"no\"></span>to follow them and document their story. ",
+  "<span translate=\"no\"></span>کەدەیانەوێت و دەتوانن <span translate=\"no\"></span> <span translate=\"no\"></span>جیهانی خۆیانتان پێ نیشان بدەن و ڕێگەتان پێبدەن <span translate=\"no\"></span>بەشوێنیاندا بکەون و چیرۆکەکەیان بەند بکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Choose a story with the potential <span translate=\"no\"></span>for a strong narrative arc. ",
+  "<span translate=\"no\"></span>چیرۆکێک هەڵبژێرە لەگەڵ <span translate=\"no\"></span>شاراوە بۆ کەوانێکی چیرۆکێکی بەهێز. "
+ ],
+ [
+  "<span translate=\"no\"></span>A common narrative formula consists <span translate=\"no\"></span>of a calm beginning that introduces your character, <span translate=\"no\"></span>a middle where story momentum and tension build. ",
+  "<span translate=\"no\"></span>هاوکێشەیەکی چیرۆکی هاوبەش <span translate=\"no\"></span>سەرەتایەکی هێمن پێکدێت کە کارەکتەرەکەت دەناسێنێت، <span translate=\"no\"></span>ناوەندێک کە تەوژمی چیرۆک و گرژی تێیدا دروست دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>And an ending that resolves the conflict. ",
+  "<span translate=\"no\"></span>و کۆتاییەکیش کە ناکۆکی چارەسەر دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Stories without a strong narrative arc <span translate=\"no\"></span>have a difficult time holding viewers' attention. ",
+  "<span translate=\"no\"></span>چیڕۆکەکان بەبێ کەوانێکی چیرۆکێکی بەهێز <span translate=\"no\"></span>کاتێکی سەختیان هەیە کە سەرنجی بینەران دەگرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Keep in mind that narrative arcs <span translate=\"no\"></span>don't need to be feature length <span translate=\"no\"></span>in order to be compelling, <span translate=\"no\"></span>as long as you give the viewers a reason to keep watching <span translate=\"no\"></span>until the end. ",
+  "<span translate=\"no\"></span>لە بیرتان بێت کە کەوانەکانی چیرۆک <span translate=\"no\"></span>پێویست ناکات <span translate=\"no\"></span>درێژیەکی تایبەت بن بۆ ئەوەی ناچار بن، <span translate=\"no\"></span>هەتا کاتێک کە تۆ هۆکارێک بۆ بینەران دەدەیت بۆ بەردەوامبوون لە سەیرکردنی <span translate=\"no\"></span>تا کۆتایی. "
+ ],
+ [
+  "<span translate=\"no\"></span>Choose your scope. ",
+  "<span translate=\"no\"></span>مەوداکەت هەڵبژێرە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Video stories can either cover a lot <span translate=\"no\"></span>of information superficially <span translate=\"no\"></span>or explore deep emotional depths within a small area. ",
+  "<span translate=\"no\"></span>چیرۆکە ڤیدیۆییەکان دەتوانن <span translate=\"no\"></span>زۆر لە زانیاری ڕووکەشانە <span translate=\"no\"></span>داپۆشن یان قووڵایی هەستە قووڵەکان لە ناو ناوچەیەکی بچووکدا بکۆڵنەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>It helps to think of the ratio like this. ",
+  "<span translate=\"no\"></span>ئەوە یارمەتی دەدات بۆ بیر بونەوەی ڕێژەی لەم شێوەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can either cover a mile of subject terrain <span translate=\"no\"></span>but only go one foot deep below the surface <span translate=\"no\"></span>or dive a mile deep in an area <span translate=\"no\"></span>that is only a foot wide. ",
+  "<span translate=\"no\"></span>تۆ دەتوانیت یان میلێک لە زەوی بابەت داپۆشیت <span translate=\"no\"></span>بەڵام تەنها یەک پێ بەرەو قوڵایی ڕووکەشەکە بڕۆ <span translate=\"no\"></span>یان لە قوڵایی میلێک لە ناوچەیەکی <span translate=\"no\"></span>کە تەنها پانی پێ یە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Always think in terms of taking your viewer on a journey <span translate=\"no\"></span>from A to B. ",
+  "<span translate=\"no\"></span>هەمیشە بیر لەوە بکەنەوە کە بینەرەکەت وەربگریت لە گەشتێکدا <span translate=\"no\"></span>لە A بۆ B. "
+ ],
+ [
+  "<span translate=\"no\"></span>If your story lacks a strong narrative arc, <span translate=\"no\"></span>perhaps you can build story momentum <span translate=\"no\"></span>by answering a pressing question <span translate=\"no\"></span>or revealing something new <span translate=\"no\"></span>or surprising about your subject matter. ",
+  "<span translate=\"no\"></span>ئەگەر چیرۆکەکەت کەوانێکی چیرۆکی بەهێز نەبێت، <span translate=\"no\"></span>لەوانەیە بتوانیت <span translate=\"no\"></span>بە وەڵامدانەوەی پرسیارێکی فشار <span translate=\"no\"></span>یان ئاشکراکردنی شتێکی نوێ <span translate=\"no\"></span>یان سەرسامکەر سەبارەت بە بابەتەکەت دروست بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Finally, show, don't tell. ",
+  "<span translate=\"no\"></span>لە کۆتاییدا، نیشان بدە، مەڵێ "
+ ],
+ [
+  "<span translate=\"no\"></span>Capture engaging visuals that emphasize <span translate=\"no\"></span>and add context to your story. ",
+  "<span translate=\"no\"></span>گرتنی وێنە سەرنجڕاکێشەکان کە جەخت لە <span translate=\"no\"></span>دەکەنەوە و دەقێک زیاد دەکەن بۆ چیرۆکەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example, having your character tell you <span translate=\"no\"></span>what is happening within all the knows exposition <span translate=\"no\"></span>isn't as powerful as simply showing what is happening. ",
+  "<span translate=\"no\"></span>بۆ نمونە، هەبوونی کارەکتەرەکەت پێت دەڵێت <span translate=\"no\"></span>چی ڕوودەدات لە ناو هەموو ئەو شتانەی کە دەیزانێ <span translate=\"no\"></span>ئەوەندە بەهێز نییە کە بە سادەیی پیشانی ئەوەی کە ڕوودەدات. "
+ ],
+ [
+  "<span translate=\"no\"></span>(lively music) ",
+  "<span translate=\"no\"></span>(مۆسیقای زیندوو) "
+ ],
+ [
+  "<span translate=\"no\"></span>(playful music) <span translate=\"no\"></span>We've covered the basics of mobile storytelling. ",
+  "<span translate=\"no\"></span>(مۆسیقای یاری) <span translate=\"no\"></span>ئێمە بنەماکانی چیرۆکی مۆبایلمان داپۆشیوە "
+ ],
+ [
+  "<span translate=\"no\"></span>Now I want to give you a few stylistic techniques <span translate=\"no\"></span>to use when you're shooting. ",
+  "<span translate=\"no\"></span>ئێستا دەمەوێت چەند تەکنیکێکی ستایلیتان پێ بدەم <span translate=\"no\"></span>کاتێک تۆ تەقە دەکەیت بەکاری بهێنم. "
+ ],
+ [
+  "<span translate=\"no\"></span>Video transitions are techniques used to juxtapose <span translate=\"no\"></span>two different shots or two scenes <span translate=\"no\"></span>so that your visuals flow seamlessly. ",
+  "<span translate=\"no\"></span>گواستنەوەی ڤیدیۆ ئەو تەکنیکانەن کە بەکاردێت بۆ <span translate=\"no\"></span>دوو لێدانی جیاواز یان دوو دیمەنی <span translate=\"no\"></span>بۆ ئەوەی بینراوەکانت بە بێ پچڕان تێبپەڕن. "
+ ],
+ [
+  "<span translate=\"no\"></span>The idea is to hold the viewer's attention <span translate=\"no\"></span>while hiding a cut that could potentially <span translate=\"no\"></span>take them out of the story. ",
+  "<span translate=\"no\"></span>بیرۆکەکە ئەوەیە کە سەرنجی بینەر <span translate=\"no\"></span>لە کاتی شاردنەوەی بڕینیەک کە لەوانەیە <span translate=\"no\"></span>لە چیرۆکەکە دەریان ببڕێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>There's several transition effects out there, <span translate=\"no\"></span>but the most effective results are achieved in camera. ",
+  "<span translate=\"no\"></span>چەندین کاریگەری گواستنەوە هەیە لە دەرەوە، <span translate=\"no\"></span>بەڵام کاریگەرترین ئەنجامەکان لە کامێرادا بەدەست دەهێنرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Let's take a look at a few. ",
+  "<span translate=\"no\"></span>با سەیرێکی کەم بکەین "
+ ],
+ [
+  "<span translate=\"no\"></span>The first is the Whip Pan Transition. ",
+  "<span translate=\"no\"></span>یەکەم گواستنەوەی ویپ پانە "
+ ],
+ [
+  "<span translate=\"no\"></span>A whip pan is made when you pan the camera so quickly <span translate=\"no\"></span>that your image is filled with motion blur. ",
+  "<span translate=\"no\"></span>تاوێکی قامچی دروست دەکرێت کاتێک تۆ کامێراکە بە خێرایی <span translate=\"no\"></span>کە وێنەکەت پڕە لە بزوێنەری جوڵە. "
+ ],
+ [
+  "<span translate=\"no\"></span>By cutting between two whip pans <span translate=\"no\"></span>that are moving in the same direction, <span translate=\"no\"></span>you can effectively hide the cut, <span translate=\"no\"></span>creating a seamless transition with style. ",
+  "<span translate=\"no\"></span>بە بڕین لە نێوان دوو <span translate=\"no\"></span>قامچی کە بە هەمان ئاڕاستە دەجوڵێن، <span translate=\"no\"></span>دەتوانیت بە کاریگەری بڕینەکە بشاریتەوە، <span translate=\"no\"></span>گواستنەوەیەکی بێ درز بە شێواز دروست بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>To create a whip pan transition, <span translate=\"no\"></span>first hold your shot for at least 10 seconds, <span translate=\"no\"></span>and then whip your camera in a direction of your choosing. ",
+  "<span translate=\"no\"></span>بۆ دروستکردنی گواستنەوەی تاوێکی قامچی، <span translate=\"no\"></span>سەرەتا بەلایەنی کەمەوە بۆ ماوەی 10 چرکە لێدانەکەت بگرە، <span translate=\"no\"></span>و پاشان کامێراکەت لە ئاڕاستەی هەڵبژاردنەکەتدا قامچی بکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Then, for your second shot, <span translate=\"no\"></span>begin with a whip that continues the movement <span translate=\"no\"></span>of the previous shot. ",
+  "<span translate=\"no\"></span>، بۆ لێدانی دووەمت، <span translate=\"no\"></span>دەست پێ بکە بە قامچی کە بەردەوام بێت لە جوڵەکە <span translate=\"no\"></span>لێدانەکەی پێشوو. "
+ ],
+ [
+  "<span translate=\"no\"></span>When editing, cut on the motion blur of each shot, <span translate=\"no\"></span>you can also add additional blur and posts <span translate=\"no\"></span>to further smooth out the transition. ",
+  "<span translate=\"no\"></span>کاتی بژارکردن، ببڕە لەسەر تاری جووڵەی هەر لێدانێک، <span translate=\"no\"></span>هەروەها دەتوانیت تاری زیاتر زیاد بکەیت و پۆستەکان <span translate=\"no\"></span>بۆ زیاتر نەرمکردنی گواستنەوەکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Another common transition is The Match Cut. ",
+  "<span translate=\"no\"></span>یەکێکی تر لە گواستنەوە باوەکان بڕینی هاوتایە. "
+ ],
+ [
+  "<span translate=\"no\"></span>A match cut joins two different shots <span translate=\"no\"></span>with similar properties in a way <span translate=\"no\"></span>that creates a connective relationship, <span translate=\"no\"></span>thereby strengthening your story. ",
+  "<span translate=\"no\"></span>بڕینێکی یاری دەچێتە پاڵ دوو لێدانی جیاواز <span translate=\"no\"></span>لەگەڵ تایبەتمەندیە هاوشێوەکان بە جۆرێک <span translate=\"no\"></span>کە پەیوەندیەکی پەیوەندی دروست دەکات، <span translate=\"no\"></span>بەمەش چیرۆکەکەت بەهێز دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Popular forms of match cuts include, <span translate=\"no\"></span>graphic, movement and audio. ",
+  "<span translate=\"no\"></span>شێوە بەناوبانگەکانی بڕینەکانی هاوشێوە بریتین لە، <span translate=\"no\"></span>گرافیک، جوڵە و دەنگ. "
+ ],
+ [
+  "<span translate=\"no\"></span>A Graphic Match Cut is used to cut between two shots <span translate=\"no\"></span>with similar graphic properties. ",
+  "<span translate=\"no\"></span>بڕینی هاوتای گرافیک بەکاردێت بۆ بڕینی نێوان دوو تەقە <span translate=\"no\"></span>لەگەڵ تایبەتمەندیەکانی گرافیکی هاوشێوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example, if you're filming a person sitting on a stool <span translate=\"no\"></span>in front of three different colored backgrounds <span translate=\"no\"></span>and the subject is framed the same in each shot, <span translate=\"no\"></span>you can smoothly cut between the shots <span translate=\"no\"></span>to create meaning or a stylistic effects. ",
+  "<span translate=\"no\"></span>بۆ نمونە، ئەگەر کەسێک لەسەر ستۆڵێک <span translate=\"no\"></span>لەبەردەم سێ باکگراوندی ڕەنگاوڕەنگی جیاواز <span translate=\"no\"></span>و بابەتەکە لە هەر لێدانێکدا وەک یەک چوارچێوەکراوە، <span translate=\"no\"></span>دەتوانیت بە نەرمی لە نێوان لێدانەکان ببڕیت <span translate=\"no\"></span>بۆ دروستکردنی مانا یان کاریگەریەکی شێواز "
+ ],
+ [
+  "<span translate=\"no\"></span>This works because the shots have matching visual elements. ",
+  "<span translate=\"no\"></span>ئەم ئیشە دەکات چونکە لێدانەکان پێکهاتەی بینراویان هاوتایە. "
+ ],
+ [
+  "<span translate=\"no\"></span>In this case, a person's sitting still <span translate=\"no\"></span>on a stool in front of a colored background. ",
+  "<span translate=\"no\"></span>لەم حاڵەتەدا، هێشتا دانیشتنێکی کەسێک <span translate=\"no\"></span>لەسەر ستۆڵ لەبەردەم باکگراوندێکی ڕەنگاوڕەنگ. "
+ ],
+ [
+  "<span translate=\"no\"></span>But it can also work in countless other scenarios <span translate=\"no\"></span>where the graphic elements <span translate=\"no\"></span>have matching shapes, colors, or frame composition. ",
+  "<span translate=\"no\"></span>بەڵام هەروەها دەتوانێت لە سیناریۆ بێشومارەکانی تر کار بکات <span translate=\"no\"></span>ئەو شوێنەی کە توخمە گرافیکیەکان <span translate=\"no\"></span>شێوەکان، ڕەنگەکان، یان پێکهاتەی چوارچێوەیان هاوچەشنیان هەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>A Movement Match Cut is used to cut <span translate=\"no\"></span>between similar actions in two different shots or scenes <span translate=\"no\"></span>in a way that seamlessly connects them. ",
+  "<span translate=\"no\"></span>جووڵەیەک بۆ بڕینی <span translate=\"no\"></span>لە نێوان کرداری هاوشێوەدا بەکاردێت لە دوو لێدان یان دیمەنی جیاواز <span translate=\"no\"></span>بەشێوەیەک کە بە بێ پچڕانی بیانبەستێتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Take for example a car driving past your camera. ",
+  "<span translate=\"no\"></span>بۆ نمونە ئوتومبێلێک کە لە کامێراکەتدا لێخوڕی. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you cut on the moment <span translate=\"no\"></span>the car passes in front of the lens, <span translate=\"no\"></span>you can cut to a separate location <span translate=\"no\"></span>where a car is also passing in front of your camera. ",
+  "<span translate=\"no\"></span>ئەگەر لە کاتیکدا <span translate=\"no\"></span>ئۆتۆمبێلەکە لە بەردەم لێنزەکە تێدەپەڕێت، <span translate=\"no\"></span>دەتوانیت بۆ شوێنێکی جیاواز ببڕیت <span translate=\"no\"></span>کە ئۆتۆمبێلەکە لە بەردەم کامێراکەتدا تێدەپەڕێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>This hides the cut and transports the viewer <span translate=\"no\"></span>to a new location in the blink of an eye. ",
+  "<span translate=\"no\"></span>ئەمە بڕینەکە دەشارێتەوە و بینەرەکە <span translate=\"no\"></span>دەگوازێتەوە بۆ شوێنێکی نوێ لە چاوێکی چاودا. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can also make a match cut using audio. ",
+  "<span translate=\"no\"></span>هەروەها دەتوانیت بە بەکارهێنانی دەنگ بڕینێکی هاوتا دروست بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Using matching or similar sounds <span translate=\"no\"></span>to bridge two different shots or scenes. ",
+  "<span translate=\"no\"></span>بەکارهێنانی دەنگە هاوشێوەکان یان هاوشێوەکان <span translate=\"no\"></span>بۆ پرکردنی دوو لێدان یان دیمەنی جیاواز. "
+ ],
+ [
+  "<span translate=\"no\"></span>(camera shuttering) <span translate=\"no\"></span>In this example, I placed the sound effect <span translate=\"no\"></span>of a camera shutter over a cut <span translate=\"no\"></span>to help bridge together shots <span translate=\"no\"></span>of a photographer taking pictures in separate locations. ",
+  "<span translate=\"no\"></span>(شاترکردنی کامێرا) <span translate=\"no\"></span>لەم نموونەیەدا کاریگەری دەنگی <span translate=\"no\"></span>شاترێکی کامێرام لەسەر <span translate=\"no\"></span>بڕیوە بۆ یارمەتیدانی پرد بەیەکەوە <span translate=\"no\"></span>وێنەگرێک کە وێنە دەگرێت لە شوێنی جیادا. "
+ ],
+ [
+  "<span translate=\"no\"></span>As with any stylistic effect, <span translate=\"no\"></span>these techniques are not viable substitutes for substance. ",
+  "<span translate=\"no\"></span>لەگەڵ هەر کاریگەریەکی ستایلی، <span translate=\"no\"></span>ئەو تەکنیکانە جێگرەوەی ماددە نین. "
+ ],
+ [
+  "<span translate=\"no\"></span>They should be used purposefully to help tell your story. ",
+  "<span translate=\"no\"></span>ئەوان دەبێت بە مەبەست بەکار بهێنرێن بۆ ئەوەی یارمەتی چیرۆکەکەت بدەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Congratulations, you've now completed <span translate=\"no\"></span>CNN Academy's course on mobile storytelling. ",
+  "<span translate=\"no\"></span>پیرۆزە، تۆ ئێستا <span translate=\"no\"></span>خولی ئەکادیمیای سی ئێن ئێنت تەواو کردووە لەسەر چیرۆکبێژی مۆبایل. "
+ ],
+ [
+  "<span translate=\"no\"></span>With your smartphone as your camera, <span translate=\"no\"></span>you can bring visually compelling <span translate=\"no\"></span>and emotionally resonant stories into the world. ",
+  "<span translate=\"no\"></span>لەگەڵ مۆبایلە زیرەکەکەت وەک کامیراکەت، <span translate=\"no\"></span>دەتوانیت چیرۆکەکانی <span translate=\"no\"></span>و هەستەوە بە هەستەوە بھێنیتە ناو جیهان. "
+ ],
+ [
+  "<span translate=\"no\"></span>I look forward to watching them. ",
+  "<span translate=\"no\"></span>من چاوەرێی سەیرکردنی ئەوان دەکەم. "
+ ],
+ [
+  "<span translate=\"no\"></span>(light music) <span translate=\"no\"></span>Now that you have shot everything, <span translate=\"no\"></span>it's time to put your story together. ",
+  "<span translate=\"no\"></span>(مۆسیقای سووک) <span translate=\"no\"></span>ئێستا کە هەموو شتێکت تەقاند، <span translate=\"no\"></span>کاتی ئەوە هاتووە چیرۆکەکەت پێکەوە دابنێیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Non-fiction storytelling truly begins in post-production. ",
+  "<span translate=\"no\"></span>چیرۆک گێرانەوە بە ڕاستی لە دوای بەرهەمهێنانەوە دەست پێ دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>This is when you craft all the interviews, <span translate=\"no\"></span>sequences, and scenes you shot <span translate=\"no\"></span>into a compelling visual story. ",
+  "<span translate=\"no\"></span>ئەمە کاتێکە کە هەموو چاوپێکەوتنەکان، <span translate=\"no\"></span>زنجیرە، و دیمەنەکان کە تەقەت لە <span translate=\"no\"></span>کرد بۆ ناو چیرۆکێکی بینایی ناچارکەر. "
+ ],
+ [
+  "<span translate=\"no\"></span>First import all your footage into your project <span translate=\"no\"></span>and organize your files by subject matter <span translate=\"no\"></span>and types of footage. ",
+  "<span translate=\"no\"></span>یەکەم جار هەموو گرتەکانت بهێنە ناو پرۆژەکەت <span translate=\"no\"></span>و فایلەکانت ڕێکبخە بەپێی بابەتی <span translate=\"no\"></span>و جۆرەکانی گرتە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Next, create a radio edit of your best interview <span translate=\"no\"></span>and verite bites. ",
+  "<span translate=\"no\"></span>دواتر، ئیدتێکی ڕادیۆیی دروست بکە لە باشترین چاوپێکەوتنەکەت <span translate=\"no\"></span>و گازە راستەکان. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's called a radio edit because you should be able to <span translate=\"no\"></span>listen to the whole story before adding visuals. ",
+  "<span translate=\"no\"></span>پێی دەوترێت ئێدیتی رادیۆ چونکە پێویستە بتوانیت گوێ لە هەموو چیرۆکەکە <span translate=\"no\"></span>پێش زیادکردنی بینراوەکان. "
+ ],
+ [
+  "<span translate=\"no\"></span>Now you're ready to start adding footage <span translate=\"no\"></span>onto your timeline above your audio sequence. ",
+  "<span translate=\"no\"></span>ئێستا تۆ ئامادەیت بۆ دەستکردن بە زیادکردنی گرتە <span translate=\"no\"></span>بۆ سەر هێڵی کاتی لەسەر زنجیرەی دەنگەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Here are some best practices from our previous work for CNN <span translate=\"no\"></span>for how to proceed. ",
+  "<span translate=\"no\"></span>لێرە هەندێ باشترین ڕاهێنانن لە کاری پێشوومان بۆ سی ئێن ئێن <span translate=\"no\"></span>بۆ چۆنیەتی بەرەوپێش چوون. "
+ ],
+ [
+  "<span translate=\"no\"></span>First, it's important to craft strong opens <span translate=\"no\"></span>that grab the viewer's attention right away. ",
+  "<span translate=\"no\"></span>سەرەتا، گرینگە کە بە هێز بکرێتەوە <span translate=\"no\"></span>کە سەرنجی بینەری لێ دوور بخەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Ask yourself, what would spark your own curiosity <span translate=\"no\"></span>if you're watching your story? ",
+  "<span translate=\"no\"></span>لە خۆت بپرسە، چی خەمۆکی خۆت دەهەژێنێت <span translate=\"no\"></span>ئەگەر سەیری چیرۆکەکەت بکەیت؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>A good method is to select an engaging scene <span translate=\"no\"></span>or sequence of shots to open your story with. ",
+  "<span translate=\"no\"></span>شێوازێکی باش ئەوەیە کە دیمەنێکی سەرنجڕاکێش هەڵبژێریت <span translate=\"no\"></span>یان زنجیرەیەک لە تەقە کردن بۆ کردنەوەی چیرۆکەکەت لەگەڵ. "
+ ],
+ [
+  "<span translate=\"no\"></span>Perhaps it's a breathtakingly <span translate=\"no\"></span>beautiful shot that sets the mood of the piece, <span translate=\"no\"></span>or you drop the viewer into the middle <span translate=\"no\"></span>of a stunning action scene. ",
+  "<span translate=\"no\"></span>لەوانەیە لێدانێکی <span translate=\"no\"></span>جوان بێت کە مەزاجی پارچەکە ڕێک دەخات، <span translate=\"no\"></span>یان تۆ بینەرەکە دەبەزێنیت بۆ ناو <span translate=\"no\"></span>ناوەڕاستی دیمەنێکی کرداری سەرسوڕهێنەر. "
+ ],
+ [
+  "<span translate=\"no\"></span>When editing a sequence or scene, mix wide, <span translate=\"no\"></span>medium and tight shots to keep your viewer engaged. ",
+  "<span translate=\"no\"></span>لەکاتی بژارکردنی زنجیرەیەک یان دیمەنێک، پان و <span translate=\"no\"></span>تەقەی مامناوەند و توند تێکەڵ بکە بۆ ئەوەی بینەرەکەت سەرقاڵ بێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>This goes back to the three by three rule <span translate=\"no\"></span>when filming a process. ",
+  "<span translate=\"no\"></span>ئەمە دەگەڕێتەوە بۆ سێ بە سێ یاسا <span translate=\"no\"></span>کاتی وێنەگرتنی پڕۆسەیەک. "
+ ],
+ [
+  "<span translate=\"no\"></span>Having a variety of visuals will add context <span translate=\"no\"></span>and enrichen your story. ",
+  "<span translate=\"no\"></span>هەبوونی چەندین وێنەی جۆراوجۆر <span translate=\"no\"></span>دەق زیاد دەکات و چیرۆکەکەت دەوڵەمەند دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Also craft your scenes by leading with audio <span translate=\"no\"></span>instead of visuals, <span translate=\"no\"></span>it will smooth out your cuts and prime the viewer <span translate=\"no\"></span>for what is to come, <span translate=\"no\"></span>let actions play out before cutting. ",
+  "<span translate=\"no\"></span>هەروەها دیمەنەکانت بە ڕابەری کردن بە دەنگی <span translate=\"no\"></span>لە جیاتی بینراوەکان، <span translate=\"no\"></span>برینەکانت نەرم دەکاتەوە و بینەری <span translate=\"no\"></span>بۆ ئەوەی کە دێت، <span translate=\"no\"></span>ڕێگە بدە کردارەکان پێش بڕینیان یاری بکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Don't cut on an action that is incomplete <span translate=\"no\"></span>unless you're cutting to a different angle. ",
+  "<span translate=\"no\"></span>کردارێک نەبڕە کە ناتەواوە <span translate=\"no\"></span>مەگەر تۆ بڕین بۆ گۆشەیەکی تر. "
+ ],
+ [
+  "<span translate=\"no\"></span>Pay attention to the pacing of your story. ",
+  "<span translate=\"no\"></span>گرنگی بە بۆشایی چیرۆکەکەت بدە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Videos should be a carefully paced series of interviews <span translate=\"no\"></span>and narration mixed together with active scenes. ",
+  "<span translate=\"no\"></span>ڤیدیۆکان دەبێت زنجیرەیەک چاوپێکەوتنی بە وریاییەوە <span translate=\"no\"></span>و گێڕانەوە تێکەڵ بە دیمەنی چالاک بن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Likewise, avoid putting sound bites too close together. ",
+  "<span translate=\"no\"></span>بە هەمان شێوە، خۆت بەدوور بگرە لە دانانی گازە دەنگیەکان زۆر نزیک بە یەکەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Let the story breathe. ",
+  "<span translate=\"no\"></span>با چیرۆکەکە هەناسە بدات "
+ ],
+ [
+  "<span translate=\"no\"></span>Use transitions and dissolves sparingly. ",
+  "<span translate=\"no\"></span>گواستنەوەکان بەکاربێنە و بە خێرایی توانەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Transitions can note a passage of time. ",
+  "<span translate=\"no\"></span>گواستنەوەکان دەتوانن تێبینی تێپەڕبوونی کات بکەن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Adding elaborate transitions can be distracting <span translate=\"no\"></span>and disrupt the style of your piece. ",
+  "<span translate=\"no\"></span>زیادکردنی گواستنەوەی درێژە پێدراو دەتوانێت <span translate=\"no\"></span>سەرقاڵ بکات و شێوازی پارچەکەی تۆ تێکبشکێنێ. "
+ ],
+ [
+  "<span translate=\"no\"></span>A simple cut often works best. ",
+  "<span translate=\"no\"></span>بڕینێکی سادە زۆرجار باشترین کار دەکات. "
+ ],
+ [
+  "<span translate=\"no\"></span>Once your edit is locked, <span translate=\"no\"></span>it's time to polish sound and color. ",
+  "<span translate=\"no\"></span>کاتێک بژارکردنەکەت قوفڵ کرا، <span translate=\"no\"></span>کاتی ئەوە هاتووە دەنگ و ڕەنگی پۆڵەندی بکەیت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Mix your audio and listen to it several times <span translate=\"no\"></span>to make sure it sounds right. ",
+  "<span translate=\"no\"></span>دەنگەکەت تێکەڵ بکە و چەند جارێک گوێبگریت <span translate=\"no\"></span>بۆ دڵنیا بوون لەوەی کە بە ڕاستی دیارە. "
+ ],
+ [
+  "<span translate=\"no\"></span>But wait until after your timeline is locked and finished <span translate=\"no\"></span>before perfecting your audio mix. ",
+  "<span translate=\"no\"></span>بەڵام چاوەڕێبە تا دوای ئەوەی هێڵی کاتت داخراوە و تەواو دەبێت <span translate=\"no\"></span>پێش تەواوکردنی میکسی دەنگی. "
+ ],
+ [
+  "<span translate=\"no\"></span>That way you're not wasting time by doing unnecessary work. ",
+  "<span translate=\"no\"></span>بەو شێوەیە تۆ کات بەفیڕۆ نادەیت بە ئەنجامدانی کاری ناپێویست. "
+ ],
+ [
+  "<span translate=\"no\"></span>Likewise, at this stage, <span translate=\"no\"></span>you should color correct your footage so that your visuals <span translate=\"no\"></span>are uniform and look their best. ",
+  "<span translate=\"no\"></span>، لەم قۆناغەدا، <span translate=\"no\"></span>دەبێت گرتەکانت ڕاست بکەیتەوە بۆ ئەوەی بینراوەکانت <span translate=\"no\"></span>یەکڕەنگ بن و باشترینی ئەوان دەرکەون. "
+ ],
+ [
+  "<span translate=\"no\"></span>(lively music) <span translate=\"no\"></span>(logo whooshing) <span translate=\"no\"></span>Light is the single most important factor <span translate=\"no\"></span>in determining how your image looks. ",
+  "<span translate=\"no\"></span>(مۆسیقای زیندوو) <span translate=\"no\"></span>(لۆگۆ وۆشینگ) <span translate=\"no\"></span>لایت تاکە فاکتەری گرینگە <span translate=\"no\"></span>لە دیاریکردنی چۆنیەتی سەیرکردنی وێنەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Lighting can take years to master, <span translate=\"no\"></span>but there are some simple rules and techniques you can learn <span translate=\"no\"></span>to help you use different light sources to your advantage. ",
+  "<span translate=\"no\"></span>ڕوناکی دەتوانێت چەند ساڵێک بخایەنێت بۆ ماستەر، <span translate=\"no\"></span>بەڵام هەندێک یاسا و تەکنیکێکی سادە هەیە کە دەتوانیت فێربیت <span translate=\"no\"></span>بۆ یارمەتیدانت بۆ بەکارهێنانی سەرچاوەی ڕوناکی جیاواز بۆ بەرژەوەندی خۆت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Using natural light to light your scene is most common <span translate=\"no\"></span>if possible to shoot during the time of day <span translate=\"no\"></span>when the sun isn't at its strongest. ",
+  "<span translate=\"no\"></span>بەکارهێنانی ڕووناکی سروشتی بۆ ڕووناکی دیمەنەکەت زۆر باوترە <span translate=\"no\"></span>ئەگەر بکرێت تەقە بکەیت لەکاتی ڕۆژدا <span translate=\"no\"></span>کاتێک خۆر بەهێزترینی خۆی نییە. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you have to shoot midday, <span translate=\"no\"></span>try and find some shade to avoid subject squinting <span translate=\"no\"></span>or having harsh shadows on their faces. ",
+  "<span translate=\"no\"></span>ئەگەر دەبێت نیوە ڕۆژ تەقە بکەیت، <span translate=\"no\"></span>هەوڵ بدەیت و هەندێک سێبەر بدۆزیتەوە بۆ ئەوەی لە <span translate=\"no\"></span>بابەت دوور بکەونەوە یان سێبەرێکی توند لەسەر دەموچاویان هەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>(lively music) <span translate=\"no\"></span>Filming an hour before sunset can produce magical results, <span translate=\"no\"></span>which is why that time of day is often called magic hour. ",
+  "<span translate=\"no\"></span>(مۆسیقای زیندوو) <span translate=\"no\"></span>وێنەگرتنی کاتژمێرێک پێش خۆرئاوابوون دەتوانێت ئەنجامی جادوویی بەرهەم بهێنێت، <span translate=\"no\"></span>بۆیە زۆرجار ئەو کاتە بە کاتژمێری جادوو ناودەبرێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you're filming sit down interviews with subjects, <span translate=\"no\"></span>external lighting may be required. ",
+  "<span translate=\"no\"></span>ئەگەر تۆ خەریکی وێنەگرتنی چاوپێکەوتن لەگەڵ بابەتەکان دابنیشیت، <span translate=\"no\"></span>ڕوناکی دەرەکی پێویستە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Three point lighting is one of the most common techniques <span translate=\"no\"></span>used for interviews. ",
+  "<span translate=\"no\"></span>ڕووناکی سێ خاڵ یەکێکە لە تەکنیکە باوەکان <span translate=\"no\"></span>بۆ چاوپێکەوتنەکان بەکاردێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's called three point lighting <span translate=\"no\"></span>because three light sources are required <span translate=\"no\"></span>to aluminate the interview subject, <span translate=\"no\"></span>a key light, a fill light, and a backlight. ",
+  "<span translate=\"no\"></span>پێی دەوترێت ڕووناکی سێ خاڵ <span translate=\"no\"></span>چونکە سێ سەرچاوەی ڕوناکی داواکراون <span translate=\"no\"></span>بۆ کاڵکردنەوەی بابەتی چاوپێکەوتنەکە <span translate=\"no\"></span>ڕووناکیەکی سەرەکی و ڕووناکی پڕکردنەوە و ڕووناکی دواوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>How you light your interview <span translate=\"no\"></span>depends on the style of your video, <span translate=\"no\"></span>but in general, <span translate=\"no\"></span>you'll want a balance of light and shadow <span translate=\"no\"></span>on your subject's face. ",
+  "<span translate=\"no\"></span>چۆن چاوپێکەوتنەکەت ڕووناک دەکەیت <span translate=\"no\"></span>پشت دەبەستێت بە شێوازی ڤیدیۆکەت، <span translate=\"no\"></span>بەڵام بە گشتی، <span translate=\"no\"></span>تەرازووی ڕووناکی و سێبەرت دەوێت <span translate=\"no\"></span>لەسەر ڕوخساری بابەتەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Just be careful not to blow out your subject <span translate=\"no\"></span>by blasting too much light. ",
+  "<span translate=\"no\"></span>تەنها وریابە کە بابەتەکەت <span translate=\"no\"></span>بە تەقینەوەی ڕووناکی زۆر نەتەقێنیتەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>Odds are if you're shooting with a smartphone, <span translate=\"no\"></span>you aren't going to have big lights with you, <span translate=\"no\"></span>but having three-point lighting <span translate=\"no\"></span>doesn't mean you need to bring three external lights. ",
+  "<span translate=\"no\"></span>ئەگەر تۆ بە مۆبایلێکی زیرەک تەقە بکەیت، <span translate=\"no\"></span>ڕوناکی گەورەت لەگەڵت نابێت، <span translate=\"no\"></span>بەڵام بوونی ڕووناکی سێ خاڵی <span translate=\"no\"></span>مانای ئەوە نییە کە پێویستت بە هێنانی سێ چرای دەرەکی نییە. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can use various light sources to light your interview. ",
+  "<span translate=\"no\"></span>دەتوانیت سەرچاوەی ڕوناکی جۆراوجۆر بەکاربهێنیت بۆ ڕوناککردنی چاوپێکەوتنەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Portable led lights, natural light, <span translate=\"no\"></span>and lamps in your shooting environment <span translate=\"no\"></span>can all be used to properly illuminate your shot. ",
+  "<span translate=\"no\"></span>گڵۆپی پۆرتبڵ، ڕووناکی سروشتی، <span translate=\"no\"></span>و چراکان لە ژینگەی تەقەکردنەکەتدا <span translate=\"no\"></span>هەمووی ئەتوانن بەکار بهێنرێن بۆ ئەوەی بە باشی لێدانەکەت ڕووناک بکەنەوە. "
+ ],
+ [
+  "<span translate=\"no\"></span>(upbeat theme chimes) <span translate=\"no\"></span>Earlier we talked about the benefits <span translate=\"no\"></span>of smartphone's small size. ",
+  "<span translate=\"no\"></span> <span translate=\"no\"></span>پێشتر باسمان لە سوودەکانی <span translate=\"no\"></span>قەبارەی بچووکی مۆبایلە زیرەکەکان کرد. "
+ ],
+ [
+  "They're discreet and portable. ",
+  "ئەوان بێ ڕەوشن و هەڵگرن "
+ ],
+ [
+  "<span translate=\"no\"></span>Despite their easy portability, there are times <span translate=\"no\"></span>when you'll need extra accessories to stabilize them. ",
+  "<span translate=\"no\"></span>سەرەڕای ئاسانبوونیان، کات هەیە <span translate=\"no\"></span>کاتێک پێویستت بە ئێکسسواراتی زیاتر هەیە بۆ جێگیرکردنیان. "
+ ],
+ [
+  "<span translate=\"no\"></span>For instance, if you're going to be filming an interview, <span translate=\"no\"></span>you're going to need a tripod. ",
+  "<span translate=\"no\"></span>بۆ نمونە، ئەگەر تۆ خەریکی وێنەگرتنی چاوپێکەوتنێک دەبیت، <span translate=\"no\"></span>پێویستت بە سێ قات دەبێت. "
+ ],
+ [
+  "<span translate=\"no\"></span>They're also handy for capturing stable footage, <span translate=\"no\"></span>from wide landscapes to smooth pans and tilts, <span translate=\"no\"></span>to close ups. ",
+  "<span translate=\"no\"></span>ئەوان هەروەها دەستن بۆ گرتنی گرتە جێگیرەکان، <span translate=\"no\"></span>لە دیمەنە فراوانەکانەوە بۆ تاو و تاوەکان، <span translate=\"no\"></span>بۆ داخستن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Gimbals allow you to capture smooth tracking shots. ",
+  "<span translate=\"no\"></span>گیمپاڵس ڕێگەت پێدەدات کە وێنەی شوێنکەوتنی نەرم بگری "
+ ],
+ [
+  "<span translate=\"no\"></span>A tracking shot is any shot <span translate=\"no\"></span>where your camera follows backward, forward, <span translate=\"no\"></span>or moves along the same plain as your subject. ",
+  "<span translate=\"no\"></span>لێدانێکی بەدواکەوتن هەر لێدانێکە <span translate=\"no\"></span>کە کامێراکەت بەدوای دواوە، بەرەو پێشەوە، <span translate=\"no\"></span>یان بجوڵێت بە درێژایی هەمان سادەی بابەتەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>They allow to add cinematic style to your story. ",
+  "<span translate=\"no\"></span>ئەوان ڕێگە بە زیادکردنی شێوازی سینەمایی دەدەن بۆ چیرۆکەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Another way to add heft to your smartphone, <span translate=\"no\"></span>while making it a functional camera rig, <span translate=\"no\"></span>is by attaching cages and support brackets. ",
+  "<span translate=\"no\"></span>ڕێگایەکی تر بۆ زیادکردنی تەختە بۆ مۆبایلە زیرەکەکەت، <span translate=\"no\"></span>لە کاتی دروستکردنی دۆکی کامێرای کارامە، <span translate=\"no\"></span>بە لکاندنی قەفەز و پاڵپشتی کەوانەیە. "
+ ],
+ [
+  "<span translate=\"no\"></span>This will allow you to mount microphones, lights, <span translate=\"no\"></span>and other accessories that are essential <span translate=\"no\"></span>in gathering your story elements. ",
+  "<span translate=\"no\"></span>ئەمە ڕێگەت پێدەدات کە مایکرۆفۆنەکان، ڕووناکیەکان، <span translate=\"no\"></span>و کەرەستەکانی تر کە <span translate=\"no\"></span>گرنگن لە کۆکردنەوەی توخمەکانی چیرۆکەکەت. "
+ ],
+ [
+  "<span translate=\"no\"></span>There is no one right way to rig up your smartphone, <span translate=\"no\"></span>and much of it is dependent <span translate=\"no\"></span>on what's most comfortable and practical for you. ",
+  "<span translate=\"no\"></span>هیچ ڕێگەیەکی ڕاست نییە بۆ چاککردنی مۆبایلە زیرەکەکەت، <span translate=\"no\"></span>و زۆربەی ئەو <span translate=\"no\"></span>پشتبەستووە بەوەی کە بۆ تۆ ئاسوودەترین و پراکتیکە. "
+ ],
+ [
+  "<span translate=\"no\"></span>The most important thing is to be able to capture <span translate=\"no\"></span>steady, usable shots and high-quality audio <span translate=\"no\"></span>at a moment's notice.\n(upbeat ",
+  "<span translate=\"no\"></span>گرینگترین شت ئەوەیە کە بتوانیت <span translate=\"no\"></span>بە جێگیری، تەقەی شیاو و دەنگی بەرز <span translate=\"no\"></span>لە ساتێکدا بگرین.\n(لێدانێکی بەرز "
+ ],
+ [
+  "theme chimes) ",
+  "شیمەکانی ڕووکار) "
+ ]
+]
