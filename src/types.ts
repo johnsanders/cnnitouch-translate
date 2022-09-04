@@ -7,3 +7,4 @@ export interface GenericSpan {
 	};
 }
 export type Pair = [string, string];
+export type LanguageName = 'Arabic' | 'Kurdish' | 'Spanish';

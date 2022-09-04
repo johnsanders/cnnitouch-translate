@@ -1,5 +1,5 @@
 import * as handlePairs from './handlePairs.js';
-import { LanguageName } from './translateText.js';
+import { LanguageName } from './types.js';
 import { parseArgs } from 'node:util';
 
 const { values: args } = parseArgs({

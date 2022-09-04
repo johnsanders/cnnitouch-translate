@@ -1,8 +1,9 @@
 import { jsToXliff12, xliff12ToJs } from 'xliff';
-import translateText, { LanguageName } from './translateText.js';
+import { LanguageName } from './types.js';
 import { cloneDeep } from 'lodash-es';
 import fs from 'fs';
 import { parseArgs } from 'node:util';
+import translateText from './translateText.js';
 
 const { values: args } = parseArgs({
 	options: { input: { type: 'string' }, lang: { type: 'string' }, limit: { type: 'string' } },

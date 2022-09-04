@@ -1,17 +1,22 @@
-import { LanguageName } from './translateText';
+import { LanguageName } from './types';
 import { parseArgs } from 'node:util';
 
-export const captions = () => {
+export const vimeo = () => {
 	const { values: args } = parseArgs({
-		options: { deleteInactive: { type: 'boolean' }, lang: { type: 'string' } },
+		options: {
+			deleteInactive: { type: 'boolean' },
+			lang: { type: 'string' },
+			mode: { type: 'string' },
+		},
 	});
-	if (!args.lang) {
-		console.log('--lang=languageToDownload --deleteInactive');
+	if (!args.mode || (args.mode === 'caption' && !args.lang)) {
+		console.log('--mode=video|caption --lang=languageToDownload --deleteInactive');
 		process.exit(1);
 	}
 	const languageName = args.lang as LanguageName;
 	const deleteInactive = args.deleteInactive;
-	return { deleteInactive, languageName };
+	const mode = args.mode;
+	return { deleteInactive, languageName, mode };
 };
 
 export const csv = () => {

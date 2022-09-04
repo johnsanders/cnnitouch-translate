@@ -8,7 +8,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-		"downloadCaptions": "node ./build/captionsDownload.js",
+		"vimeo": "node ./build/vimeoTasks.js",
     "csvToVtt": "node ./build/csvToVtt.js",
     "update": "npx --yes npm-check-updates -u --timeout 60000",
     "vttToCsv": "node ./build/vttToCsv.js",

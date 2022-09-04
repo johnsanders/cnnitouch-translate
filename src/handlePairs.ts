@@ -1,4 +1,4 @@
-import { LanguageName } from './translateText';
+import { LanguageName } from './types';
 import fs from 'fs';
 
 const pairsPath = './src/pairs';
