@@ -8,9 +8,10 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-		"vimeo": "node ./build/vimeoTasks.js",
     "csvToVtt": "node ./build/csvToVtt.js",
+    "csvToXlif": "node ./build/csvToXlif.js",
     "update": "npx --yes npm-check-updates -u --timeout 60000",
+		"vimeo": "node ./build/vimeo/vimeoTasks.js",
     "vttToCsv": "node ./build/vttToCsv.js",
     "watch": "tsc --watch",
 		"wordCount": "node ./build/wordCount.js",

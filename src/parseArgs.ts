@@ -5,18 +5,20 @@ export const vimeo = () => {
 	const { values: args } = parseArgs({
 		options: {
 			deleteInactive: { type: 'boolean' },
+			input: { type: 'string' },
 			lang: { type: 'string' },
 			mode: { type: 'string' },
 		},
 	});
-	if (!args.mode || (args.mode === 'caption' && !args.lang)) {
-		console.log('--mode=video|caption --lang=languageToDownload --deleteInactive');
+	if (!args.mode || (args.mode.includes('captions') && (!args.lang || !args.input))) {
+		console.log('--mode=videos|captionsDown|captionsUp --lang=languageToDownload --deleteInactive');
 		process.exit(1);
 	}
 	const languageName = args.lang as LanguageName;
 	const deleteInactive = args.deleteInactive;
-	const mode = args.mode;
-	return { deleteInactive, languageName, mode };
+	const contentName = args.input as string;
+	const mode = args.mode as 'videos' | 'captionsDown' | 'captionsUp';
+	return { contentName, deleteInactive, languageName, mode };
 };
 
 export const csv = () => {

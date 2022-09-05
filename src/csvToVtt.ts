@@ -7,10 +7,11 @@ import readCsv from './readCsv.js';
 
 const type = 'vtt';
 const { contentName, languageName } = parseCsvArgs();
-const vttInPath = `./filesIn/vtt-${contentName.toLowerCase()}`;
-const vttOutPath = `./filesOut/vtt-${contentName.toLowerCase()}`;
-const csvPath = './filesIn';
+const vttInPath = `./filesIn/vtt/${contentName}`;
+const vttOutPath = `./filesOut/vtt/${contentName}-${languageName.toLowerCase()}`;
+const csvPath = './filesIn/csv';
 const serializer = new VttParser.WebVTTSerializer();
+const filenames = fs.readdirSync(vttInPath);
 
 const handleFile = async (filename: string, pairs: Pair[]) => {
 	console.log('File:', filename);
@@ -23,17 +24,17 @@ const handleFile = async (filename: string, pairs: Pair[]) => {
 		cue.tree.children[0].value = cue.text = translated ? translated[1] : text;
 	}
 	const serialized = serializer.serialize(tree.cues);
-	fs.writeFileSync(`${vttOutPath}/${filename}`, serialized);
+	const filePath = `${vttOutPath}/${filename}`;
+	fs.writeFileSync(filePath, serialized);
+	console.log(`Wrote ${filePath}`);
 };
 
 const run = async () => {
+	if (!fs.existsSync(vttOutPath)) fs.mkdirSync(vttOutPath);
 	const pairs = (await readCsv(`${csvPath}/${contentName}-${languageName}-${type}.csv`)) as [
 		string,
 		string,
 	][];
-	const filenames = fs.readdirSync(vttInPath);
-	for (const filename of filenames) {
-		await handleFile(filename, pairs);
-	}
+	for (const filename of filenames) await handleFile(filename, pairs);
 };
 run();
