@@ -1,0 +1,1558 @@
+[
+ [
+  "When News Breaks: Newsgathering (Arabic)",
+  "عندما تتكسر الأخبار: جمع الأخبار (باللغة العربية)"
+ ],
+ [
+  "This course is designed to help you understand how CNN decides what is breaking news, how we categorize breaking news stories in terms of significance, and what steps CNN goes through as we respond to a breaking story.",
+  "تم تصميم هذه الدورة لمساعدتك على فهم كيف تقرر CNN ما هي الأخبار العاجلة, كيف نصنف القصص الإخبارية العاجلة من حيث الأهمية, وما هي الخطوات التي تمر بها CNN أثناء استجابتنا لقصة عاجلة."
+ ],
+ [
+  "Click the \"",
+  "انقر فوق»"
+ ],
+ [
+  "Start Course",
+  "بدء الدورة"
+ ],
+ [
+  "\" button to begin.",
+  "«زر للبدء."
+ ],
+ [
+  "Introduction",
+  "مقدمة"
+ ],
+ [
+  "Breaking News Definition ",
+  "تعريف الأخبار العاجلة "
+ ],
+ [
+  "What is Breaking News?",
+  "ما هي الأخبار العاجلة؟"
+ ],
+ [
+  "Breaking news is an event we didn't anticipate. It is an unexpected development that requires us to pull all our resources together immediately to provide quick and accurate information to our audience. In many cases we will \"break\" into our regular programming to tell the audience about it even if, at first, we don't have all the details. ",
+  "الأخبار العاجلة هي حدث لم نتوقعه. إنه تطور غير متوقع يتطلب منا جمع جميع مواردنا معًا على الفور لتوفير معلومات سريعة ودقيقة لجمهورنا. في كثير من الحالات، سنقوم «باقتحام» برامجنا العادية لإخبار الجمهور عنها حتى لو لم يكن لدينا، في البداية، كل التفاصيل. "
+ ],
+ [
+  "Breaking news also refers to any significant advance on a story we're already covering. It can be a new piece of information that we feel our audience needs to know about. So the spectrum of breaking news is extensive, it can range from everything from a terror attack to something that's happening on the field of battle, to a weather event, to a political resignation.    ",
+  "تشير الأخبار العاجلة أيضًا إلى أي تقدم كبير في قصة نغطيها بالفعل. يمكن أن تكون معلومة جديدة نشعر أن جمهورنا بحاجة إلى معرفتها. لذا فإن طيف الأخبار العاجلة واسع النطاق، ويمكن أن يتراوح من كل شيء من هجوم إرهابي إلى شيء يحدث في ميدان المعركة، إلى حدث طقس، إلى استقالة سياسية. "
+ ],
+ [
+  "Ram Ramgopal, CNN Row Executive Editor",
+  "رام رامغوبل، محرر سي إن إن رو التنفيذي"
+ ],
+ [
+  "We look at breaking news as any significant advance on a story or a story that comes out of the blue. Something that we were not expecting and something that needs to be translated into copy that can go on air immediately. ",
+  "نحن ننظر إلى الأخبار العاجلة على أنها أي تقدم كبير في قصة أو قصة تخرج من فراغ. شيء لم نكن نتوقعه وشيء يحتاج إلى ترجمته إلى نسخة يمكن بثه على الهواء على الفور. "
+ ],
+ [
+  "Understanding On-Screen Breaking News Cues ",
+  "فهم إشارات الأخبار العاجلة على الشاشة "
+ ],
+ [
+  "This red tab is a visible indicator to our audience that we are in breaking news coverage and the story we are bringing them is a new development.  It conveys a sense of urgency and helps our audience immediately recognize the importance of the story we are covering on air.",
+  "علامة التبويب الحمراء هذه هي مؤشر مرئي لجمهورنا على أننا في تغطية إخبارية عاجلة والقصة التي نقدمها لهم هي تطور جديد. إنه ينقل إحساسًا بالإلحاح ويساعد جمهورنا على التعرف على الفور على أهمية القصة التي نغطيها على الهواء."
+ ],
+ [
+  "Breaking News Tab",
+  "علامة تبويب الأخبار العاجلة"
+ ],
+ [
+  "This is a headline banner. It conveys a good snapshot of what the story is about. We communicate the key elements of a breaking news story with our audience using such banners. ",
+  "هذا هو شعار العنوان. إنه ينقل لقطة جيدة لما تدور حوله القصة. نقوم بتوصيل العناصر الرئيسية لقصة الأخبار العاجلة مع جمهورنا باستخدام مثل هذه اللافتات. "
+ ],
+ [
+  "Headline Banner",
+  "شعار العنوان"
+ ],
+ [
+  "CNN is known around the world for breaking news coverage. The Live tab indicates a sense of urgency to the audience and lets them know that they are receiving information as it happens. ",
+  "تشتهر CNN في جميع أنحاء العالم بتغطية الأخبار العاجلة. تشير علامة التبويب Live إلى شعور بالإلحاح لدى الجمهور وتتيح لهم معرفة أنهم يتلقون المعلومات فور حدوثها. "
+ ],
+ [
+  "Live",
+  "بث مباشر"
+ ],
+ [
+  "CNN anchors are journalists with years of experience covering major breaking news stories. During breaking news coverage they become the key conduit between the reporters and eyewitnesses on the ground and the audience watching at home. They tap into their years of experience and knowledge about global affairs to provide context around a specific event and to help the audience understand the nuance of a specific event. ",
+  "مذيعو CNN هم صحفيون يتمتعون بسنوات من الخبرة في تغطية الأخبار العاجلة الرئيسية. خلال التغطية الإخبارية العاجلة، أصبحوا القناة الرئيسية بين المراسلين وشهود العيان على الأرض والجمهور الذي يشاهد في المنزل. إنهم يستفيدون من سنوات خبرتهم ومعرفتهم بالشؤون العالمية لتوفير سياق حول حدث معين ومساعدة الجمهور على فهم الفروق الدقيقة لحدث معين. "
+ ],
+ [
+  "Wolf Blitzer is CNN's lead political anchor and the anchor of The Situation Room with Wolf Blitzer. Find out ",
+  "وولف بليتزر هو المذيع السياسي الرئيسي لشبكة CNN ومذيع غرفة الموقف مع وولف بليتزر. اكتشف "
+ ],
+ [
+  "more about Wolf",
+  "المزيد عن وولف"
+ ],
+ [
+  ".",
+  "."
+ ],
+ [
+  "The Anchor",
+  "ذا أنكور"
+ ],
+ [
+  "Television, as the name suggests, is a visual medium. Video and images are key to our storytelling on TV and continuously bringing viewers the latest visuals is of the greatest importance to CNN.",
+  "التلفزيون، كما يوحي الاسم، هو وسيلة بصرية. يعد الفيديو والصور مفتاحًا لرواية القصص على التلفزيون، كما أن جلب أحدث المرئيات للمشاهدين باستمرار له أهمية قصوى لشبكة CNN."
+ ],
+ [
+  "The Live Shot",
+  "ذا لايف شوت"
+ ],
+ [
+  "This tells the viewer the location from which these images are being broadcast and the time at that location. It is very important to use such on-screen furniture to communicate elements of the story to the viewer in a clear way.",
+  "هذا يخبر المشاهد بالموقع الذي يتم بث هذه الصور منه والوقت في ذلك الموقع. من المهم جدًا استخدام مثل هذا الأثاث الذي يظهر على الشاشة لتوصيل عناصر القصة إلى المشاهد بطريقة واضحة."
+ ],
+ [
+  "Time & Location",
+  "الوقت والموقع"
+ ],
+ [
+  "Breaking news is an unexpected event or a significant development in an ongoing story that requires us to break into our regular programming. ",
+  "الأخبار العاجلة هي حدث غير متوقع أو تطور مهم في قصة مستمرة تتطلب منا اقتحام برامجنا العادية. "
+ ],
+ [
+  "Breaking news is an unexpected event that we couldn't plan for or a significant development in an ongoing story that requires us to break into our regular programming. ",
+  "الأخبار العاجلة هي حدث غير متوقع لم نتمكن من التخطيط له أو تطور كبير في قصة مستمرة تتطلب منا اقتحام برامجنا العادية. "
+ ],
+ [
+  "Breaking news is...",
+  "الأخبار العاجلة هي..."
+ ],
+ [
+  "An unexpected event",
+  "حدث غير متوقع"
+ ],
+ [
+  "Every news story is a breaking news story at some point ",
+  "كل قصة إخبارية هي قصة إخبارية عاجلة في مرحلة ما. "
+ ],
+ [
+  "Very important so we planned for it and are ready to cover it",
+  "مهم جدًا، لذلك خططنا له ومستعدون لتغطيته."
+ ],
+ [
+  "A significant development in an ongoing story ",
+  "تطور كبير في قصة مستمرة "
+ ],
+ [
+  "Complete the content above before moving on.",
+  "أكمل المحتوى أعلاه قبل الانتقال."
+ ],
+ [
+  "CONTINUE",
+  "استمر"
+ ],
+ [
+  "Levels of Breaking News",
+  "مستويات الأخبار العاجلة"
+ ],
+ [
+  "Determining the level of a breaking news story is inherently subjective. A change in government in a smaller country is certainly a major political development there but it might not resonate beyond its borders. One producer might consider a development in a story to warrant breaking news coverage while others in the newsroom might dismiss it as an incremental development. ",
+  "إن تحديد مستوى قصة الأخبار العاجلة أمر شخصي بطبيعته. من المؤكد أن التغيير في الحكومة في بلد أصغر هو تطور سياسي كبير هناك، لكنه قد لا يتردد صداه خارج حدوده. قد يفكر أحد المنتجين في حدوث تطور في قصة ما لضمان تغطية إخبارية عاجلة بينما قد يرفضها آخرون في غرفة الأخبار على أنها تطور تدريجي. "
+ ],
+ [
+  "\"In the first instance, we deal with most forms of breaking news in much the same way. But then the question is, what are the consequences going to be? What sort of fallout will there be? Those are the kinds of questions that give breaking news a certain longevity and those are the things that we would be asking ourselves in terms of how we would be treating the level of breaking news as it happens.\" ",
+  "«في المقام الأول، نتعامل مع معظم أشكال الأخبار العاجلة بنفس الطريقة تقريبًا. ولكن السؤال هو، ما هي العواقب التي ستكون؟ أي نوع من التداعيات سيكون هناك؟ هذه هي أنواع الأسئلة التي تعطي الأخبار العاجلة طول عمر معين وهذه هي الأشياء التي سنطرحها على أنفسنا من حيث كيفية تعاملنا مع مستوى الأخبار العاجلة فور حدوثها». "
+ ],
+ [
+  "Caroline Paterson, Executive Director of Coverage",
+  "كارولين باترسون، المدير التنفيذي للتغطية"
+ ],
+ [
+  "These are key elements that help us determine the significance of any breaking news story:",
+  "هذه هي العناصر الأساسية التي تساعدنا على تحديد أهمية أي قصة إخبارية عاجلة:"
+ ],
+ [
+  "The third element we look at is the longevity of this breaking news event. How long this story is going to need our full-attention? Do we think this story which is currently developing will have longer-term implications?",
+  "العنصر الثالث الذي ننظر إليه هو طول عمر هذا الحدث الإخباري العاجل. إلى متى ستحتاج هذه القصة إلى اهتمامنا الكامل؟ هل نعتقد أن هذه القصة التي يتم تطويرها حاليًا سيكون لها آثار طويلة المدى؟"
+ ],
+ [
+  "Of course we don't have a crystal ball to help us predict the future. But we can assess the facts that we have at the time to determine a story's longevity. We know, for example, a major terrorist attack in a key metropolis of a global superpower will trigger a series of events that go way beyond the immediate ground zero of the story. Recognizing that, we prepare our coverage plans and restructure our teams to meet those upcoming needs. ",
+  "بالطبع ليس لدينا كرة بلورية لمساعدتنا على التنبؤ بالمستقبل. ولكن يمكننا تقييم الحقائق التي لدينا في ذلك الوقت لتحديد طول عمر القصة. نحن نعلم، على سبيل المثال، أن هجومًا إرهابيًا كبيرًا في مدينة رئيسية لقوة عظمى عالمية سيؤدي إلى سلسلة من الأحداث التي تتجاوز نقطة الصفر المباشرة للقصة. إدراكًا منا لذلك، نقوم بإعداد خطط التغطية الخاصة بنا وإعادة هيكلة فرقنا لتلبية تلك الاحتياجات القادمة. "
+ ],
+ [
+  "At 8:49 a.m. on a Sept. 11, 2001, CNN got the first report of a plane hitting one of the World Trade Center towers. This is how we initially covered the story that changed our world forever.",
+  "وفى الساعة 8:49 من صباح يوم 11 سبتمبر 2001، تلقت شبكة سى ان ان اول تقرير عن اصطدام طائرة بأحد ابراج مركز التجارة العالمى. هذه هي الطريقة التي غطينا بها في البداية القصة التي غيرت عالمنا إلى الأبد."
+ ],
+ [
+  "Longevity",
+  "طول العمر"
+ ],
+ [
+  "The second element we look at is the scope of the breaking news event. Will it have broader ramifications beyond its immediate surroundings? Will this event involve a large number of people spread across the world?  ",
+  "العنصر الثاني الذي ننظر إليه هو نطاق حدث الأخبار العاجلة. هل سيكون لها تداعيات أوسع تتجاوز محيطها المباشر؟ هل سيشمل هذا الحدث عددًا كبيرًا من الأشخاص المنتشرين في جميع أنحاء العالم؟ "
+ ],
+ [
+  "Take the ongoing global pandemic spurred by COVID-19. It has a truly global scope, impacting people all around the world on multiple levels. That is why it has dominated the news agenda for most of 2020 and newsrooms continue to report developments within the story as breaking news. ",
+  "خذ على سبيل المثال الوباء العالمي المستمر الذي حفزه COVID-19. لديها نطاق عالمي حقيقي، مما يؤثر على الناس في جميع أنحاء العالم على مستويات متعددة. هذا هو السبب في أنها سيطرت على أجندة الأخبار لمعظم عام 2020 وتواصل غرف الأخبار الإبلاغ عن التطورات داخل القصة كأخبار عاجلة. "
+ ],
+ [
+  "Click here to read the latest CNN reporting on the ",
+  "انقر هنا لقراءة أحدث تقارير CNN على "
+ ],
+ [
+  "COVID-19 global pandemic",
+  "جائحة COVID-19 العالمية"
+ ],
+ [
+  " and watch some of our breaking news coverage of the onset of the story below. ",
+  " وشاهد بعض تغطيتنا الإخبارية العاجلة لبداية القصة أدناه. "
+ ],
+ [
+  "Scope",
+  "النطاق"
+ ],
+ [
+  "The first element that we look at when determining the level of a breaking news story is its immediate impact. Is this event going to result in significant loss of life? Will this event push adversaries to war or pave the way for the end of a conflict? Will are its financial, social, or political ramifications? ",
+  "العنصر الأول الذي ننظر إليه عند تحديد مستوى قصة الأخبار العاجلة هو تأثيرها الفوري. هل سيؤدي هذا الحدث إلى خسائر كبيرة في الأرواح؟ هل سيدفع هذا الحدث الخصوم إلى الحرب أم يمهد الطريق لإنهاء الصراع؟ هل ستكون تداعياته المالية أو الاجتماعية أو السياسية؟ "
+ ],
+ [
+  "Natural disasters are breaking news stories that have a very visible immediate impact. A Category 5 hurricane or a powerful earthquake will undoubtedly wreck havoc where they hit. So we can immediately mobilize our resources to be ready to cover the story as it unfolds. ",
+  "الكوارث الطبيعية هي قصص إخبارية عاجلة لها تأثير فوري واضح للغاية. إعصار من الفئة 5 أو زلزال قوي سيؤدي بلا شك إلى تدمير الخراب حيث ضربوا. حتى نتمكن من تعبئة مواردنا على الفور لنكون مستعدين لتغطية القصة أثناء ظهورها. "
+ ],
+ [
+  "Watch some of CNN's coverage of the most powerful earthquake to ever to hit ",
+  "شاهد بعض تغطية CNN لأقوى زلزال على الإطلاق "
+ ],
+ [
+  "Japan in March 2011",
+  "اليابان في مارس 2011"
+ ],
+ [
+  " and the tsunami it triggered.",
+  " والتسونامي الذي أحدثته."
+ ],
+ [
+  "Impact",
+  "إمباكت"
+ ],
+ [
+  "Communicating The Significance of a Breaking News Story",
+  "إيصال أهمية قصة الأخبار العاجلة"
+ ],
+ [
+  "Every news organization has an internal system that allows its ",
+  "كل مؤسسة إخبارية لديها نظام داخلي يسمح لها "
+ ],
+ [
+  "newsgathering",
+  "جمع الأخبار"
+ ],
+ [
+  " operation, comprised of reporters in the field, social newsgathering teams, and editors on the newsdesk, to communicate the significance of a news story to the ",
+  " العملية، التي تتألف من مراسلين في الميدان، وفرق جمع الأخبار الاجتماعية، والمحررين في مكتب الأخبار، لإيصال أهمية قصة إخبارية إلى "
+ ],
+ [
+  "programming",
+  "برمجة"
+ ],
+ [
+  " teams that put out the news on TV or digital platforms. ",
+  " الفرق التي تنشر الأخبار على التلفزيون أو المنصات الرقمية. "
+ ],
+ [
+  "The newsgathering team at CNN uses the following four categories to signify the level of a given news story. ",
+  "يستخدم فريق جمع الأخبار في CNN الفئات الأربع التالية للإشارة إلى مستوى قصة إخبارية معينة. "
+ ],
+ [
+  "#Flash",
+  "#Flash"
+ ],
+ [
+  ": Remain CANNOT win UK referendum",
+  ": البقاء لا يمكن الفوز باستفتاء المملكة المتحدة"
+ ],
+ [
+  "#FLASH",
+  "#FLASH"
+ ],
+ [
+  "Highest category in our internal communication system signalling the urgency of a story.",
+  "أعلى فئة في نظام الاتصال الداخلي لدينا تشير إلى إلحاح القصة."
+ ],
+ [
+  "#BULLETIN:",
+  "#BULLETIN:"
+ ],
+ [
+  " Harry and Meghan are married",
+  " هاري وميغان متزوجان"
+ ],
+ [
+  "#BULLETIN",
+  "#BULLETIN"
+ ],
+ [
+  "The next level from an #Urgent and signals a significant development in an ongoing story.",
+  "المستوى التالي من #Urgent ويشير إلى تطور كبير في قصة مستمرة."
+ ],
+ [
+  "#URGENT:",
+  "#URGENT:"
+ ],
+ [
+  " Police declare \"major incident\" following stabbings in Birmingham, UK",
+  " الشرطة تعلن «حادث كبير» بعد طعن في برمنغهام، المملكة المتحدة"
+ ],
+ [
+  "#URGENT",
+  "#URGENT"
+ ],
+ [
+  "An important story that is happening right now and needs to be communicated to your audience as soon as possible. ",
+  "قصة مهمة تحدث الآن وتحتاج إلى إبلاغ جمهورك في أقرب وقت ممكن. "
+ ],
+ [
+  "#NEWS:",
+  "#NEWS:"
+ ],
+ [
+  " US service member injured in Al-Shabaab attack in Somalia",
+  " إصابة أحد أفراد الخدمة الأمريكية في هجوم حركة الشباب في الصومال"
+ ],
+ [
+  "#NEWS",
+  "#NEWS"
+ ],
+ [
+  "An important development that is interesting to some people but doesn't need to be communicated immediately.",
+  "تطور مهم مثير للاهتمام لبعض الناس ولكن لا يحتاج إلى التواصل على الفور."
+ ],
+ [
+  "The Higher the Level, The More Checks",
+  "كلما ارتفع المستوى، زادت عمليات التحقق"
+ ],
+ [
+  "Typically, for regular news events CNN relies on Senior News Editors, SNEs, to vet the information before it gets alerted. Our reporters or producers on the ground will call in with a news item and that information will be pulled together by newsdesk producers and then vetted by an SNE. They will check the sources of the story, double check the information and use years of experience in the industry to spot any potential discrepancies in the information. ",
+  "عادة, بالنسبة للأحداث الإخبارية المنتظمة، تعتمد CNN على كبار محرري الأخبار, SNEs, لفحص المعلومات قبل أن يتم تنبيهها. سيتصل مراسلونا أو منتجونا على الأرض بعنصر إخباري وسيتم جمع هذه المعلومات معًا من قبل منتجي مكتب الأخبار ثم فحصها بواسطة SNE. سوف يتحققون من مصادر القصة، ويتحققون مرة أخرى من المعلومات ويستخدمون سنوات من الخبرة في الصناعة لاكتشاف أي تناقضات محتملة في المعلومات. "
+ ],
+ [
+  "But, during a breaking news situation there are multiple other layers of scrutiny that a piece of information needs to go through before it is cleared for air. ",
+  "لكن, خلال حالة الأخبار العاجلة، هناك العديد من طبقات التدقيق الأخرى التي يجب أن تمر بها قطعة من المعلومات قبل أن يتم مسحها للهواء. "
+ ],
+ [
+  "CNN is very tuned to getting breaking news on the air. So when somebody sees a flash, you know, it means all hands on deck, and we are going to be on this story for a little while.",
+  "CNN مضبوطة للغاية للحصول على الأخبار العاجلة على الهواء. لذلك عندما يرى شخص ما وميضًا, أنت تعلم, هذا يعني كل الأيدي على سطح السفينة, وسنكون على هذه القصة لبعض الوقت."
+ ],
+ [
+  "Ram Ramgopal, ROW Executive Editor ",
+  "رام رامغوبل، محرر ROW التنفيذي "
+ ],
+ [
+  "Breaking News Coverage",
+  "تغطية الأخبار العاجلة"
+ ],
+ [
+  "Initial Hours of Breaking News",
+  "الساعات الأولى من الأخبار العاجلة"
+ ],
+ [
+  "This is \"initial_hours_breaking_news\" by CNN Academy on Vimeo, the home for high quality videos and the people who love them.",
+  "هذا هو «initial_hours_breaking_news» من أكاديمية CNN على Vimeo، موطن مقاطع الفيديو عالية الجودة والأشخاص الذين يحبونها."
+ ],
+ [
+  "initial_hours_breaking_news",
+  "initial_hours_breaking_news"
+ ],
+ [
+  "As Caroline mentioned, there's a lot of things to do in the first instance of a breaking news moment. From a newsgathering perspective, you have to let other people in your organization know that you are aware of the news and that you are using all your resources to confirm it. You can do this via phone calls or alerts sent out on messaging groups. At CNN, a key tool that newsgathering teams use to alert others in the network that they are aware of reports emerging about a specific breaking news event is sending out a ",
+  "كما ذكرت كارولين، هناك الكثير من الأشياء التي يجب القيام بها في المقام الأول من لحظة الأخبار العاجلة. من منظور جمع الأخبار، يجب أن تدع الآخرين في مؤسستك يعرفون أنك على دراية بالأخبار وأنك تستخدم جميع مواردك لتأكيدها. يمكنك القيام بذلك عبر المكالمات الهاتفية أو التنبيهات المرسلة على مجموعات المراسلة. في CNN, إحدى الأدوات الرئيسية التي تستخدمها فرق جمع الأخبار لتنبيه الآخرين في الشبكة بأنهم على دراية بالتقارير الناشئة حول حدث إخباري عاجل محدد هي إرسال "
+ ],
+ [
+  "#WorkingToConfirm",
+  "#WorkingToConfirm"
+ ],
+ [
+  " email. ",
+  " البريد الإلكتروني. "
+ ],
+ [
+  "Here are some recent examples. ",
+  "فيما يلي بعض الأمثلة الحديثة. "
+ ],
+ [
+  "Roxanne Garcia is a Senior Director of Newsgathering",
+  "روكسان جارسيا هي مديرة أولى لجمع الأخبار"
+ ],
+ [
+  "Mohammed Tawfeeq is a News Desk Producer",
+  "محمد توفيق هو منتج مكتب الأخبار"
+ ],
+ [
+  "The aim of these messages are twofold. First, you are letting senior managers know something big is likely happening so they can start making decisions about deploying teams and whether CNN goes into \"rolling\" coverage.  Secondly, by letting everyone know you are aware of the story you're allowing a window of time to confirm details and to send out reportable lines. ",
+  "الهدف من هذه الرسائل ذو شقين. أول, أنت تدع كبار المديرين يعرفون أن شيئًا كبيرًا من المحتمل أن يحدث حتى يتمكنوا من البدء في اتخاذ قرارات بشأن نشر الفرق وما إذا كانت CNN تدخل في تغطية «متجددة». ثانيًا، من خلال السماح للجميع بمعرفة أنك على دراية بالقصة، فإنك تسمح بفترة زمنية لتأكيد التفاصيل وإرسال خطوط يمكن الإبلاغ عنها. "
+ ],
+ [
+  "You have alerted the network, what's next?",
+  "لقد نبهت الشبكة، ما هي الخطوة التالية؟"
+ ],
+ [
+  "After the SNE alerts the rest of the network that it is working to confirm breaking news story, the team must decide what resources might be needed to cover the story for CNN's multiple platforms. Which reporter can come up live for TV?  What confirmed information can CNN report on our digital platforms.",
+  "بعد أن تنبه SNE بقية الشبكة بأنها تعمل على تأكيد قصة الأخبار العاجلة، يجب على الفريق تحديد الموارد التي قد تكون مطلوبة لتغطية القصة لمنصات CNN المتعددة. أي مراسل يمكن أن يأتي مباشرة للتلفزيون؟ ما هي المعلومات المؤكدة التي يمكن لشبكة CNN الإبلاغ عنها على منصاتنا الرقمية."
+ ],
+ [
+  "Reorganize your team.",
+  "أعد تنظيم فريقك."
+ ],
+ [
+  " Breaking news coverage requires a lot of hands on deck. Pull team members that are not working on this story in and assign specific roles so everyone knows what they should be working on. ",
+  " تتطلب التغطية الإخبارية العاجلة الكثير من الأيدي على سطح السفينة. اسحب أعضاء الفريق الذين لا يعملون على هذه القصة وقم بتعيين أدوار محددة حتى يعرف الجميع ما يجب أن يعملوا عليه. "
+ ],
+ [
+  "Editorial Information.",
+  "معلومات تحريرية."
+ ],
+ [
+  " Keep the control rooms and programming teams up to date with the latest. Even if you think there has only been a slight movement on a story, it is good to update the teams. Control rooms like to hear from you.  ",
+  " حافظ على غرف التحكم وفرق البرمجة على اطلاع بأحدث المستجدات. حتى إذا كنت تعتقد أنه لم يكن هناك سوى حركة طفيفة في القصة، فمن الجيد تحديث الفرق. غرف التحكم تحب أن تسمع منك.  "
+ ],
+ [
+  "Get on air. ",
+  "احصل على الهواء. "
+ ],
+ [
+  "It is crucial to get your reporters on air on this story as soon as possible.  You don't need them to be on camera and you can start your coverage with a reporter on the phone. If you don't have any reporters on location, try bringing one of your reporters up from the closest hub or have eyewitnesses on the phone.",
+  "من الأهمية بمكان أن تبث مراسليك على الهواء حول هذه القصة في أقرب وقت ممكن. لا تحتاج إلى أن يكونوا أمام الكاميرا ويمكنك بدء تغطيتك مع مراسل على الهاتف. إذا لم يكن لديك أي مراسلين في الموقع، فحاول إحضار أحد مراسليك من أقرب مركز أو أن يكون لديك شهود عيان على الهاتف."
+ ],
+ [
+  "Keep everyone informed.",
+  "اجعل الجميع على اطلاع."
+ ],
+ [
+  " Send out lists of the available reporters, available live shots, latest videos or social media content that has been cleared for use and who is doing what on the desk so everyone knows who to contact for their specific needs. ",
+  " أرسل قوائم بالمراسلين المتاحين, لقطات حية متاحة, أحدث مقاطع الفيديو أو محتوى الوسائط الاجتماعية الذي تم مسحه للاستخدام ومن يفعل ما على المكتب حتى يعرف الجميع بمن يتصلون لاحتياجاتهم الخاصة. "
+ ],
+ [
+  "Manage network communication.",
+  "إدارة اتصالات الشبكة."
+ ],
+ [
+  " After the initial alert, setup a breaking news telephone bridge that everyone who is working on this story can join to listen in on the latest developments. This allows your newsgathering desk to focus on confirming lines and liaising with the teams on the ground instead of fielding multiple calls from control rooms or managers. ",
+  " بعد التنبيه الأولي, قم بإعداد جسر هاتف إخباري عاجل يمكن لأي شخص يعمل على هذه القصة الانضمام إليه للاستماع إلى آخر التطورات. يتيح ذلك لمكتب جمع الأخبار التركيز على تأكيد الخطوط والاتصال بالفرق على الأرض بدلاً من إرسال مكالمات متعددة من غرف التحكم أو المديرين. "
+ ],
+ [
+  "Eyewitness accounts are a great resource during the initial hours of a breaking news situation. ",
+  "تعد حسابات شهود العيان مصدرًا رائعًا خلال الساعات الأولى من حالة الأخبار العاجلة. "
+ ],
+ [
+  "Keep Momentum ",
+  "حافظ على الزخم "
+ ],
+ [
+  "Remember, breaking news coverage is a marathon not a sprint. Now that you have got the news off the ground and have reorganized your team, you can focus on the other aspects of breaking news coverage outlined below. ",
+  "تذكر أن تغطية الأخبار العاجلة هي ماراثون وليس سباق سريع. الآن بعد أن حصلت على الأخبار على أرض الواقع وأعدت تنظيم فريقك، يمكنك التركيز على الجوانب الأخرى للتغطية الإخبارية العاجلة الموضحة أدناه. "
+ ],
+ [
+  "Stay Calm &",
+  "ابق هادئًا"
+ ],
+ [
+  " Carry On",
+  " كاري أون"
+ ],
+ [
+  "What should you prioritize as you are covering a breaking news story? ",
+  "ما الذي يجب أن تحدده حسب الأولوية أثناء تغطية قصة إخبارية عاجلة؟ "
+ ],
+ [
+  "Start Lesson Now",
+  "ابدأ الدرس الآن"
+ ],
+ [
+  "Deploy",
+  "نشر"
+ ],
+ [
+  "What resources do you need to cover this breaking news story for multiple platforms? ",
+  "ما هي الموارد التي تحتاجها لتغطية هذه القصة الإخبارية العاجلة لمنصات متعددة؟ "
+ ],
+ [
+  "Start Lesson Now ",
+  "ابدأ الدرس الآن "
+ ],
+ [
+  "Communicate",
+  "التواصل"
+ ],
+ [
+  "Who needs to know about the incoming information and how you can ensure different teams have the latest reportable lines?",
+  "من يحتاج إلى معرفة المعلومات الواردة وكيف يمكنك التأكد من أن الفرق المختلفة لديها أحدث الخطوط التي يمكن الإبلاغ عنها؟"
+ ],
+ [
+  "Confirm & Report ",
+  "تأكيد وتقديم تقرير "
+ ],
+ [
+  "The most crucial step is to confirm the story that is breaking. What can you report? ",
+  "الخطوة الأكثر أهمية هي تأكيد القصة التي يتم كسرها. ما الذي يمكنك الإبلاغ عنه؟ "
+ ],
+ [
+  "CONTINUE TO VERFY & CONFIRM",
+  "الاستمرار في التحقق والتأكيد"
+ ],
+ [
+  "Verify. Confirm. Report.",
+  "تحقق. تأكيد. تقرير."
+ ],
+ [
+  "Caroline Paterson, Executive Director of Coverage ",
+  "كارولين باترسون، المدير التنفيذي للتغطية "
+ ],
+ [
+  "In today's world, where there's an awful lot of information out there, the ",
+  "في عالم اليوم، حيث يوجد الكثير من المعلومات هناك، "
+ ],
+ [
+  "fundamentals",
+  "أساسيات"
+ ],
+ [
+  " of what we do as ",
+  " لما نقوم به "
+ ],
+ [
+  "journalists ",
+  "صحفيون "
+ ],
+ [
+  "- is finding the truth, standing up facts and confirming reports - become all the more ",
+  "- هو العثور على الحقيقة، والوقوف على الحقائق وتأكيد التقارير - تصبح أكثر من ذلك "
+ ],
+ [
+  "important",
+  "مهم"
+ ],
+ [
+  " in those ",
+  " في تلك "
+ ],
+ [
+  "breaking news",
+  "الأخبار العاجلة"
+ ],
+ [
+  " moments.",
+  " لحظات."
+ ],
+ [
+  "Nothing but the Truth",
+  "لا شيء سوى الحقيقة"
+ ],
+ [
+  "For CNN, it is vitally important that journalism maintains its reputation for being a source of accurate, truthful, and fair information. That is especially hard in an age where more people have the capability and access to produce content or take part in the news-formation cycle. While that's had many benefits, namely giving a voice to people to take part in the conversation and breaking down traditional barriers, it has also made it easier for rumours and misinformation to spread during the early hours of a breaking news situation. ",
+  "بالنسبة لشبكة CNN، من المهم للغاية أن تحافظ الصحافة على سمعتها لكونها مصدرًا لمعلومات دقيقة وصادقة وعادلة. هذا صعب بشكل خاص في عصر يتمتع فيه المزيد من الأشخاص بالقدرة والوصول إلى إنتاج المحتوى أو المشاركة في دورة تكوين الأخبار. في حين أن هذا كان له العديد من الفوائد, وهي إعطاء صوت للناس للمشاركة في المحادثة وكسر الحواجز التقليدية, كما أنه سهّل انتشار الشائعات والمعلومات المضللة خلال الساعات الأولى من حالة الأخبار العاجلة. "
+ ],
+ [
+  "That's why your main priority during breaking news is to sift through the noise, confirm reportable lines and verify content that might be shared online. ",
+  "هذا هو السبب في أن أولويتك الرئيسية أثناء الأخبار العاجلة هي التدقيق في الضوضاء وتأكيد الخطوط التي يمكن الإبلاغ عنها والتحقق من المحتوى الذي يمكن مشاركته عبر الإنترنت. "
+ ],
+ [
+  "Click ",
+  "كليك "
+ ],
+ [
+  "here to read more",
+  "هنا لقراءة المزيد"
+ ],
+ [
+  " about how newsrooms are tackling the challenge of misinformation and disinformation campaigns. ",
+  " حول كيفية تعامل غرف الأخبار مع تحدي حملات التضليل والتضليل. "
+ ],
+ [
+  "The 5 W's of Breaking News",
+  "5 وات من الأخبار العاجلة"
+ ],
+ [
+  "Why did it happen? ",
+  "لماذا حدث ذلك؟ "
+ ],
+ [
+  "Less important during the immediate aftermath of a breaking news event. But in the hours and days to come you will need to provide context and nuance to the story. ",
+  "أقل أهمية خلال أعقاب حدث الأخبار العاجلة مباشرة. ولكن في الساعات والأيام القادمة، ستحتاج إلى توفير السياق والفروق الدقيقة للقصة. "
+ ],
+ [
+  "Where did it happen?",
+  "أين حدث ذلك؟"
+ ],
+ [
+  " Find out as much detail as you can about the location to use for confirming aspects of the story and to get a better idea of the event's surrounding. ",
+  " تعرف على أكبر قدر ممكن من التفاصيل حول الموقع الذي تريد استخدامه لتأكيد جوانب القصة والحصول على فكرة أفضل عن محيط الحدث. "
+ ],
+ [
+  "When did it happen?",
+  "متى حدث ذلك؟"
+ ],
+ [
+  " Key to understand the exact timing so that you can use that as a clue for verification of information and to build out your narrative about this event. ",
+  " مفتاح لفهم التوقيت الدقيق بحيث يمكنك استخدام ذلك كدليل للتحقق من المعلومات وبناء سردك حول هذا الحدث. "
+ ],
+ [
+  "Who did it happen to?",
+  "لمن حدث ذلك؟"
+ ],
+ [
+  " Who are the characters in this story and how can you tell their story and recount what has happened to them. ",
+  " من هم الشخصيات في هذه القصة وكيف يمكنك سرد قصتهم وإعادة سرد ما حدث لهم. "
+ ],
+ [
+  "What happened?",
+  "ماذا حدث؟"
+ ],
+ [
+  " You need to figure out as much information regarding the actual event. ",
+  " تحتاج إلى معرفة أكبر قدر من المعلومات المتعلقة بالحدث الفعلي. "
+ ],
+ [
+  "If we go on the air with information that is incorrect, then that damages our credibility. ",
+  "إذا ذهبنا على الهواء بمعلومات غير صحيحة، فإن ذلك يضر بمصداقيتنا. "
+ ],
+ [
+  "Don Lemon, ",
+  "دون ليمون، "
+ ],
+ [
+  "Anchor of CNN Tonight with Don Lemon",
+  "مرساة CNN الليلة مع دون ليمون"
+ ],
+ [
+  "These are the sources we use to confirm reports during a breaking news situation. ",
+  "هذه هي المصادر التي نستخدمها لتأكيد التقارير أثناء حالة الأخبار العاجلة. "
+ ],
+ [
+  "Other news outlets.",
+  "منافذ إخبارية أخرى."
+ ],
+ [
+  " We rarely use other news outlets as our source for a breaking news story. But on the rare occasion we don't have our own team on the ground and we can't rely on wire services or official sources, we may cite the reporting of an another outlet. Is this an official news outlet in the locality of the breaking news? Is this an affiliate of ours that we have relied on in the past? Do they have a good previous track record? Are they in a position to have access to information we might not have right now? If the answer to the above questions are yes, then we may report the information by clearly attributing to the original source of the information. ",
+  " نادرًا ما نستخدم منافذ إخبارية أخرى كمصدر لقصة إخبارية عاجلة. ولكن في مناسبة نادرة ليس لدينا فريقنا الخاص على الأرض ولا يمكننا الاعتماد على الخدمات السلكية أو المصادر الرسمية، قد نستشهد بالإبلاغ عن منفذ آخر. هل هذا منفذ إخباري رسمي في مكان الأخبار العاجلة؟ هل هذه شركة تابعة لنا اعتمدنا عليها في الماضي؟ هل لديهم سجل حافل سابق جيد؟ هل هم في وضع يسمح لهم بالوصول إلى المعلومات التي قد لا تكون لدينا الآن؟ إذا كانت الإجابة على الأسئلة أعلاه بنعم، فقد نقوم بالإبلاغ عن المعلومات من خلال الإسناد بوضوح إلى المصدر الأصلي للمعلومات. "
+ ],
+ [
+  "Official sources. ",
+  "مصادر رسمية. "
+ ],
+ [
+  "You have to \"work the phones\" during a breaking news situation. That means reaching out to official sources, such as police and emergency services or government spokespeople, to try to stand up facts and get reportable lines. But remember, there is a lot of confusion during the early hours of a breaking news story, especially a natural disaster or terrorist attack, so even official sources might be getting incorrect information. ",
+  "يجب عليك «تشغيل الهواتف» أثناء حالة الأخبار العاجلة. وهذا يعني التواصل مع المصادر الرسمية, مثل الشرطة وخدمات الطوارئ أو المتحدثين باسم الحكومة, لمحاولة الوقوف على الحقائق والحصول على خطوط يمكن الإبلاغ عنها. لكن تذكر, هناك الكثير من الالتباس خلال الساعات الأولى من قصة إخبارية عاجلة, خاصة كارثة طبيعية أو هجوم إرهابي, لذلك حتى المصادر الرسمية قد تحصل على معلومات غير صحيحة. "
+ ],
+ [
+  "Social Media.",
+  "وسائل التواصل الاجتماعي."
+ ],
+ [
+  " These days, social media is often the place where we get the first indication of a breaking news story. CNN has teams who are monitoring social media 24 hours a day looking for new developments that might emerge and who working to verify videos, images and other information that might be shared online. We only use social media as a source when, and if, we can verify the information or content that is being shared.  ",
+  " في هذه الأيام، غالبًا ما تكون وسائل التواصل الاجتماعي هي المكان الذي نحصل فيه على أول إشارة لقصة إخبارية عاجلة. لدى CNN فرق تراقب وسائل التواصل الاجتماعي على مدار 24 ساعة في اليوم بحثًا عن تطورات جديدة قد تظهر وتعمل على التحقق من مقاطع الفيديو, الصور والمعلومات الأخرى التي يمكن مشاركتها عبر الإنترنت. نحن نستخدم وسائل التواصل الاجتماعي كمصدر فقط عندما، وإذا، يمكننا التحقق من المعلومات أو المحتوى الذي تتم مشاركته. "
+ ],
+ [
+  "Reputable news agencies. ",
+  "وكالات الأنباء ذات السمعة الطيبة. "
+ ],
+ [
+  "If we don't have our own team on the ground, then our next port of call are reputable news agencies we subscribe to such as ",
+  "إذا لم يكن لدينا فريقنا الخاص على الأرض، فإن منفذ الاتصال التالي لدينا هو وكالات الأنباء ذات السمعة الطيبة التي نشترك فيها مثل "
+ ],
+ [
+  "Reuters",
+  "رويترز"
+ ],
+ [
+  " or ",
+  " أو "
+ ],
+ [
+  "AFP",
+  "AFP"
+ ],
+ [
+  ". Like us, they have teams across the world and have ",
+  ". مثلنا، لديهم فرق في جميع أنحاء العالم ولديهم "
+ ],
+ [
+  "robust editorial checks",
+  "فحوصات تحريرية قوية"
+ ],
+ [
+  " in place to ensure the veracity of news lines they are sending out. ",
+  " في مكان لضمان صحة خطوط الأخبار التي يرسلونها. "
+ ],
+ [
+  "CNN teams on the ground. ",
+  "فرق CNN على الأرض. "
+ ],
+ [
+  "They are our most reliable source. They know what thresholds we need to clear before we can report a story and are trained journalists who can quickly decipher events and find out the facts. ",
+  "إنها مصدرنا الأكثر موثوقية. إنهم يعرفون العتبات التي نحتاج إلى توضيحها قبل أن نتمكن من الإبلاغ عن قصة وهم صحفيون مدربون يمكنهم فك رموز الأحداث بسرعة ومعرفة الحقائق. "
+ ],
+ [
+  "When it comes to confirming a breaking news story, the ",
+  "عندما يتعلق الأمر بتأكيد قصة إخبارية عاجلة، فإن "
+ ],
+ [
+  "best practice",
+  "أفضل الممارسات"
+ ],
+ [
+  " is to ",
+  " هو "
+ ],
+ [
+  "double source",
+  "مصدر مزدوج"
+ ],
+ [
+  " the information to ensure that you definitely have it correct and that you can be ",
+  " المعلومات للتأكد من أنك بالتأكيد صحيحة وأنك يمكن أن تكون "
+ ],
+ [
+  "absolutely sure",
+  "متأكد تمامًا"
+ ],
+ [
+  " about it.",
+  " حول هذا الموضوع."
+ ],
+ [
+  "Don't forget, there's often a fog of confusion and misinformation during the early hours of a breaking news story, especially if it relates to a natural disaster or an attack. Some of the official sources that we normally rely on to confirm these stories may themselves be in disarray. They might be dealing with injured people, or an influx of information, or being chased by the press looking for information. That means they are extremely busy and might not be as reliable when it comes to giving an accurate assessment of the situation. Meanwhile, different news outlets might be putting out contradictory statements and social media posts might be amplifying rumours. ",
+  "لا تنسى, غالبًا ما يكون هناك ضباب من الارتباك والتضليل خلال الساعات الأولى من قصة الأخبار العاجلة, خاصة إذا كانت تتعلق بكارثة طبيعية أو هجوم. قد تكون بعض المصادر الرسمية التي نعتمد عليها عادةً لتأكيد هذه القصص في حالة من الفوضى. قد يتعاملون مع المصابين، أو تدفق المعلومات، أو مطاردة من قبل الصحافة بحثًا عن المعلومات. هذا يعني أنهم مشغولون للغاية وقد لا يكونون موثوقين عندما يتعلق الأمر بإعطاء تقييم دقيق للوضع. وفى الوقت نفسه, قد تصدر منافذ إخبارية مختلفة بيانات متناقضة وقد تؤدي منشورات وسائل التواصل الاجتماعي إلى تضخيم الشائعات. "
+ ],
+ [
+  "You must focus on what you can ",
+  "يجب أن تركز على ما يمكنك "
+ ],
+ [
+  "confirm through at least two sources",
+  "تأكيد من خلال مصدرين على الأقل"
+ ],
+ [
+  " and work on getting that ready for reporting.  ",
+  " والعمل على إعداد ذلك لإعداد التقارير. "
+ ],
+ [
+  "What I learned in my beginning years as a journalist was that ",
+  "ما تعلمته في سنواتي الأولى كصحفي هو ذلك "
+ ],
+ [
+  "contacts are gold",
+  "جهات الاتصال ذهبية"
+ ],
+ [
+  ". The more contacts you have, the more you have an ability to confirm, to double confirm, triple confirm, or quadruple confirm information. One confirmation, unless it's from an extremely reliable source or an official source, is usually not enough. You need to make sure that what you are reporting is ",
+  ". كلما زاد عدد جهات الاتصال لديك، زادت قدرتك على تأكيد المعلومات أو تأكيدها مرتين أو تأكيدها ثلاث مرات أو تأكيدها أربع مرات. تأكيد واحد، ما لم يكن من مصدر موثوق للغاية أو مصدر رسمي، عادة لا يكفي. تحتاج إلى التأكد من أن ما تقوم بالإبلاغ عنه "
+ ],
+ [
+  "as accurate as possible",
+  "دقيقة قدر الإمكان"
+ ],
+ [
+  " under the circumstances. ",
+  " في ظل هذه الظروف. "
+ ],
+ [
+  "So collect those contacts. ",
+  "لذا اجمع جهات الاتصال هذه. "
+ ],
+ [
+  "Ben Wedeman, Senior International Correspondent ",
+  "بن ويدمان، مراسل دولي أول "
+ ],
+ [
+  "There are reports of a shooting in Downtown, Example City. Place the different sources of information into the relevant categories. ",
+  "هناك تقارير عن إطلاق نار في وسط المدينة، مثال المدينة. ضع مصادر المعلومات المختلفة في الفئات ذات الصلة. "
+ ],
+ [
+  "Reliable Source",
+  "مصدر موثوق"
+ ],
+ [
+  "Unreliable Source ",
+  "مصدر غير موثوق "
+ ],
+ [
+  "Needs Verification",
+  "التحقق من الاحتياجات"
+ ],
+ [
+  "A news outlet we haven't worked with in the past claiming to have new details",
+  "منفذ إخباري لم نعمل معه في الماضي يدعي أن لديه تفاصيل جديدة"
+ ],
+ [
+  "A Twitter thread from an eyewitness to the incident",
+  "موضوع تويتر من شاهد عيان على الحادث"
+ ],
+ [
+  "Wire services putting out news flashes about a shooting incident",
+  "خدمات الأسلاك تنشر ومضات إخبارية حول حادث إطلاق نار"
+ ],
+ [
+  "Video of the incident shared on social media we haven't been able to verify yet",
+  "فيديو للحادث تمت مشاركته على وسائل التواصل الاجتماعي لم نتمكن من التحقق منه بعد"
+ ],
+ [
+  "A busy doctor working at a local hospital talking about injuries",
+  "طبيب مشغول يعمل في مستشفى محلي يتحدث عن الإصابات"
+ ],
+ [
+  "Reports from the local police department about a shooting incident",
+  "تقارير من قسم الشرطة المحلية حول حادث إطلاق نار"
+ ],
+ [
+  "A Tweet from someone who claims to have been in the vicinity of the shooting",
+  "تغريدة من شخص يدعي أنه كان بالقرب من إطلاق النار"
+ ],
+ [
+  "A person living in a different country posting about the event",
+  "شخص يعيش في بلد مختلف ينشر عن الحدث"
+ ],
+ [
+  "CNN journalist with new information about a shooting incident",
+  "صحفي CNN بمعلومات جديدة عن حادث إطلاق نار"
+ ],
+ [
+  "We have a mission. We want to report the news as quickly, and as accurately, and as responsibly as we possibly can.",
+  "لدينا مهمة. نريد الإبلاغ عن الأخبار بأسرع ما يمكن وبدقة وبأكبر قدر ممكن من المسؤولية."
+ ],
+ [
+  "Wolf Blitzer, Lead Political Anchor ",
+  "وولف بليتزر، المرساة السياسية الرئيسية "
+ ],
+ [
+  "Speed vs Accuracy",
+  "السرعة مقابل الدقة"
+ ],
+ [
+  "Breaking news coverage is ",
+  "تغطية الأخبار العاجلة هي "
+ ],
+ [
+  "a marathon not a sprint",
+  "ماراثون ليس سباق"
+ ],
+ [
+  ". You need to confirm the basic elements of a story as quickly and as reliably as you can. Then, you can incrementally build the story out by providing more context and by updating the audience with new reportable lines when they become available.",
+  ". تحتاج إلى تأكيد العناصر الأساسية للقصة بأسرع ما يمكن وموثوقية. بعد ذلك، يمكنك بناء القصة بشكل تدريجي من خلال توفير المزيد من السياق وتحديث الجمهور بخطوط جديدة يمكن الإبلاغ عنها عندما تصبح متاحة."
+ ],
+ [
+  "The CNN TRIAD",
+  "سي إن إن ثالوث"
+ ],
+ [
+  "At CNN, we have a three-pronged internal verification process that ensures all our reporting is vetted before it goes on air. That means on sensitive stories our reporters and producers will have to clear separate departments for fact checking, adherence to CNN standards and practices, and legal before getting stories on air. ",
+  "في CNN, لدينا عملية تحقق داخلية ثلاثية الجوانب تضمن فحص جميع تقاريرنا قبل بثها على الهواء. وهذا يعني أنه في القصص الحساسة، سيتعين على مراسلينا ومنتجينا مسح أقسام منفصلة للتحقق من الحقائق, الالتزام بمعايير وممارسات CNN, والقانونية قبل نشر القصص على الهواء. "
+ ],
+ [
+  "The TRIAD is made of three different groups: ",
+  "يتكون TRIAD من ثلاث مجموعات مختلفة: "
+ ],
+ [
+  "The Row, ",
+  "ذا رو، "
+ ],
+ [
+  "Standards & Practices ",
+  "المعايير والممارسات "
+ ],
+ [
+  "and",
+  "و"
+ ],
+ [
+  " Legal",
+  " الشؤون القانونية"
+ ],
+ [
+  " Collectively, they ensure our reporting is factually correct, meets our ethical standards and is compliant with the law.",
+  " بشكل جماعي، يضمنون أن تقاريرنا صحيحة من الناحية الواقعية، وتفي بمعاييرنا الأخلاقية ومتوافقة مع القانون."
+ ],
+ [
+  "The TRIAD ensures all our reporting is ",
+  "يضمن TRIAD أن جميع تقاريرنا "
+ ],
+ [
+  "fair",
+  "معرض"
+ ],
+ [
+  ", ",
+  "، "
+ ],
+ [
+  "accurate",
+  "دقيق"
+ ],
+ [
+  "balanced",
+  "متوازن"
+ ],
+ [
+  " and ",
+  " و "
+ ],
+ [
+  "responsible. ",
+  "مسؤول. "
+ ],
+ [
+  "Typical questions you need to answer when seeking approval from the CNN TRIAD: ",
+  "الأسئلة النموذجية التي تحتاج إلى الإجابة عليها عند طلب الموافقة من CNN TRIAD: "
+ ],
+ [
+  "Will we be breaking any laws by reporting a certain piece of information related to this breaking news story? ",
+  "هل سنخرق أي قوانين من خلال الإبلاغ عن جزء معين من المعلومات المتعلقة بهذه القصة الإخبارية العاجلة؟ "
+ ],
+ [
+  "Do we have permission to use the image from the person who recorded it, and if not, can we fair use it?",
+  "هل لدينا إذن لاستخدام الصورة من الشخص الذي سجلها، وإذا لم يكن الأمر كذلك، فهل يمكننا استخدامها بشكل عادل؟"
+ ],
+ [
+  "What is the news value of this viral video or photo you wish to use, and what is the urgency of publishing it now?",
+  "ما هي القيمة الإخبارية لهذا الفيديو الفيروسي أو الصورة التي ترغب في استخدامها، وما هي الحاجة الملحة لنشرها الآن؟"
+ ],
+ [
+  "Are you meeting CNN's Standards and Practices by airing a specific breaking news video? ",
+  "هل تستوفي معايير وممارسات CNN من خلال بث فيديو إخباري عاجل محدد? "
+ ],
+ [
+  "How is this story newsworthy? ",
+  "كيف تكون هذه القصة جديرة بالنشر؟ "
+ ],
+ [
+  "Oftentimes in a breaking news situation, the TRIAD is involved in the newsgathering conversation in real time in order to able to spot any issues that might be emerging and to allow us to get the latest information approved as quickly as possible to take to the audience. ",
+  "في كثير من الأحيان في حالة الأخبار العاجلة, يشارك TRIAD في محادثة جمع الأخبار في الوقت الفعلي من أجل التمكن من اكتشاف أي مشكلات قد تظهر والسماح لنا بالحصول على أحدث المعلومات المعتمدة في أسرع وقت ممكن لأخذها إلى الجمهور. "
+ ],
+ [
+  "CONTINUE TO SOCIAL NEWSGATHERING",
+  "الاستمرار في جمع الأخبار الاجتماعية"
+ ],
+ [
+  "Social Newsgathering",
+  "جمع الأخبار الاجتماعية"
+ ],
+ [
+  "Social media is both at its best and its worst during a breaking news situation. Anyone with a smartphone and an internet connection has the ability to perform some of the tasks of a professional journalist. They can tell the public what they are seeing, they can gather content and share it widely and they can give an account of what has happened. ",
+  "وسائل التواصل الاجتماعي في أفضل حالاتها وأسوأ حالاتها خلال حالة الأخبار العاجلة. أي شخص لديه هاتف ذكي واتصال بالإنترنت لديه القدرة على أداء بعض مهام الصحفي المحترف. يمكنهم إخبار الجمهور بما يرونه، ويمكنهم جمع المحتوى ومشاركته على نطاق واسع ويمكنهم تقديم سرد لما حدث. "
+ ],
+ [
+  "But, the downside is there can also be a lot of misinformation on social media during a breaking news situation. That is why we have the social newsgathering team. It is a relatively new team within the bigger newsgathering operation focused on verifying information that is being shared on social media. They are CNN's experts in figuring out whether content shared online is true using forensic examination to verify information.  In many ways, they are our first eyes and ears on the ground figuring out what happened, who it happened to, when it happened and where it happened.",
+  "لكن الجانب السلبي هو أنه يمكن أن يكون هناك أيضًا الكثير من المعلومات الخاطئة على وسائل التواصل الاجتماعي أثناء حالة الأخبار العاجلة. هذا هو السبب في أن لدينا فريق جمع الأخبار الاجتماعية. إنه فريق جديد نسبيًا ضمن عملية جمع الأخبار الأكبر التي تركز على التحقق من المعلومات التي يتم مشاركتها على وسائل التواصل الاجتماعي. إنهم خبراء CNN في معرفة ما إذا كان المحتوى الذي تتم مشاركته عبر الإنترنت صحيحًا باستخدام فحص الطب الشرعي للتحقق من المعلومات. من نواح كثيرة، هم أول أعيننا وآذاننا على الأرض لمعرفة ما حدث، ومن حدث، ومتى حدث وأين حدث."
+ ],
+ [
+  "Dataminr: An ",
+  "داتامين: آن "
+ ],
+ [
+  "Early Warning System ",
+  "نظام الإنذار المبكر "
+ ],
+ [
+  "One of the tools we use for social newsgathering at CNN is Dataminr. It monitors Tweets and social media posts and uses an algorithm to spot trending topics. It then notifies us of what is happening, giving us a head start on newsgathering. Once we see the Dataminr messages we start our own confirmation process to see what we can report. ",
+  "واحدة من الأدوات التي نستخدمها لجمع الأخبار الاجتماعية في CNN هي Dataminr. تراقب التغريدات ومنشورات وسائل التواصل الاجتماعي وتستخدم خوارزمية لتحديد الموضوعات الشائعة. ثم يخطرنا بما يحدث، مما يمنحنا السبق في جمع الأخبار. بمجرد أن نرى رسائل Dataminr، نبدأ عملية التأكيد الخاصة بنا لمعرفة ما يمكننا الإبلاغ عنه. "
+ ],
+ [
+  "In social newsgathering you have a limited window of opportunity to search for content about a breaking news event before social media is flooded with information. That's why it's vital to act upon information the minute it becomes available even if it doesn't end up being a major story.",
+  "في جمع الأخبار الاجتماعية، لديك فرصة محدودة للبحث عن محتوى حول حدث إخباري عاجل قبل أن تغمر وسائل التواصل الاجتماعي بالمعلومات. هذا هو السبب في أنه من الضروري التصرف بناءً على المعلومات في اللحظة التي تصبح فيها متاحة حتى لو لم ينتهي بها الأمر إلى أن تكون قصة رئيسية."
+ ],
+ [
+  "How do you verify video or images posted on social media? ",
+  "كيف يمكنك التحقق من الفيديو أو الصور المنشورة على وسائل التواصل الاجتماعي؟ "
+ ],
+ [
+  "The key is context clues. Look at the data you can gather from the content that is being shared and see if they match with the story they are allegedly showing or with facts that you may already have about an incident. Then take a look at the video or image and see if anything stands out that might not be true. If, for example, a shooting happened at night why is there daylight in the video allegedly showing the moment it happened? If a stampede, for example, took place at a football stadium in France during the summer why is there snow on the ground in an alleged photo of the incident? ",
+  "المفتاح هو أدلة السياق. انظر إلى البيانات التي يمكنك جمعها من المحتوى الذي تتم مشاركته ومعرفة ما إذا كانت تتطابق مع القصة التي يُزعم أنها تعرضها أو مع الحقائق التي قد تكون لديك بالفعل حول حادث. ثم ألق نظرة على الفيديو أو الصورة ومعرفة ما إذا كان هناك أي شيء بارز قد لا يكون صحيحًا. على سبيل المثال، إذا حدث إطلاق نار في الليل، فلماذا يوجد ضوء النهار في الفيديو الذي يُزعم أنه يظهر لحظة حدوثه؟ إذا حدث تدافع، على سبيل المثال، في ملعب لكرة القدم في فرنسا خلال فصل الصيف، فلماذا يوجد ثلج على الأرض في صورة مزعومة للحادث؟ "
+ ],
+ [
+  "So, look for the ",
+  "لذا، ابحث عن "
+ ],
+ [
+  "context clues",
+  "أدلة السياق"
+ ],
+ [
+  " you can find in the videos or images being shared and build up your confidence in their authenticity.",
+  " يمكنك العثور عليها في مقاطع الفيديو أو الصور التي تتم مشاركتها وبناء ثقتك في أصالتها."
+ ],
+ [
+  "There are some obvious indicators that this image is a fake many news outlets have debunked it.  Yet the image still goes viral which is a good reminder that in today's media ecosystem there is a real danger of viral misinformation. ",
+  "هناك بعض المؤشرات الواضحة على أن هذه الصورة مزيفة وقد فضحتها العديد من المنافذ الإخبارية. ومع ذلك، لا تزال الصورة فيروسية وهو تذكير جيد بأنه في النظام البيئي الإعلامي اليوم هناك خطر حقيقي من التضليل الفيروسي. "
+ ],
+ [
+  "Viral Misinformation ",
+  "التضليل الفيروسي "
+ ],
+ [
+  "Every hurricane season, this image gets shared on social media allegedly showing a shark swimming down a flooded highway.",
+  "في كل موسم أعاصير، تتم مشاركة هذه الصورة على وسائل التواصل الاجتماعي يُزعم أنها تظهر سمكة قرش تسبح على طريق سريع غمرته المياه."
+ ],
+ [
+  "An image purportedly documenting a shark swimming down a highway flooded by hurricane-related heavy rains was originally circulated as showing a street in Puerto Rico just after Hurricane Irene hit that island in August 2011: Why You Shouldn't Swim After a Hurricane This picture was taken in Puerto Rico shortly after Hurricane Irene ravaged the island.",
+  "صورة يُزعم أنها توثق سمكة قرش تسبح على طريق سريع غمرته الأمطار الغزيرة المرتبطة بالإعصار تم تداولها في الأصل على أنها تظهر شارعًا في بورتوريكو بعد أن ضرب إعصار إيرين تلك الجزيرة في أغسطس 2011: لماذا لا يجب أن تسبح بعد إعصار تم التقاط هذه الصورة في بورتوريكو قريبًا بعد أن دمر إعصار إيرين الجزيرة."
+ ],
+ [
+  "FACT CHECK: Does This Picture Show a Shark Swimming Down a Highway After a Hurricane?",
+  "التحقق من الحقائق: هل تظهر هذه الصورة سمكة قرش تسبح على طريق سريع بعد إعصار؟"
+ ],
+ [
+  "The Shark in the Street Genre",
+  "نوع القرش في الشارع"
+ ],
+ [
+  "The biggest clue that this is a faked video is the size of the shark in question compared to its surroundings. A quick search online shows that the size of the actual shark is much bigger. ",
+  "أكبر دليل على أن هذا فيديو مزيف هو حجم القرش المعني مقارنة بمحيطه. يُظهر البحث السريع عبر الإنترنت أن حجم القرش الفعلي أكبر بكثير. "
+ ],
+ [
+  "Size Matters ",
+  "مسائل الحجم "
+ ],
+ [
+  "Don't Forget the Person Behind the Tweet ",
+  "لا تنس الشخص الذي يقف وراء التغريدة "
+ ],
+ [
+  "Successful social newsgathering isn't only about quickly tracking down content that's being shared online and using context clues to verify the information. It is also about the basics of journalism: talking to people and listening to their story. Once you track down an eyewitness or someone who has important information about an event, make sure you ask them all the relevant information that will help you advance the story. ",
+  "لا يقتصر جمع الأخبار الاجتماعية الناجح على تتبع المحتوى الذي تتم مشاركته عبر الإنترنت بسرعة واستخدام أدلة السياق للتحقق من المعلومات. كما أنها تتعلق بأساسيات الصحافة: التحدث إلى الناس والاستماع إلى قصتهم. بمجرد تعقب شاهد عيان أو شخص لديه معلومات مهمة حول حدث ما، تأكد من أن تطلب منهم جميع المعلومات ذات الصلة التي ستساعدك على تطوير القصة. "
+ ],
+ [
+  "What else do you remember about the event that might help us push the story along? ",
+  "ما الذي تتذكره أيضًا عن الحدث الذي قد يساعدنا في دفع القصة إلى الأمام؟ "
+ ],
+ [
+  "Was there anyone else there who witnessed what happened? ",
+  "هل كان هناك أي شخص آخر شهد ما حدث? "
+ ],
+ [
+  "Did you take any other videos or photos of the event you can share with us? ",
+  "هل التقطت أي مقاطع فيديو أو صور أخرى للحدث يمكنك مشاركتها معنا؟ "
+ ],
+ [
+  "Now we not only have first-hand content about the incident, we also have someone who is willing to share their story with us and they can give our audience a perspective into what happened. We now have the option to put them on air. ",
+  "الآن ليس لدينا محتوى مباشر حول الحادث فحسب، بل لدينا أيضًا شخص يرغب في مشاركة قصته معنا ويمكنه إعطاء جمهورنا منظورًا لما حدث. لدينا الآن خيار وضعها على الهواء. "
+ ],
+ [
+  "Battling Misinformation ",
+  "محاربة التضليل "
+ ],
+ [
+  "Another key role of the social newsgathering team is battling the misinformation and disinformation that is a feature of our current media ecosystem. Hours after a breaking news event, there are often doctored videos or unrelated images that are shared and claimed to be of the event. You have to be extra vigilant and remember to use all the tools at your disposal to verify what is being shared.",
+  "دور رئيسي آخر لفريق جمع الأخبار الاجتماعية هو محاربة المعلومات المضللة والمعلومات المضللة التي تعد سمة من سمات نظامنا الإعلامي الحالي. بعد ساعات من حدث الأخبار العاجلة, غالبًا ما تكون هناك مقاطع فيديو تم التلاعب بها أو صور غير ذات صلة تتم مشاركتها ويُزعم أنها من الحدث. يجب أن تكون أكثر يقظة وتذكر استخدام جميع الأدوات المتاحة لك للتحقق مما تتم مشاركته."
+ ],
+ [
+  "\"Many people reached out to me to tell me that it's fake,\" Mekhtfe told CNN, referring to the fake missile video. \"But it's my video and I have the original and it doesn't show that. When people ask me about it, I tell them, the doctored one is not true.\"",
+  "وقال ميختفي لشبكة سي إن إن «العديد من الأشخاص تواصلوا معي ليخبروني أنها مزيفة»، في إشارة إلى شريط الفيديو الصاروخي المزيف. «لكنه الفيديو الخاص بي ولدي النسخة الأصلية ولا يظهر ذلك. عندما يسألني الناس عن ذلك، أقول لهم، الشخص المعالج ليس صحيحًا»."
+ ],
+ [
+  "Doctored videos are already faking the cause of Beirut's explosion",
+  "أشرطة الفيديو التي تم التلاعب بها تزيف بالفعل سبب انفجار بيروت"
+ ],
+ [
+  "Communicating During Breaking News",
+  "التواصل أثناء الأخبار العاجلة"
+ ],
+ [
+  "Assessing Your Risks",
+  "تقييم المخاطر الخاصة بك"
+ ],
+ [
+  "During breaking news coverage you want to ensure that all the relevant teams aware of what is happening when it happens.  That being said you also have to allow your journalists  the time and space to do their job. Efficient and targetted communication is key.  ",
+  "أثناء التغطية الإخبارية العاجلة، تريد التأكد من أن جميع الفرق ذات الصلة على دراية بما يحدث عند حدوثه. ومع ذلك، يجب عليك أيضًا السماح للصحفيين بالوقت والمكان للقيام بعملهم. التواصل الفعال والمستهدف هو المفتاح. "
+ ],
+ [
+  "Deploying Teams During Breaking News",
+  "نشر الفرق أثناء الأخبار العاجلة"
+ ],
+ [
+  "Breaking News Tips from CNN Journalists ",
+  "نصائح الأخبار العاجلة من صحفيي CNN "
+ ],
+ [
+  "Breaking news case studies",
+  "دراسات حالة الأخبار العاجلة"
+ ],
+ [
+  "The Beirut Explosion",
+  "انفجار بيروت"
+ ],
+ [
+  "We have front seats to history. And that is something which I always I'm very conscious of. ",
+  "لدينا مقاعد أمامية للتاريخ. وهذا شيء أنا دائمًا مدرك جدًا له. "
+ ],
+ [
+  "Ram Ramgopal, ROW Executive Editor",
+  "رام رامغوبل، محرر ROW التنفيذي"
+ ],
+ [
+  "The News Breaks",
+  "فواصل الأخبار"
+ ],
+ [
+  "On August 4th 2020, a massive explosion tore through the Lebanese capital of Beirut ",
+  "في 4 أغسطس 2020، وقع انفجار هائل في العاصمة اللبنانية بيروت "
+ ],
+ [
+  "killing 190 people, injuring more than 6,000",
+  "مما أسفر عن مقتل 190 شخصا وإصابة أكثر من 6000"
+ ],
+ [
+  ", and leaving more than 300,000 displaced from their homes. It was linked to nearly 3,000 tonnes of ammonium nitrate which had been stored at Beirut's port for six years. Ammonium nitrate is a highly volatile material used in ",
+  ", و ترك أكثر من 300 ألف مشرد من منازلهم. تم ربطه بحوالي 3,000 طن من نترات الأمونيوم التي تم تخزينها في ميناء بيروت لمدة ست سنوات. نترات الأمونيوم هي مادة شديدة التقلب تستخدم في "
+ ],
+ [
+  "agricultural fertilizers and explosives",
+  "الأسمدة الزراعية والمتفجرات"
+ ],
+ [
+  "Why was this a major breaking news story? ",
+  "لماذا كانت هذه قصة أخبار عاجلة كبيرة؟ "
+ ],
+ [
+  "Earlier, we talked about the different factors that determine the level of a breaking news story and by extension our coverage of it. The Beirut Explosion meets all the main criteria.",
+  "في وقت سابق، تحدثنا عن العوامل المختلفة التي تحدد مستوى قصة الأخبار العاجلة وبالتالي تغطيتنا لها. يلبي انفجار بيروت جميع المعايير الرئيسية."
+ ],
+ [
+  "Go to Lesson",
+  "انتقل إلى الدرس"
+ ],
+ [
+  "The Beirut Explosion continues to be a focus for us months after it occurred as it continues to have political, social and economic consequences for Lebanon and the region. ",
+  "لا يزال انفجار بيروت محط تركيز لنا بعد أشهر من وقوعه حيث لا يزال له عواقب سياسية واجتماعية واقتصادية على لبنان والمنطقة. "
+ ],
+ [
+  "It has refocused Lebanese attention on chronic mismanagement and allegations of corruption that many believe were the real reasons for the blast. It has provided an opportunity for the international community, led by countries such as France, to call on Lebanon's political elite to introduce real structural reforms. ",
+  "وقد أعاد تركيز اهتمام لبنان على سوء الإدارة المزمن ومزاعم الفساد التي يعتقد الكثيرون أنها كانت الأسباب الحقيقية للانفجار. لقد أتاحت الفرصة للمجتمع الدولي، بقيادة دول مثل فرنسا، لدعوة النخبة السياسية في لبنان إلى إدخال إصلاحات هيكلية حقيقية. "
+ ],
+ [
+  "And, more importantly, it continues to have a major real-life impact on the people living in Lebanon. Read ",
+  "والأهم من ذلك، أنه لا يزال له تأثير كبير في الحياة الواقعية على الناس الذين يعيشون في لبنان. اقرأ "
+ ],
+ [
+  "this story",
+  "هذه القصة"
+ ],
+ [
+  " from CNN teams in Beirut about the hopes and despair surrounding a rescue attempt a month after the blast and watch this report. ",
+  " من فرق CNN في بيروت حول الآمال واليأس المحيط بمحاولة إنقاذ بعد شهر من الانفجار وشاهد هذا التقرير. "
+ ],
+ [
+  "It was clear from the beginning that this story went beyond the immediate ramifications of the blast. ",
+  "كان من الواضح منذ البداية أن هذه القصة تجاوزت التداعيات المباشرة للانفجار. "
+ ],
+ [
+  "The explosion sparked fury in Lebanon, where the government has been plagued by accusations of corruption and gross mismanagement, and plunged the country even further into economic turmoil.",
+  "أثار الانفجار غضبًا في لبنان, حيث ابتليت الحكومة باتهامات بالفساد وسوء الإدارة الجسيم, وأغرق البلاد أكثر في الاضطرابات الاقتصادية."
+ ],
+ [
+  "Following the blasts, Beirut was rocked by ",
+  "بعد الانفجارات، هزت بيروت "
+ ],
+ [
+  "violent protests",
+  "احتجاجات عنيفة"
+ ],
+ [
+  " for days, with demonstrators calling for \"",
+  " لأيام, مع المتظاهرين الذين يدعون إلى»"
+ ],
+ [
+  "revenge",
+  "انتقام"
+ ],
+ [
+  "\" against the ruling class of politicians widely held responsible. Protesters occupied several government ministries and threw stones and shards of glass at security forces. Police fired hundreds of rounds of tear gas as well rubber bullets and, in some cases, live fire.",
+  "«ضد الطبقة الحاكمة من السياسيين الذين يتحملون المسؤولية على نطاق واسع. واحتل المتظاهرون عدة وزارات حكومية وألقوا الحجارة وشظايا الزجاج على قوات الأمن. أطلقت الشرطة مئات الطلقات من الغاز المسيل للدموع وكذلك الرصاص المطاطي و, في بعض الحالات, النيران الحية."
+ ],
+ [
+  "Less than a week after the blast, Lebanon's government stepped down, with Prime Minister Hassan Diab calling the blast a \"disaster beyond measure.\" He berated Lebanon's ruling political elite for fostering what he called \"an apparatus of corruption bigger than the state.\" Lebanese President Michel Aoun has said it would be \"",
+  "بعد أقل من أسبوع على الانفجار، تنحت الحكومة اللبنانية عن منصبها، ووصف رئيس الوزراء حسن دياب الانفجار بأنه «كارثة لا يمكن قياسها». وتوبخ النخبة السياسية الحاكمة في لبنان لتبني ما أسماه «جهاز فساد أكبر من الدولة». قال الرئيس اللبناني ميشال عون إنه سيكون»"
+ ],
+ [
+  "impossible",
+  "مستحيل"
+ ],
+ [
+  "\" for him to resign because it would lead to a power vacuum.",
+  "«بالنسبة له أن يستقيل لأنه من شأنه أن يؤدي إلى فراغ السلطة."
+ ],
+ [
+  "Less than a month after the blast, Lebanon's leaders designated the country's ambassador to Germany, ",
+  "بعد أقل من شهر من الانفجار، عين قادة لبنان سفير البلاد في ألمانيا، "
+ ],
+ [
+  "Mustapha Adib",
+  "مصطفى أديب"
+ ],
+ [
+  ", as the new Prime Minister.",
+  ", كرئيس جديد لل وزراء."
+ ],
+ [
+  "First, there is the explosion's immediate impact. It tore through Beirut's only port, killed nearly 200 people and injured thousands. It shattered windows and blew out doors across Beirut and was even felt in Cyprus, about 240 kilometers — or 150 miles — away.  The blast generated seismic waves equivalent to a magnitude 3.3 earthquake.",
+  "أولاً، هناك تأثير فوري للانفجار. لقد مزقت الميناء الوحيد في بيروت، وقتلت ما يقرب من 200 شخص وأصابت الآلاف. لقد حطمت النوافذ وفجرت الأبواب في جميع أنحاء بيروت وشعرت حتى في قبرص، على بعد حوالي 240 كيلومترًا - أو 150 ميلًا -. أدى الانفجار إلى موجات زلزالية تعادل زلزال بقوة 3.3 درجة."
+ ],
+ [
+  "Beirut's governor Marwan Abboud told reporters that the explosion had resulted in an estimated $3 to $5 billion in damage and that at least 300,000 people were \"unable to sleep in their homes.\"",
+  "وقال محافظ بيروت مروان عبود للصحفيين إن الانفجار أسفر عن أضرار تقدر بـ 3 إلى 5 مليارات دولار وأن ما لا يقل عن 300 ألف شخص «غير قادرين على النوم في منازلهم»."
+ ],
+ [
+  "A million things were going through my head as to what it possibly could have been. Lebanon being Lebanon, I thought perhaps it was an Israeli airstrike because of the tensions between Hezbollah and Israel... It took quite a while for the details of the 2,750 metric tons of ammonium nitrate that were supposedly in that hangar to come out.",
+  "كان هناك مليون شيء يدور في رأسي فيما يتعلق بما يمكن أن يكون عليه. لبنان هو لبنان، اعتقدت أنها ربما كانت غارة جوية إسرائيلية بسبب التوترات بين حزب الله وإسرائيل... استغرق الأمر بعض الوقت لتفاصيل 2,750 طن متري من نترات الأمونيوم التي كان من المفترض أن تكون في تلك الحظيرة للخروج."
+ ],
+ [
+  "The Initial Hours of Beirut Explosion Coverage",
+  "تغطية الساعات الأولى من انفجار بيروت"
+ ],
+ [
+  "Breaking News Tips ",
+  "نصائح الأخبار العاجلة "
+ ],
+ [
+  "Ghazi's tip to producers in the field is simple: prioritize. Focus on what you have to do first and forget the trivial issues.  Head over to our lesson on tips from CNN journalists during breaking news coverage.",
+  "نصيحة غازي للمنتجين في هذا المجال بسيطة: تحديد الأولويات. ركز على ما عليك فعله أولاً وانسى القضايا التافهة. توجه إلى درسنا حول نصائح من صحفيي CNN أثناء التغطية الإخبارية العاجلة."
+ ],
+ [
+  "Deploying more resources: ",
+  "نشر المزيد من الموارد: "
+ ],
+ [
+  "It was clear from early in the story that Ben wasn't going to single-handedly meet the coverage demands of the story for our different platforms and networks. So plans were made to deploy reporting teams from Istanbul and Abu Dhabi to boost the CNN presence on the ground in Beirut. ",
+  "كان من الواضح منذ وقت مبكر من القصة أن بن لن يلبي بمفرده متطلبات تغطية القصة لمنصاتنا وشبكاتنا المختلفة. لذلك تم وضع خطط لنشر فرق إعداد التقارير من اسطنبول وأبو ظبي لتعزيز وجود سي إن إن على الأرض في بيروت. "
+ ],
+ [
+  "Social Newsgathering:",
+  "جمع الأخبار الاجتماعية:"
+ ],
+ [
+  " Our social discovery team was able to recognize the scope of the blast and to search for people who were posting about within the vicinity. Paul was able to use context clues from the videos being uploaded to verify their authenticity and to track down an eyewitness on a boat who shared his footage with CNN adding an extra layer to our coverage. ",
+  " تمكن فريق الاكتشاف الاجتماعي لدينا من التعرف على نطاق الانفجار والبحث عن الأشخاص الذين كانوا ينشرون حول المنطقة المجاورة. تمكن بول من استخدام أدلة السياق من مقاطع الفيديو التي يتم تحميلها للتحقق من صحتها وتعقب شاهد عيان على متن قارب شارك لقطاته مع سي إن إن مضيفًا طبقة إضافية إلى تغطيتنا. "
+ ],
+ [
+  "Prioritizing on the ground: ",
+  "تحديد الأولويات على أرض الواقع: "
+ ],
+ [
+  "As you can see from the clips in the gallery below, our Beirut bureau was also severely damaged by the explosion. That meant that when our producer Ghazi got to the bureau he had to ",
+  "كما ترون من المقاطع الموجودة في المعرض أدناه، تعرض مكتبنا في بيروت لأضرار بالغة بسبب الانفجار. وهذا يعني أنه عندما وصل منتجنا غازي إلى المكتب كان عليه أن "
+ ],
+ [
+  "prioritize and multi-task",
+  "تحديد الأولويات والمهام المتعددة"
+ ],
+ [
+  ". Before getting to the bureau, he dispatched a freelance cameraman to shoot some footage that would be used in the coverage. Once at the bureau, he made sure that there were security plans in place to protect valuables and conducted a health and safety assessment to make sure the team could operate in the office. Meanwhile, he helped Ben chase editorial lines. ",
+  ". قبل الوصول إلى المكتب، أرسل مصورًا مستقلاً لتصوير بعض اللقطات التي سيتم استخدامها في التغطية. وبمجرد وصوله إلى المكتب، تأكد من وجود خطط أمنية لحماية الأشياء الثمينة وأجرى تقييمًا للصحة والسلامة للتأكد من أن الفريق يمكن أن يعمل في المكتب. وفي الوقت نفسه، ساعد بن في مطاردة الخطوط التحريرية. "
+ ],
+ [
+  "Confirming & Reporting: ",
+  "التأكيد وإعداد التقارير: "
+ ],
+ [
+  "With Ben and his team on the ground in Beirut, CNN was in a position to immediately confirm the story from and to provide breaking news coverage for its audience. Ben was able to go live, first on the phone then on camera, and provide reporting what was happening to him. He was doing this while getting updates from Ghazi, his producer, and contacts throughout Beirut. Our planning team was also able to set up interviews with other eyewitnesses on the ground to provide additional perspectives.",
+  "مع وجود بن وفريقه على الأرض في بيروت، كانت سي إن إن في وضع يمكنها من تأكيد القصة على الفور وتقديم تغطية إخبارية عاجلة لجمهورها. كان بن قادرا على الذهاب على الهواء مباشرة، أولا على الهاتف ثم على الكاميرا، وتقديم التقارير ما كان يحدث له. كان يفعل ذلك بينما كان يحصل على تحديثات من غازي، منتجه، واتصالاته في جميع أنحاء بيروت. تمكن فريق التخطيط لدينا أيضًا من إجراء مقابلات مع شهود عيان آخرين على الأرض لتقديم وجهات نظر إضافية."
+ ],
+ [
+  "Newsgathering During a Global Pandemic: ",
+  "جمع الأخبار خلال جائحة عالمي: "
+ ],
+ [
+  "The COVID-19 global pandemic has added multiple considerations and layers to our decision-making matrix during breaking news situations. Our most important priority is the safety of our team.  When we are deploying teams we want to ensure their health is being protected at all times. That means sourcing PPE equipment for them, thinking about how to isolate teams and have contingency plans if teams need to be separated. It has also brought about additional travel restrictions and quarantine requirements which restrict the movements of our teams and limit our access to a story. ",
+  "أضاف جائحة COVID-19 العالمي اعتبارات وطبقات متعددة إلى مصفوفة صنع القرار لدينا خلال مواقف الأخبار العاجلة. أولويتنا الأكثر أهمية هي سلامة فريقنا. عندما ننشر فرقًا، نريد ضمان حماية صحتهم في جميع الأوقات. وهذا يعني الحصول على معدات معدات الوقاية الشخصية لهم، والتفكير في كيفية عزل الفرق ووضع خطط طوارئ إذا كانت الفرق بحاجة إلى الفصل. كما أدى إلى فرض قيود سفر إضافية ومتطلبات الحجر الصحي التي تقيد تحركات فرقنا وتحد من وصولنا إلى القصة. "
+ ],
+ [
+  "CNN's Beirut Bureau After The Explosion",
+  "مكتب سي إن إن بيروت بعد الانفجار"
+ ],
+ [
+  "Communication During Initial Hours of Beirut Story",
+  "التواصل خلال الساعات الأولى من قصة بيروت"
+ ],
+ [
+  "One of the key elements during a breaking news situation is how different CNN teams communicate with one another. Our teams in the field need to be able to relay information about what is happening on the ground to our newsgathering hubs in Atlanta, New York, London, Abu Dhabi or Hong Kong. Our newsgathering teams on the International and National newsdesks need to pass on logistical information to our teams and update our programming teams about all the latest developments and what reporting we have cleared for air. ",
+  "أحد العناصر الرئيسية خلال حالة الأخبار العاجلة هو كيفية تواصل فرق CNN المختلفة مع بعضها البعض. يجب أن تكون فرقنا في الميدان قادرة على نقل المعلومات حول ما يحدث على أرض الواقع إلى مراكز جمع الأخبار لدينا في أتلانتا, نيويورك, لندن, أبو ظبي أو هونج كونج. تحتاج فرق جمع الأخبار لدينا في مكاتب الأخبار الدولية والوطنية إلى نقل المعلومات اللوجستية إلى فرقنا وتحديث فرق البرمجة لدينا حول جميع التطورات الأخيرة والتقارير التي قمنا بمسحها للبث. "
+ ],
+ [
+  "Lesson: Communicating During Breaking News",
+  "درس: التواصل أثناء الأخبار العاجلة"
+ ],
+ [
+  "What are the best practices for communicating during a breaking news event? How can you ensure information is reaching teams that need it most?  ",
+  "ما هي أفضل الممارسات للتواصل خلال حدث الأخبار العاجلة؟ كيف يمكنك التأكد من وصول المعلومات إلى الفرق التي هي في أمس الحاجة إليها؟ "
+ ],
+ [
+  "There are multiple considerations when communicating with different teams during a breaking news story on the scale of the Beirut explosion. ",
+  "هناك اعتبارات متعددة عند التواصل مع فرق مختلفة خلال قصة إخبارية عاجلة حول حجم انفجار بيروت. "
+ ],
+ [
+  "Keep it relevant.",
+  "احتفظ بها ذات صلة."
+ ],
+ [
+  " Not everyone needs to know everything at all times. If you are working on a logistical issue then the editorial programming team in the middle of rolling coverage doesn't need to know. Make sure what you are communicating is relevant to who you are communicating it to. ",
+  " لا يحتاج الجميع إلى معرفة كل شيء في جميع الأوقات. إذا كنت تعمل على مشكلة لوجستية، فلن يحتاج فريق البرمجة التحريرية في منتصف التغطية المتجددة إلى معرفة ذلك. تأكد من أن ما تقوم بتوصيله وثيق الصلة بمن تقوم بتوصيله إليه. "
+ ],
+ [
+  "Get the information out.",
+  "احصل على المعلومات."
+ ],
+ [
+  " There are multiple ways for getting the information out to the teams that need it most. That means getting up a telephone breaking news bridge as well as using whatever is the most convenient tool for communicating in that instance. Your top priority is ensuring those who need to know about the latest developments in a story, specifically your programming teams, get it in a timely fashion. ",
+  " هناك طرق متعددة لإيصال المعلومات إلى الفرق التي هي في أمس الحاجة إليها. وهذا يعني الحصول على جسر الأخبار العاجلة عبر الهاتف وكذلك استخدام كل ما هو الأداة الأكثر ملاءمة للتواصل في هذه الحالة. أولويتك القصوى هي ضمان حصول أولئك الذين يحتاجون إلى معرفة آخر التطورات في القصة، وتحديداً فرق البرمجة الخاصة بك، في الوقت المناسب. "
+ ],
+ [
+  "Remember batteries.",
+  "تذكر البطاريات."
+ ],
+ [
+  " These are not normal times. Your team on the ground is dealing with a major situation. They may be out newsgathering while also providing live reporting back to you or power might have gone off where they are so they might not have a chance to recharge their batteries for a while. If you want them to carry on reporting make sure you take into account their unique situation. ",
+  " هذه ليست أوقاتًا عادية. يتعامل فريقك على الأرض مع موقف كبير. قد يكونون في الخارج لجمع الأخبار بينما يقدمون أيضًا تقارير مباشرة إليك أو ربما تكون الطاقة قد انقطعت في مكانها، لذلك قد لا تتاح لهم فرصة إعادة شحن بطارياتهم لفترة من الوقت. إذا كنت تريد منهم الاستمرار في إعداد التقارير، فتأكد من مراعاة وضعهم الفريد. "
+ ],
+ [
+  "Keep it simple.",
+  "أبقيها بسيطة."
+ ],
+ [
+  " When talking to your teams in the field eep your messages ",
+  " عند التحدث إلى فرقك في الميدان، احتفظ برسائلك "
+ ],
+ [
+  "short, precise and to the point",
+  "قصيرة ودقيقة وإلى هذه النقطة"
+ ],
+ [
+  ". Limit the number of people who are reaching out to your correspondent or producer on the ground and nominate one or two people to be their main interlocutors.  ",
+  ". الحد من عدد الأشخاص الذين يتواصلون مع مراسلك أو منتجك على الأرض وترشيح شخصًا أو شخصين ليكونوا محاوريهم الرئيسيين. "
+ ],
+ [
+  "These days a lot of information about a breaking news event is shared on messaging groups such as Whatsapp or Telegram. Here we can see Senior International Correspondent Arwa Damon asking our Senior News Desk Edior, Schams Elwazer to chase up reports about a demonstration in downtown Beirut. ",
+  "في هذه الأيام، تتم مشاركة الكثير من المعلومات حول حدث الأخبار العاجلة على مجموعات المراسلة مثل Whatsapp أو Telegram. هنا يمكننا أن نرى المراسلة الدولية الأولى أروى ديمون تطلب من كبير محرري مكتب الأخبار لدينا، شمس الوازر، متابعة التقارير حول مظاهرة في وسط بيروت. "
+ ],
+ [
+  "Ghazi, who is our Senior Field Producer based out of Beirut, enters the conversation to add local context to the discussion.",
+  "غازي، وهو منتج ميداني أول مقيم في بيروت، يدخل المحادثة لإضافة سياق محلي للمناقشة."
+ ],
+ [
+  "Useful Newsgathering Tool ",
+  "أداة جمع الأخبار المفيدة "
+ ],
+ [
+  "Our teams can use messaging groups to talk about the latest developments and to confirm information that is out there. ",
+  "يمكن لفرقنا استخدام مجموعات المراسلة للتحدث عن آخر التطورات وتأكيد المعلومات الموجودة هناك. "
+ ],
+ [
+  "Here you can see Ben Wedeman asking the team to help compile a list of all cabinet ministers who have resigned following the Beirut explosion.",
+  "هنا يمكنك أن ترى بن ودمان يطلب من الفريق المساعدة في تجميع قائمة بجميع وزراء الحكومة الذين استقالوا بعد انفجار بيروت."
+ ],
+ [
+  "Chasing Latest Developments",
+  "مطاردة أحدث التطورات"
+ ],
+ [
+  "Tools like WhatsApp or other messaging apps are useful for communicating with your team especially if they are spread across the world.  ",
+  "أدوات مثل WhatsApp أو تطبيقات المراسلة الأخرى مفيدة للتواصل مع فريقك خاصة إذا كانت منتشرة في جميع أنحاء العالم. "
+ ],
+ [
+  "Summary",
+  "ملخص"
+ ],
+ [
+  "We have to use technology that we know will work in different parts of the world. We need to have real-time conversations between our teams so messaging apps are a good tool for this. ",
+  "علينا استخدام التكنولوجيا التي نعلم أنها ستعمل في أجزاء مختلفة من العالم. نحتاج إلى إجراء محادثات في الوقت الفعلي بين فرقنا، لذا تعد تطبيقات المراسلة أداة جيدة لذلك. "
+ ],
+ [
+  "Click through a series of messages that were sent by CNN journalists on the Beirut Explosion editorial Whatsapp group created by the CNN International Desk and comprised of teams on the ground, newsgathering operations from CNN hubs around the world and TV and digital programming teams.",
+  "انقر على سلسلة من الرسائل التي أرسلها صحفيو سي إن إن على مجموعة واتس اب الافتتاحية في بيروت إكسبلوجن التي أنشأها مكتب سي إن إن الدولي وتتألف من فرق على الأرض, عمليات جمع الأخبار من مراكز CNN حول العالم وفرق البرمجة التلفزيونية والرقمية."
+ ],
+ [
+  "Using Tech to Communicate: WhatsApp Groups",
+  "استخدام التكنولوجيا للتواصل: مجموعات WhatsApp"
+ ],
+ [
+  "Reflections from CNN Teams Covering The Beirut Breaking News Story  ",
+  "تأملات من فرق CNN تغطي قصة الأخبار العاجلة في بيروت "
+ ],
+ [
+  "Conclusion",
+  "الخاتمة"
+ ],
+ [
+  "Quiz",
+  "كويز"
+ ],
+ [
+  "Thank you for completing When News Breaks: Newsgathering. Now you're ready to take a short quiz about what you've learned. ",
+  "شكرًا لك على إكمال «عند فواصل الأخبار»: جمع الأخبار. أنت الآن جاهز لإجراء اختبار قصير حول ما تعلمته. "
+ ],
+ [
+  "Breaking news is always unexpected. We can't plan for it. Its scope and impact also go beyond its immediate surroundings. ",
+  "الأخبار العاجلة دائمًا غير متوقعة. لا يمكننا التخطيط لذلك. يتجاوز نطاقها وتأثيرها أيضًا محيطها المباشر. "
+ ],
+ [
+  "What is the most complete definition of a breaking news story? ",
+  "ما هو التعريف الأكثر اكتمالا لقصة الأخبار العاجلة؟ "
+ ],
+ [
+  "Breaking news is an important story that we have planned to cover with all our resources.",
+  "الأخبار العاجلة هي قصة مهمة خططنا لتغطيتها بكل مواردنا."
+ ],
+ [
+  "Breaking news is an unexpected event with limited impact which is important to some of our audience. ",
+  "الأخبار العاجلة هي حدث غير متوقع له تأثير محدود وهو أمر مهم لبعض جمهورنا. "
+ ],
+ [
+  "Breaking news is an unexpected event or a significant advance on a story that we're already covering that is important enough for us to break into our regular programming to update our audience.",
+  "الأخبار العاجلة هي حدث غير متوقع أو تقدم كبير في قصة نغطيها بالفعل وهي مهمة بما يكفي بالنسبة لنا لاقتحام برامجنا العادية لتحديث جمهورنا."
+ ],
+ [
+  "The first step you should take is to ensure everyone in your network knows you are aware of the story so you and the rest of your newsgathering team can focus on confirming reportable lines. ",
+  "الخطوة الأولى التي يجب عليك اتخاذها هي التأكد من أن كل شخص في شبكتك يعرف أنك على دراية بالقصة حتى تتمكن أنت وبقية فريق جمع الأخبار من التركيز على تأكيد الخطوط التي يمكن الإبلاغ عنها. "
+ ],
+ [
+  "What is the first thing you should do if you are working in a newsgathering team when you are alerted to a potential breaking news story?",
+  "ما هو أول شيء يجب عليك فعله إذا كنت تعمل في فريق لجمع الأخبار عندما يتم تنبيهك إلى قصة إخبارية عاجلة محتملة?"
+ ],
+ [
+  "Reach out to eyewitnesses to see if they can join you on air. ",
+  "تواصل مع شهود العيان لمعرفة ما إذا كان بإمكانهم الانضمام إليك على الهواء. "
+ ],
+ [
+  "Start making plans for deploying teams into the location. ",
+  "ابدأ في وضع خطط لنشر الفرق في الموقع. "
+ ],
+ [
+  "Get working on confirming reportable lines. ",
+  "احصل على العمل على تأكيد الخطوط التي يمكن الإبلاغ عنها. "
+ ],
+ [
+  "Alert the rest of the network that you are aware of a potential breaking news story and that you are working to confirm it. ",
+  "قم بتنبيه بقية الشبكة بأنك على دراية بقصة إخبارية عاجلة محتملة وأنك تعمل على تأكيدها. "
+ ],
+ [
+  "During a breaking news situation, you need to give time and space to your journalists in the field to do their job. That means not keeping them on the phone for too long and communicating them in the shortest most direct fashion possible. ",
+  "خلال حالة الأخبار العاجلة، تحتاج إلى إعطاء الوقت والمساحة للصحفيين في الميدان للقيام بعملهم. وهذا يعني عدم الاحتفاظ بها على الهاتف لفترة طويلة جدًا والتواصل معها بأقصر طريقة مباشرة ممكنة. "
+ ],
+ [
+  "What should you not do when communicating with your team in the field during a breaking news situation? ",
+  "ما الذي يجب ألا تفعله عند التواصل مع فريقك في الميدان أثناء حالة الأخبار العاجلة؟ "
+ ],
+ [
+  "Ask them about their safety. ",
+  "اسألهم عن سلامتهم. "
+ ],
+ [
+  "Give them clear, concise information that will help them with their reporting. ",
+  "امنحهم معلومات واضحة وموجزة تساعدهم في إعداد تقاريرهم. "
+ ],
+ [
+  "Ask them a series of questions about the background to a story. ",
+  "اطرح عليهم سلسلة من الأسئلة حول خلفية القصة. "
+ ],
+ [
+  "Have a long chat about their future plans on how they want to cover this story. ",
+  "قم بإجراء محادثة طويلة حول خططهم المستقبلية حول كيفية تغطية هذه القصة. "
+ ],
+ [
+  "Update them about deployment plans of other teams that will be coming in to help them out. ",
+  "قم بتحديثهم حول خطط النشر للفرق الأخرى التي ستأتي لمساعدتهم. "
+ ],
+ [
+  "You should use whatever means of communication you have at your disposal to ensure all your team members are aware of what is happening. Messaging apps such as WhatsApp are sometimes the most reliable tools for communicating with team members spread across the world.",
+  "يجب عليك استخدام أي وسيلة اتصال لديك تحت تصرفك للتأكد من أن جميع أعضاء فريقك على دراية بما يحدث. تطبيقات المراسلة مثل WhatsApp هي في بعض الأحيان الأدوات الأكثر موثوقية للتواصل مع أعضاء الفريق المنتشرين في جميع أنحاء العالم."
+ ],
+ [
+  "You should only use emails and phone calls during breaking news coverage to avoid any confusions between the various teams working on a story.",
+  "يجب عليك فقط استخدام رسائل البريد الإلكتروني والمكالمات الهاتفية أثناء التغطية الإخبارية العاجلة لتجنب أي ارتباك بين الفرق المختلفة التي تعمل على قصة."
+ ],
+ [
+  "True",
+  "صحيح"
+ ],
+ [
+  "False",
+  "فالس"
+ ],
+ [
+  "CNN was fortunate to have Ben Wedeman on the ground to not only confirm the story but to also bring our audience immediate live coverage of the event.",
+  "كانت CNN محظوظة لوجود Ben Wedeman على الأرض ليس فقط لتأكيد القصة ولكن أيضًا لتقديم تغطية حية فورية لجمهورنا للحدث."
+ ],
+ [
+  "How was CNN able to confirm the Beirut Explosion story?",
+  "كيف تمكنت سي إن إن من تأكيد قصة انفجار بيروت؟"
+ ],
+ [
+  "Our social discovery team was quick to find eyewitnesses who had posted content on social media. ",
+  "سارع فريق الاكتشاف الاجتماعي لدينا إلى العثور على شهود عيان نشروا محتوى على وسائل التواصل الاجتماعي. "
+ ],
+ [
+  "Our Senior International Correspondent Ben Wedeman was in Beirut at the time of the explosion and called into the International Desk to confirm.",
+  "كان مراسلنا الدولي الكبير بن ودمان في بيروت وقت الانفجار واستدعى المكتب الدولي للتأكيد."
+ ],
+ [
+  "Reliable local news channels had confirmed the story. ",
+  "وقد أكدت قنوات إخبارية محلية موثوقة القصة. "
+ ],
+ [
+  "Reputable wire services had confirmed the story. ",
+  "وقد أكدت خدمات الأسلاك ذات السمعة الطيبة القصة. "
+ ],
+ [
+  "Key Takeaways",
+  "الوجبات الجاهزة الرئيسية"
+ ],
+ [
+  "Breaking news is something unexpected that is important enough for you to modify your regular programming to tell the audience about it. It is happening right now and requires the entire newsroom to shift into breaking news coverage mode. ",
+  "الأخبار العاجلة هي شيء غير متوقع مهم بما يكفي لتعديل برامجك العادية لإخبار الجمهور عنها. إنه يحدث الآن ويتطلب من غرفة الأخبار بأكملها التحول إلى وضع تغطية الأخبار العاجلة. "
+ ],
+ [
+  "Reporting.",
+  "إعداد التقارير."
+ ],
+ [
+  " In the immediate aftermath of a breaking news event, give your audience a sense of what is happening right now and provide them with the broader picture. Don't get bogged down in the details of the story or nuances that you can weave into the narrative at a later stage. ",
+  " في أعقاب حدث إخباري عاجل، امنح جمهورك فكرة عما يحدث الآن وزودهم بالصورة الأوسع. لا تتورط في تفاصيل القصة أو الفروق الدقيقة التي يمكنك نسجها في السرد في مرحلة لاحقة. "
+ ],
+ [
+  "Verification.",
+  "التحقق."
+ ],
+ [
+  " Your biggest priority during breaking news coverage is verifying the information that is pouring in. At the very least, you need to double source all the lines that you want to report on a story. Don't get lost in the fog of rumours and misinformation and don't sacrifice accuracy for speed. ",
+  " أولويتك الأكبر أثناء التغطية الإخبارية العاجلة هي التحقق من المعلومات التي تتدفق. على أقل تقدير، تحتاج إلى مضاعفة مصدر جميع الأسطر التي تريد الإبلاغ عنها في القصة. لا تضيع في ضباب الشائعات والمعلومات الخاطئة ولا تضحي بالدقة من أجل السرعة. "
+ ],
+ [
+  "Communication. ",
+  "التواصل. "
+ ],
+ [
+  "You need to ensure you are communicating what you know about a breaking news event both internally and to your audience. By alerting the rest of the network that you are aware of a breaking news situation you not only prepare them for it, you give yourself the opportunity to confirm reportable lines.",
+  "تحتاج إلى التأكد من أنك تنقل ما تعرفه عن حدث إخباري عاجل داخليًا وجمهورك. من خلال تنبيه بقية الشبكة بأنك على دراية بحالة الأخبار العاجلة، فأنت لا تعدهم فقط لذلك, أنت تمنح نفسك الفرصة لتأكيد الخطوط التي يمكن الإبلاغ عنها."
+ ],
+ [
+  "Nobody remembers if you broke a story two minutes before somebody else. But, a lot of people will remember if you got it first and you got it wrong.",
+  "لا أحد يتذكر ما إذا كنت قد كسرت قصة قبل دقيقتين من شخص آخر. ولكن، سيتذكر الكثير من الناس ما إذا كنت قد حصلت عليه أولاً وكنت قد أخطأت."
+ ],
+ [
+  "Have Further Questions?",
+  "هل لديك أسئلة أخرى؟"
+ ],
+ [
+  "Ultrices dui sapien eget mi proin sed. Ultrices dui sapien eget mi proin sed libero enim sed. Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. ",
+  "أولتريسيس دوي سابين إيجت مزيج بروتين سيد. أولتريسيس دوي سابين إيجت مزيج بروتين بذور ليبرو الدنيم المستخدمة. يستخدم ماتيس مولامكوربر فيليت سولامكوربر موربي tincidunt. تعليق الجنس نيسي لاكوس الجنس فيفيرا تيلوس في hac habitasse. "
+ ],
+ [
+  "Contact CNN Academy",
+  "اتصل بأكاديمية CNN"
+ ],
+ [
+  "If you have any questions about this course feel free to contact us. Make sure to enrol in When News Breaks: Programming to understand breaking news coverage from a programming perspective.",
+  "إذا كان لديك أي أسئلة حول هذه الدورة فلا تتردد في الاتصال بنا. تأكد من التسجيل في When News Breaks: البرمجة لفهم التغطية الإخبارية العاجلة من منظور البرمجة."
+ ],
+ [
+  "Email Us",
+  "البريد الإلكتروني لنا"
+ ],
+ [
+  "Thank you for completing this course!",
+  "شكرًا لك على إكمال هذه الدورة!"
+ ]
+]

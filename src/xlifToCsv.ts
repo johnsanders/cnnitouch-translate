@@ -16,10 +16,9 @@ const handleItem = async (item: GenericSpan | ItemArray, outputPairs: Pair[]) =>
 		for (let i = 0; i < item.length; i += 1) {
 			const nestedItem = item[i];
 			if (typeof nestedItem === 'string') {
-				await translateText(languageName, nestedItem, cachePairs);
-			} else {
-				await handleItem(nestedItem, outputPairs);
-			}
+				const translated = await translateText(languageName, nestedItem, cachePairs);
+				outputPairs.push([nestedItem, translated]);
+			} else await handleItem(nestedItem, outputPairs);
 		}
 	} else if (typeof item === 'object' && typeof item.GenericSpan.contents !== 'string') {
 		await handleItem(item.GenericSpan.contents, outputPairs);
@@ -34,7 +33,7 @@ const handleItem = async (item: GenericSpan | ItemArray, outputPairs: Pair[]) =>
 
 const run = async () => {
 	const outputPairs: Pair[] = [];
-	const xml = fs.readFileSync(`./filesIn/${contentName}-${languageName.toLowerCase()}.xlf`);
+	const xml = fs.readFileSync(`./filesIn/${type}/${contentName}-${languageName.toLowerCase()}.xlf`);
 	const js = await xliff12ToJs(xml.toString());
 	let count = 0;
 	for (const key1 of Object.keys(js.resources)) {
@@ -46,7 +45,7 @@ const run = async () => {
 			const item: { source: GenericSpan | ItemArray | string; target: any } = resource[key2];
 			if (typeof item.source === 'string') {
 				const translated = await translateText(languageName, item.source, cachePairs);
-				(item as any).target = translated;
+				outputPairs.push([item.source, translated]);
 			} else {
 				const target = cloneDeep(item.source);
 				(item as any).target = target;
