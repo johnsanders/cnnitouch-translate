@@ -21,6 +21,7 @@ const handleFile = async (filename: string, pairs: Pair[]) => {
 	for (const cue of tree.cues) {
 		const text = normalizeWhitespace(cue.tree.children[0].value);
 		const translated = pairs.find((pair) => pair[0] === text);
+		if (!translated) console.log('Could not translate', text);
 		cue.tree.children[0].value = cue.text = translated ? translated[1] : text;
 	}
 	const serialized = serializer.serialize(tree.cues);
@@ -31,10 +32,9 @@ const handleFile = async (filename: string, pairs: Pair[]) => {
 
 const run = async () => {
 	if (!fs.existsSync(vttOutPath)) fs.mkdirSync(vttOutPath);
-	const pairs = (await readCsv(`${csvPath}/${contentName}-${languageName}-${type}.csv`)) as [
-		string,
-		string,
-	][];
+	const pairs = (await readCsv(
+		`${csvPath}/${contentName}-${languageName.toLowerCase()}-${type}.csv`,
+	)) as [string, string][];
 	for (const filename of filenames) await handleFile(filename, pairs);
 };
 run();

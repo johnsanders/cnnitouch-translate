@@ -40,13 +40,12 @@ const putCaptions = async (contentName: string, languageName: LanguageName) => {
 		const textTrackUri = await getTextTrackUri(id);
 		const uploadLink = await createUploadLink(textTrackUri, languageName);
 		const res = await fetch(uploadLink, {
-			body: JSON.stringify(fileContents),
+			body: fileContents,
 			headers: { Accept: headers.Accept, 'Content-Type': 'text/plain' },
 			method: 'PUT',
 		});
 		const text = await res.text();
 		console.log(res.status, res.statusText, text);
-		return;
 	}
 };
 
