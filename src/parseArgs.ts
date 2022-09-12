@@ -7,7 +7,9 @@ export const vimeo = () => {
 			deleteInactive: { type: 'boolean' },
 			input: { type: 'string' },
 			lang: { type: 'string' },
+			limit: { type: 'string' },
 			mode: { type: 'string' },
+			noDownload: { type: 'boolean' },
 		},
 	});
 	if (!args.mode || (args.mode.includes('captions') && (!args.lang || !args.input))) {
@@ -16,9 +18,11 @@ export const vimeo = () => {
 	}
 	const languageName = args.lang as LanguageName;
 	const deleteInactive = args.deleteInactive;
+	const noDownload = args.noDownload;
 	const contentName = args.input as string;
+	const limit = args.limit ? parseInt(args.limit) : Infinity;
 	const mode = args.mode as 'videos' | 'captionsDown' | 'captionsUp';
-	return { contentName, deleteInactive, languageName, mode };
+	return { contentName, deleteInactive, languageName, limit, mode, noDownload };
 };
 
 export const csv = () => {

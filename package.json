@@ -15,8 +15,7 @@
     "vttToCsv": "node ./build/vttToCsv.js",
     "watch": "tsc --watch",
 		"wordCount": "node ./build/wordCount.js",
-    "xlifToCsv": "node ./build/xlifToCsv.js",
-    "xlifToList": "node ./build/xlifToList.js"
+    "xlifToCsv": "node ./build/xlifToCsv.js"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.184",

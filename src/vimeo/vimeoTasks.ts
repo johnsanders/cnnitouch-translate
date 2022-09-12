@@ -21,8 +21,15 @@ const getIds = () => {
 const run = async () => {
 	const args = parseArgs();
 	if (args.mode === 'captionsDown')
-		await getCaptions(getIds(), args.contentName, args.languageName, args.deleteInactive || false);
-	else if (args.mode === 'captionsUp') await putCaptions(args.contentName, args.languageName);
+		await getCaptions(
+			getIds(),
+			args.contentName,
+			args.languageName,
+			args.deleteInactive || false,
+			args.noDownload || false,
+		);
+	else if (args.mode === 'captionsUp')
+		await putCaptions(args.contentName, args.languageName, args.limit);
 	else if (args.mode === 'videos') await getVideos(getIds());
 };
 run();

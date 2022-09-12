@@ -39,19 +39,23 @@ const getCaptions = async (
 	contentName: string,
 	languageName: string,
 	deleteInactive: boolean,
+	noDownload: boolean,
 ) => {
 	let count = 0;
 	for (const id of ids) {
 		count += 1;
 		if (count > 40) break;
 		const res = await fetch(`${apiBase}/videos/${id}/texttracks`, { headers });
-		const files = (await res.json()) as any;
-		const downloaded = await downloadCaptionFile(id, contentName, languageName, files.data);
-		if (deleteInactive) await deleteInactiveCaptions(files);
-		if (!downloaded) {
-			console.log('Failed to download', id);
-			break;
+		const json: any = await res.json();
+		const files = json.data;
+		if (!noDownload) {
+			const downloaded = await downloadCaptionFile(id, contentName, languageName, files.data);
+			if (!downloaded) {
+				console.log('Failed to download', id);
+				break;
+			}
 		}
+		if (deleteInactive) await deleteInactiveCaptions(files);
 	}
 };
 export default getCaptions;

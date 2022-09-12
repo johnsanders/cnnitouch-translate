@@ -30,10 +30,13 @@ const createUploadLink = async (trackUri: string, languageName: LanguageName) =>
 	return json.link;
 };
 
-const putCaptions = async (contentName: string, languageName: LanguageName) => {
-	const localPath = `./filesOut/vtt/${contentName}-${languageName}`;
+const putCaptions = async (contentName: string, languageName: LanguageName, limit: number) => {
+	const localPath = `./filesOut/vtt/${contentName}-${languageName.toLowerCase()}`;
 	const filenames = fs.readdirSync(localPath).filter((filename) => filename.match(/\.vtt$/));
+	let count = 0;
 	for (const filename of filenames) {
+		count += 1;
+		if (count > limit) break;
 		console.log('File: ', filename);
 		const fileContents = fs.readFileSync(`${localPath}/${filename}`).toString();
 		const id = filename.replace('.vtt', '');

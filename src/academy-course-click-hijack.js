@@ -1,5 +1,6 @@
 let tiles = [];
-const waitInterval = 5;
+const waitInterval = 10;
+const waitTimeout = 5000;
 const waitForSelector = (parentEl, selector, timeoutInMs) =>
 	new Promise((resolve) => {
 		const then = Date.now();
@@ -7,7 +8,7 @@ const waitForSelector = (parentEl, selector, timeoutInMs) =>
 			const el = parentEl.querySelector(selector);
 			if (el) resolve(el);
 			else if (Date.now() - then < timeoutInMs) setTimeout(check, waitInterval);
-			else resolve(undefined);
+			else resolve(null);
 		};
 		check();
 	});
@@ -18,7 +19,7 @@ const waitForSelectorAll = (parentEl, selector, timeoutInMs) =>
 			const els = Array.from(parentEl.querySelectorAll(selector));
 			if (els.length > 0) resolve(els);
 			else if (Date.now() - then < timeoutInMs) setTimeout(check, waitInterval);
-			else resolve(undefined);
+			else resolve([]);
 		};
 		check();
 	});
@@ -33,9 +34,9 @@ const getClickedTileIndex = (x, y, tiles) => {
 const handleClick = async (e) => {
 	const clickedTileIndex = getClickedTileIndex(e.clientX, e.clientY, tiles);
 	if (!clickedTileIndex) return;
-	const section = await waitForSelector(document, `#section-${clickedTileIndex}`, 1000);
+	const section = await waitForSelector(document, `#section-${clickedTileIndex}`, waitTimeout);
 	if (!section) return;
-	const sectionResources = await waitForSelectorAll(section, 'ul.section li', 1000);
+	const sectionResources = await waitForSelectorAll(section, 'ul.section li', waitTimeout);
 	if (sectionResources.length === 1) {
 		section.style.display = 'none';
 		const link = sectionResources[0].querySelector('a');
