@@ -44,6 +44,25 @@ const handleClick = async (e) => {
 	}
 };
 const run = async () => {
+	if (!document.body.id === 'page-course-view-tiles') return;
+	const res = await fetch(
+		`https://academy.cnn.com/lib/ajax/service.php?info=format_tiles_get_single_section_page_html&sesskey=${window.M.cfg.sesskey}`,
+		{
+			body: JSON.stringify({
+				args: {
+					courseid: '12',
+					sectionid: 2,
+					setjsusedsession: true,
+				},
+				index: 0,
+				methodname: 'format_tiles_get_single_section_page_html',
+			}),
+			headers: { 'Content-Type': 'application/json' },
+			method: 'POST',
+		},
+	);
+	const html = await res.text();
+	console.log(html);
 	tiles = Array.from(document.querySelectorAll('.tile'));
 	document.addEventListener('click', handleClick);
 	const openSection = await waitForSelector(document, 'li.section.state-visible', 1000);

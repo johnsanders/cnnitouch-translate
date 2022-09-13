@@ -21,6 +21,7 @@ const pairs = (await readCsv(
 	`filesIn/csv/${contentName}-${languageName.toLowerCase()}-${type}.csv`,
 )) as Pair[];
 const revisionPairs: [string, string, string][] = [];
+const trim = (string: string) => string.replace(/^\s+|\s+$/g, '');
 
 type ItemArray = (string | GenericSpan | ItemArray)[];
 interface GenericSpan {
@@ -35,10 +36,10 @@ let count = 0;
 let wordCount = 0;
 const getTranslation = (input: string) => {
 	if (input.match(whitespacePattern) || input.length === 0) return '';
-	const inputTrimmed = input.replace(/\s+$/, '');
-	const translated = pairs.find((pair) => pair[0] === input || pair[0] === inputTrimmed);
+	const inputTrimmed = trim(input);
+	const translated = pairs.find((pair) => trim(pair[0]) === trim(input));
 	if (!translated) {
-		console.log(`Could not translate: "${input}"`);
+		console.log(`Could not translate: "${inputTrimmed}"`);
 		if (!revisionPairs.find((pair) => pair[0] === input)) {
 			count += 1;
 			wordCount += input.split(' ').length;
