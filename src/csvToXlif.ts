@@ -5,6 +5,7 @@ import fs from 'fs';
 import { parseArgs } from 'node:util';
 import readCsv from './readCsv.js';
 import writeCsv from './writeCsv.js';
+import xlifHack from './xlifHack.js';
 
 const { values: args } = parseArgs({
 	options: { input: { type: 'string' }, lang: { type: 'string' } },
@@ -66,7 +67,7 @@ const handleItem = async (item: GenericSpan | ItemArray) => {
 		await handleItem(item.GenericSpan.contents);
 	} else if (typeof item.GenericSpan.contents === 'string') {
 		const translated = getTranslation(item.GenericSpan.contents);
-		item.GenericSpan.contents = translated;
+		item.GenericSpan.contents = ` ${translated} `;
 	}
 };
 
@@ -84,11 +85,13 @@ const run = async () => {
 			}
 		}
 	}
-	const translatedXliff = await jsToXliff12(xlif);
+	const translatedXliffUnfixed = await jsToXliff12(xlif);
+	const translatedXliff = xlifHack(translatedXliffUnfixed);
 	const outPath = './filesOut/xlif';
 	if (!fs.existsSync(outPath)) fs.mkdirSync(outPath);
 	fs.writeFileSync(`${outPath}/${contentName}-${languageName.toLowerCase()}.xlf`, translatedXliff);
-	writeCsv(revisionPairs, contentName, languageName, 'xlif', 'revision1');
+	if (revisionPairs.length > 0)
+		writeCsv(revisionPairs, contentName, languageName, 'xlif', 'revision');
 	console.log('Need revision: ', count);
 	console.log('Need revision words: ', wordCount);
 };

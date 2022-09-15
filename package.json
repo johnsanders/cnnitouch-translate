@@ -10,14 +10,16 @@
     "build": "tsc",
     "csvToVtt": "node ./build/csvToVtt.js",
     "csvToXlif": "node ./build/csvToXlif.js",
+    "scorm": "node ./build/scormHack.js",
     "update": "npx --yes npm-check-updates -u --timeout 60000",
-		"vimeo": "node ./build/vimeo/vimeoTasks.js",
+    "vimeo": "node ./build/vimeo/vimeoTasks.js",
     "vttToCsv": "node ./build/vttToCsv.js",
     "watch": "tsc --watch",
-		"wordCount": "node ./build/wordCount.js",
+    "wordCount": "node ./build/wordCount.js",
     "xlifToCsv": "node ./build/xlifToCsv.js"
   },
   "devDependencies": {
+    "@types/adm-zip": "^0.5.0",
     "@types/lodash": "^4.14.184",
     "@types/lodash-es": "^4.17.6",
     "@types/qs": "^6.9.7",
@@ -32,6 +34,7 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
+    "adm-zip": "^0.5.9",
     "aws-sdk": "^2.1205.0",
     "csv-reader": "^1.0.9",
     "csv-writer": "^1.6.0",
