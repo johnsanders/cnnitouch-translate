@@ -8,18 +8,18 @@ const downloadCaptionFile = async (
 	languageName: string,
 	files: any[],
 ) => {
-	const localPath = `${downloadPath}/${contentName}-${languageName}`;
+	const localPath = `${downloadPath}/${contentName}`;
 	const localFilePath = `${localPath}/${id}.vtt`;
+	if (!fs.existsSync(localPath)) fs.mkdirSync(localPath);
 	if (fs.existsSync(localFilePath)) {
 		console.log('File already exists', id);
 		return true;
 	}
-	if (!fs.existsSync(localPath)) fs.mkdirSync(localPath);
 	const file = files.find((file: any) => file.active && file.language === languageName);
 	if (!file) return false;
 	const res = await fetch(file.link);
 	const captionContents = await res.text();
-	fs.writeFileSync(`/Users/jsanders/Downloads/${id}.vtt`, captionContents);
+	fs.writeFileSync(localFilePath, captionContents);
 	console.log('Downloaded', id);
 	return true;
 };
@@ -49,7 +49,7 @@ const getCaptions = async (
 		const json: any = await res.json();
 		const files = json.data;
 		if (!noDownload) {
-			const downloaded = await downloadCaptionFile(id, contentName, languageName, files.data);
+			const downloaded = await downloadCaptionFile(id, contentName, languageName, files);
 			if (!downloaded) {
 				console.log('Failed to download', id);
 				break;
