@@ -1,11 +1,9 @@
+import { getTranslationAws, getTranslationAzure } from './translateApis.js';
 import { LanguageName } from './types.js';
-import { getTranslationAws } from './translateApis.js';
 
-const waitFor = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 const whitespacePattern = /^\s?$/;
 
 const translateText = async (lang: LanguageName, text: string, cache: [string, string][]) => {
-	if (lang === 'Kurdish') return '';
 	if (text.match(whitespacePattern)) return '';
 	const cached = cache.find((pair) => pair[0] === text);
 	if (cached) {
@@ -13,8 +11,10 @@ const translateText = async (lang: LanguageName, text: string, cache: [string, s
 		logTranslation(text, cached[1]);
 		return cached[1];
 	}
-	await waitFor(50);
-	const translatedText = await getTranslationAws(text, lang);
+	const translatedText =
+		lang === 'Kurdish'
+			? await getTranslationAzure(text, lang)
+			: await getTranslationAws(text, lang);
 	cache.push([text, translatedText]);
 	logTranslation(text, translatedText);
 	return translatedText;
