@@ -19,7 +19,18 @@ const handleFile = async (filename: string, outputPairs: Pair[]) => {
 	const vtt = fs.readFileSync(`${vttPath}/vtt/${contentName}/${filename}`);
 	const parser = new VttParser.WebVTTParser();
 	const tree = parser.parse(vtt.toString(), 'metadata');
-	const sentences = pagesToSentences(tree.cues.map((cue: any) => cue.tree.children[0].value));
+	const sentences = pagesToSentences(
+		tree.cues.map((cue: any) => {
+			if (cue.tree.children.length === 1) return cue.tree.children[0].value;
+			if (cue.tree.children.length === 0) {
+				console.log('Cue is empty');
+				return '';
+			}
+			console.log('Cue tree has unexpected structure');
+			handlePairs.save(cachePairs, contentName, languageName, type);
+			process.exit();
+		}),
+	);
 	for (const sentence of sentences) {
 		count += 1;
 		if (count > limit) break;

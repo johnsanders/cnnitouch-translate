@@ -19,6 +19,7 @@ const handleFile = async (filename: string, pairs: Pair[]) => {
 	const parser = new VttParser.WebVTTParser();
 	const tree = parser.parse(vtt.toString(), 'metadata');
 	for (const cue of tree.cues) {
+		if (cue.tree.children.length === 0) continue;
 		const text = normalizeWhitespace(cue.tree.children[0].value);
 		const translated = pairs.find((pair) => pair[0] === text);
 		if (!translated) console.log('Could not translate', text);

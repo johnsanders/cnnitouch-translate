@@ -43,7 +43,7 @@ export const csv = () => {
 		options: { input: { type: 'string' }, lang: { type: 'string' }, limit: { type: 'string' } },
 	});
 	if (!args.lang || !args.input) {
-		console.log('--input=contentName --lang=language --type=vtt|xlif --limit=number');
+		console.log('--input=contentName --lang=language --limit=number');
 		process.exit(1);
 	}
 	const languageName = args.lang as LanguageName;
