@@ -21,28 +21,28 @@ export const head = `
 				'.fr-view',
 			];
 			
-			const run = setinterval(rtlfix, 1000);
-			
-			const rtlfix = () => {
-				const els = document.queryselectorall(selectors);
-				els.foreach((el) => {
-					el.setattribute('dir', 'rtl');
-					el.setattribute('align', 'right');
+			const rtlFix = () => {
+				const els = document.querySelectorAll(selectors);
+				els.forEach((el) => {
+					el.setAttribute('dir', 'rtl');
+					el.setAttribute('align', 'right');
 				});
-				const container = document.queryselector('.blocks-tabs__container');
+				const container = document.querySelector('.blocks-tabs__container');
 				if (container)
-					container.childnodes.foreach((node) => {
-						node.setattribute('dir', 'rtl');
-						node.setattribute('align', 'right');
+					container.childNodes.forEach((node) => {
+						node.setAttribute('dir', 'rtl');
+						node.setAttribute('align', 'right');
 					});
-				const progress = document.queryselector('.page-header-container');
+				const progress = document.querySelector('.page-header-container');
 				if (progress) {
-					progress.setattribute('dir', 'rtl');
-					progress.setattribute('align', 'center');
+					progress.setAttribute('dir', 'rtl');
+					progress.setAttribute('align', 'center');
 				}
 			};
+
+			const run = () => setInterval(rtlFix, 1000);
 			
-			if (document.readystate !== 'loading') run();
-			else document.addeventlistener('domcontentloaded');
+			if (document.readyState !== 'loading') run();
+			else document.addEventListener('DOMContentLoaded', run);
 		</script>
 `;
