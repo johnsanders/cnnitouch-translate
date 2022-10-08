@@ -4,6 +4,7 @@ import fs from 'fs';
 import normalizeWhitespace from './normalizeWhitespace.js';
 import { csv as parseCsvArgs } from './parseArgs.js';
 import readCsv from './readCsv.js';
+import writeCsv from './writeCsv.js';
 
 const type = 'vtt';
 const { contentName, languageName } = parseCsvArgs();
@@ -12,6 +13,7 @@ const vttOutPath = `./filesOut/vtt/${contentName}-${languageName.toLowerCase()}`
 const csvPath = './filesIn/csv';
 const serializer = new VttParser.WebVTTSerializer();
 const filenames = fs.readdirSync(vttInPath);
+const couldNotTranslate: [string, string][] = [];
 
 const handleFile = async (filename: string, pairs: Pair[]) => {
 	console.log('File:', filename);
@@ -22,13 +24,22 @@ const handleFile = async (filename: string, pairs: Pair[]) => {
 		if (cue.tree.children.length === 0) continue;
 		const text = normalizeWhitespace(cue.tree.children[0].value);
 		const translated = pairs.find((pair) => pair[0] === text);
-		if (!translated) console.log('Could not translate', text);
+		if (!translated) {
+			console.log('Could not translate', text);
+			couldNotTranslate.push([text, '']);
+		}
 		cue.tree.children[0].value = cue.text = translated ? translated[1] : text;
 	}
 	const serialized = serializer.serialize(tree.cues);
 	const filePath = `${vttOutPath}/${filename}`;
 	fs.writeFileSync(filePath, serialized);
-	console.log(`Wrote ${filePath}`);
+	console.log(`Wrote (${filePath})`);
+	if (couldNotTranslate.length > 0) {
+		writeCsv(couldNotTranslate, `${contentName}-failed`, languageName, 'vtt');
+		console.log(
+			`${couldNotTranslate.length} could not be translated. Wrote to ${contentName}-failed`,
+		);
+	}
 };
 
 const run = async () => {

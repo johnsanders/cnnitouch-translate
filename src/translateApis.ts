@@ -22,13 +22,17 @@ export const getTranslationAzure = async (text: string, lang: LanguageName) => {
 	const res = await fetch(azureEndpoint + queryString, {
 		body: JSON.stringify([{ text }]),
 		headers: {
-			'content-type': 'application/json',
-			'ocp-apim-subscription-key': apiKeys.azure,
-			'ocp-apim-subscription-region': azureRegion,
+			'Content-Type': 'application/json',
+			'Ocp-Apim-Subscription-Key': apiKeys.azure,
+			'Ocp-Apim-Subscription-Region': azureRegion,
 		},
 		method: 'POST',
 	});
 	const json = (await res.json()) as any;
+	if (!json[0]?.translations[0]?.text) {
+		console.log(json);
+		process.exit();
+	}
 	const translatedText = json[0].translations[0].text;
 	return translatedText;
 };

@@ -1,0 +1,2894 @@
+[
+ [
+  "<span translate=\"no\"></span>When you're thinking about programming the home page, a lot of people are just coming at this as their number one form of <span translate=\"no\"></span>news. ",
+  "<span translate=\"no\"></span>عندما تفكر في برمجة الصفحة الرئيسية، فإن الكثير من الناس يأتون إلى هذا باعتباره الشكل الأول<span translate=\"no\"></span> للأخبار. "
+ ],
+ [
+  "They're coming to see what's happening, just like they would pick up a copy of a newspaper back in back in the olden days. ",
+  "إنهم يأتون لرؤية ما يحدث، تمامًا كما لو كانوا يلتقطون نسخة من صحيفة في الماضي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it's that balance between, what do they need to know, just looking at this page and what do I need to get them <span translate=\"no\"></span>to click into? ",
+  "<span translate=\"no\"></span>إذن هذا هو التوازن بين، ما الذي يحتاجون إلى معرفته، مجرد النظر إلى هذه الصفحة وما الذي أحتاجه لحملهم<span translate=\"no\"></span> على النقر عليه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And so we're thinking about that as well. ",
+  "<span translate=\"no\"></span>ولذا فإننا نفكر في ذلك أيضًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And sometimes when big news is breaking, you really want to create that impactful experience as soon as someone types <span translate=\"no\"></span>in cnn.com ",
+  "<span translate=\"no\"></span>وأحيانًا عندما تكون الأخبار المهمة عاجلة، فأنت تريد حقًا إنشاء تلك التجربة المؤثرة بمجرد أن يكتب شخص ما<span translate=\"no\"></span> في cnn.com "
+ ],
+ [
+  "and and lands on that page. ",
+  "وتهبط على تلك الصفحة. "
+ ],
+ [
+  "What you are hoping that people will leave with or will find, I should say, <span translate=\"no\"></span>when they arrive on cnn.com ",
+  "ما تأمل أن يغادره الناس أو سيجدونه، يجب أن أقول،<span translate=\"no\"></span> عند وصولهم إلى cnn.com "
+ ],
+ [
+  "is a sense of what is important editorially on on a given day. ",
+  "هو الإحساس بما هو مهم من الناحية التحريرية في يوم معين. "
+ ],
+ [
+  "<span translate=\"no\"></span>What is the key news... ",
+  "<span translate=\"no\"></span>ما هي الأخبار الرئيسية... "
+ ],
+ [
+  "what are those key stories that people need to spend some time with? ",
+  "ما هي تلك القصص الرئيسية التي يحتاج الناس لقضاء بعض الوقت معها؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What are we saying <span translate=\"no\"></span>as a group of editors and professional journalists? ",
+  "<span translate=\"no\"></span>ماذا نقول<span translate=\"no\"></span> كمجموعة من المحررين والصحفيين المحترفين؟ "
+ ],
+ [
+  " What are we saying is important that is happening in the world <span translate=\"no\"></span>at this moment in time that you should be paying attention to? ",
+  " ما الذي نقوله مهم يحدث في العالم في هذه<span translate=\"no\"></span> اللحظة من الزمن والذي يجب أن تنتبه إليه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And so we are ranking those stories by their importance, by their sort of significance editorially. ",
+  "<span translate=\"no\"></span>وهكذا نقوم بتصنيف هذه القصص حسب أهميتها، حسب نوع أهميتها من الناحية التحريرية. "
+ ],
+ [
+  "And how we arrive at those <span translate=\"no\"></span>decisions is usually via a number of discussions where we think about how many people is this story impacting? ",
+  "وكيف نصل إلى هذه<span translate=\"no\"></span> القرارات عادة ما يكون من خلال عدد من المناقشات حيث نفكر في عدد الأشخاص الذين تؤثر عليهم هذه القصة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is it a story that is maybe a one off thing that is happening or is it a systemic issue? ",
+  "<span translate=\"no\"></span>هل هي قصة ربما تكون شيئًا لمرة واحدة يحدث أم أنها مشكلة نظامية؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is it a global challenge? ",
+  "<span translate=\"no\"></span>هل هو تحد عالمي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>All of those factors are being taken into account when we think about where does this story sit on the page. ",
+  "<span translate=\"no\"></span>يتم أخذ كل هذه العوامل في الاعتبار عندما نفكر في مكان وجود هذه القصة على الصفحة. "
+ ],
+ [
+  "And what's <span translate=\"no\"></span>the message that we're conveying by its placement and what are people going to take away from that? ",
+  "وما هي الرسالة<span translate=\"no\"></span> التي ننقلها من خلال موضعها وما الذي سيستخلصه الناس من ذلك؟ "
+ ],
+ [
+  "News is a hugely competitive <span translate=\"no\"></span>environment. ",
+  "الأخبار هي<span translate=\"no\"></span> بيئة تنافسية للغاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Breaking news in particular is more competitive than most. ",
+  "<span translate=\"no\"></span>الأخبار العاجلة على وجه الخصوص أكثر تنافسية من معظمها. "
+ ],
+ [
+  "<span translate=\"no\"></span>And we take into account what our competitors are doing all the time. ",
+  "<span translate=\"no\"></span>ونأخذ في الاعتبار ما يفعله منافسونا طوال الوقت. "
+ ],
+ [
+  "<span translate=\"no\"></span>We're always looking at what other big news organizations are covering, how they're covering it. ",
+  "<span translate=\"no\"></span>نحن نبحث دائمًا في ما تغطيه المؤسسات الإخبارية الكبيرة الأخرى، وكيفية تغطيتها له. "
+ ],
+ [
+  "<span translate=\"no\"></span>We're always looking at the home pages of all of our competitors and trying to make sure that that we're better than <span translate=\"no\"></span>them. ",
+  "<span translate=\"no\"></span>نحن نبحث دائمًا في الصفحات الرئيسية لجميع منافسينا ونحاول التأكد من أننا أفضل<span translate=\"no\"></span> منهم. "
+ ],
+ [
+  "Or if they're better than us at any one moment, what can we do to catch up? ",
+  "أو إذا كانوا أفضل منا في أي لحظة، ماذا يمكننا أن نفعل للحاق بالركب؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And that's good. ",
+  "<span translate=\"no\"></span>وهذا جيد. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, that competitive pressure I think is healthy in journalism. ",
+  "<span translate=\"no\"></span>كما تعلمون، أعتقد أن الضغط التنافسي صحي في الصحافة. "
+ ],
+ [
+  "<span translate=\"no\"></span>It means that it means that the audiences are served well. ",
+  "<span translate=\"no\"></span>هذا يعني أن الجماهير يتم خدمتها بشكل جيد. "
+ ],
+ [
+  "It means that our skills as journalists are improved. ",
+  "هذا يعني أن مهاراتنا كصحفيين قد تحسنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>The home page is different depending on what device you are consuming it on. ",
+  "<span translate=\"no\"></span>تختلف الصفحة الرئيسية اعتمادًا على الجهاز الذي تستهلكها عليه. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you're on desktop, you'll see a really sort of broad, big layout with a large sort of photo that's giving you a sense <span translate=\"no\"></span>of what is CNN saying is the most important story that you need to be reading today. ",
+  "<span translate=\"no\"></span>إذا كنت تستخدم سطح المكتب، فسترى نوعًا من التصميم الواسع والكبير مع نوع كبير من الصور التي<span translate=\"no\"></span> تمنحك فكرة عما تقوله CNN عن أهم قصة تحتاج إلى قراءتها اليوم. "
+ ],
+ [
+  "If you're on your phone, which is mobile <span translate=\"no\"></span>web. ",
+  "إذا كنت تستخدم هاتفك، وهو<span translate=\"no\"></span> الويب المحمول. "
+ ],
+ [
+  "<span translate=\"no\"></span>I you've typed CNN dot com into a browser on a smartphone that will give you a slightly different experience. ",
+  "<span translate=\"no\"></span>إذا قمت بكتابة CNN dot com في متصفح على هاتف ذكي سيمنحك تجربة مختلفة قليلاً. "
+ ],
+ [
+  "<span translate=\"no\"></span>You will have less space maybe there in order to communicate with the audience about <span translate=\"no\"></span>what is really important. ",
+  "<span translate=\"no\"></span>ربما سيكون لديك مساحة أقل للتواصل مع الجمهور حول<span translate=\"no\"></span> ما هو مهم حقًا. "
+ ],
+ [
+  "And you're dependent on people scrolling down several times on their phone to find some of the other <span translate=\"no\"></span>stories that you might want to surface. ",
+  "وأنت تعتمد على الأشخاص الذين يتنقلون لأسفل عدة مرات على هواتفهم للعثور على بعض<span translate=\"no\"></span> القصص الأخرى التي قد ترغب في عرضها. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then of course, the the experience is different as well <span translate=\"no\"></span>on the app. ",
+  "<span translate=\"no\"></span>ثم بالطبع، تختلف التجربة أيضًا<span translate=\"no\"></span> في التطبيق. "
+ ],
+ [
+  " We have an international homepage, a domestic homepage, different mobile home pages, different home pages <span translate=\"no\"></span>on our apps. ",
+  " لدينا صفحة رئيسية دولية، وصفحة رئيسية محلية، وصفحات رئيسية مختلفة للجوال، وصفحات رئيسية مختلفة<span translate=\"no\"></span> على تطبيقاتنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And we're programming them all separately in real time. ",
+  "<span translate=\"no\"></span>ونحن نقوم ببرمجتها جميعًا بشكل منفصل في الوقت الفعلي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, you know, we really want these to be up to the minute experiences for people. ",
+  "<span translate=\"no\"></span>لذلك، كما تعلمون، نريد حقًا أن تكون هذه التجارب على أحدث مستوى للأشخاص. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're looking for what is driving the story forward. ",
+  "<span translate=\"no\"></span>لذلك نحن نبحث عن ما يدفع القصة إلى الأمام. "
+ ],
+ [
+  "What is new today? ",
+  "ما الجديد اليوم؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What is new this minute? ",
+  "<span translate=\"no\"></span>ما الجديد في هذه اللحظة؟ "
+ ],
+ [
+  "if it's something that is really live, are we putting up a live stream and showing <span translate=\"no\"></span>people a press conference of what's happening right now? ",
+  "إذا كان هذا شيئًا مباشرًا حقًا، فهل ننشر بثًا مباشرًا ونعرض على<span translate=\"no\"></span> الناس مؤتمرًا صحفيًا لما يحدث الآن؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So we really want to create that dynamic live experience, really in the minute as much as possible. ",
+  "<span translate=\"no\"></span>لذلك نريد حقًا إنشاء تجربة حية ديناميكية، حقًا في الدقيقة قدر الإمكان. "
+ ],
+ [
+  "And then <span translate=\"no\"></span>once people are on the homepage and engaging in in the news that they need, we also want to give them the experience of analysis <span translate=\"no\"></span>and context and opinion. ",
+  "وبعد ذلك،<span translate=\"no\"></span> بمجرد دخول الأشخاص إلى الصفحة الرئيسية والمشاركة في الأخبار التي يحتاجون إليها، نريد أيضًا أن نمنحهم تجربة التحليل<span translate=\"no\"></span> والسياق والرأي. "
+ ],
+ [
+  "And really help them understand the events that are happening as well. ",
+  "وساعدهم حقًا على فهم الأحداث التي تحدث أيضًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it's striking that balance between this is happening right now and here's the information that you're gonna need to to <span translate=\"no\"></span>understand this better. ",
+  "<span translate=\"no\"></span>لذا فهي تحقق هذا التوازن بين ما يحدث الآن وإليك المعلومات التي ستحتاجها<span translate=\"no\"></span> لفهم هذا بشكل أفضل. "
+ ],
+ [
+  "<span translate=\"no\"></span>",
+  "<span translate=\"no\"></span>"
+ ],
+ [
+  "<span translate=\"no\"></span>How television and digital work together in like a large legacy organization, is that you're looking at the points where <span translate=\"no\"></span>there's a sort of a collaborative maybe crossover whereby, you know, on big stories, we would be collaborating on <span translate=\"no\"></span>the key editorial drivers. ",
+  "<span translate=\"no\"></span>كيف يعمل التلفزيون والرقمي معًا في منظمة قديمة كبيرة، هو أنك تنظر إلى النقاط التي<span translate=\"no\"></span> يوجد فيها نوع من التعاون وربما التقاطع حيث، كما تعلمون، في القصص الكبيرة، سنكون التعاون<span translate=\"no\"></span> في محركات التحرير الرئيسية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And when I say that, I mean, you know, what are the top lines of a story? ",
+  "<span translate=\"no\"></span>وعندما أقول ذلك، أعني، كما تعلمون، ما هي الخطوط العليا للقصة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What are the things that people are thinking about when news breaks? ",
+  "<span translate=\"no\"></span>ما هي الأشياء التي يفكر فيها الناس عند نشر الأخبار؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Really the fundamentals of what is happening. ",
+  "<span translate=\"no\"></span>حقا أساسيات ما يحدث. "
+ ],
+ [
+  "And then the things that are driving that for that story forward. ",
+  "ثم الأشياء التي تدفع ذلك لتلك القصة إلى الأمام. "
+ ],
+ [
+  " When it comes <span translate=\"no\"></span>to the key difference between linear and digital content, I think it comes down to the viewer and the role that they're playing. ",
+  " عندما<span translate=\"no\"></span> يتعلق الأمر بالفرق الرئيسي بين المحتوى الخطي والرقمي، أعتقد أن الأمر يتعلق بالمشاهد والدور الذي يلعبه. "
+ ],
+ [
+  "<span translate=\"no\"></span>Because in linear content, all the content has been curated by the broadcaster. ",
+  "<span translate=\"no\"></span>لأنه في المحتوى الخطي، تم تنسيق كل المحتوى من قبل المذيع. "
+ ],
+ [
+  "And the viewer is in a passive position. ",
+  "والمشاهد في وضع سلبي. "
+ ],
+ [
+  "And <span translate=\"no\"></span>they are in a lean back experience where they are watching what comes to them and they're not making active choices. ",
+  "<span translate=\"no\"></span>وهم في تجربة بسيطة حيث يشاهدون ما يأتي إليهم ولا يتخذون خيارات نشطة. "
+ ],
+ [
+  "In a <span translate=\"no\"></span>digital environment, <span translate=\"no\"></span>the whole thing is flipped <span translate=\"no\"></span>the other way. ",
+  "في البيئة<span translate=\"no\"></span> الرقمية،<span translate=\"no\"></span> يتم قلب كل شيء<span translate=\"no\"></span> في الاتجاه الآخر. "
+ ],
+ [
+  "The viewer and the audience member is in the driving seat and they're curating their own reading, watching, listening <span translate=\"no\"></span>journey. ",
+  "يجلس المشاهد والجمهور في مقعد القيادة ويقومون بتنظيم<span translate=\"no\"></span> رحلة القراءة والمشاهدة والاستماع الخاصة بهم. "
+ ],
+ [
+  "And they're making all of those choices themselves. ",
+  "وهم يتخذون كل هذه الخيارات بأنفسهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>And if they don't find something interesting, or it starts to bore them, or it's no longer engaging them, they'll move on. ",
+  "<span translate=\"no\"></span>وإذا لم يجدوا شيئًا مثيرًا للاهتمام، أو بدأ يضجرهم، أو لم يعد الأمر يثير اهتمامهم، فسوف يمضون قدمًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And I think that so many of the fundamental decisions and choices that are made in commissioning digital versus linear content <span translate=\"no\"></span>all stem from that one key difference. ",
+  "<span translate=\"no\"></span>وأعتقد أن العديد من القرارات والخيارات الأساسية التي يتم اتخاذها في التكليف بالمحتوى الرقمي مقابل المحتوى الخطي تنبع<span translate=\"no\"></span> جميعها من هذا الاختلاف الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think the big difference between linear TV users and digital users is the audience habit. ",
+  "<span translate=\"no\"></span>لذلك أعتقد أن الفرق الكبير بين مستخدمي التلفزيون الخطي والمستخدمين الرقميين هو عادة الجمهور. "
+ ],
+ [
+  "How are they interacting <span translate=\"no\"></span>in in the product? ",
+  "كيف يتفاعلون<span translate=\"no\"></span> في المنتج؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And what are their user behaviors around it? ",
+  "<span translate=\"no\"></span>وما هي سلوكيات المستخدم الخاصة بهم حوله؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So in linear TV, for example, you're sitting there on your sofa on an evening watching it, you know, from start to finish. ",
+  "<span translate=\"no\"></span>لذلك في التلفزيون الخطي، على سبيل المثال، تجلس هناك على الأريكة في المساء تشاهده، كما تعلمون، من البداية إلى النهاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>You're clocking in for a certain amount of time. ",
+  "<span translate=\"no\"></span>يتم تسجيل الدخول لفترة معينة من الوقت. "
+ ],
+ [
+  "On digital <span translate=\"no\"></span>that behavior is completely different. ",
+  "<span translate=\"no\"></span>هذا السلوك مختلف تمامًا على المستوى الرقمي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you're maybe scrolling while you're on the tube, or you're scrolling while you're in the office or whatever it is. ",
+  "<span translate=\"no\"></span>لذلك ربما تقوم بالتمرير أثناء وجودك على الأنبوب، أو تقوم بالتمرير أثناء وجودك في المكتب أو أيًا كان. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that's kind of where you have to approach the content from as well. ",
+  "<span translate=\"no\"></span>لذلك هذا هو المكان الذي يتعين عليك فيه التعامل مع المحتوى أيضًا. "
+ ],
+ [
+  " How are people receiving this and how do they <span translate=\"no\"></span>want to consume it? ",
+  " كيف يتلقى الناس هذا وكيف<span translate=\"no\"></span> يريدون استهلاكه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Digital is a really fast medium, right? ",
+  "<span translate=\"no\"></span>الرقمية هي وسيلة سريعة حقًا، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>People are also consuming lots of different websites. ",
+  "<span translate=\"no\"></span>يستهلك الأشخاص أيضًا الكثير من مواقع الويب المختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>They haven't sort of switched on a channel and there's a sense of kind of loyalty over maybe a long segment or <span translate=\"no\"></span>show. ",
+  "<span translate=\"no\"></span>لم يقوموا بتشغيل القناة نوعًا ما وهناك شعور بنوع من الولاء ربما خلال مقطع طويل أو<span translate=\"no\"></span> عرض طويل. "
+ ],
+ [
+  "In a digital sphere <span translate=\"no\"></span>people are consuming CNN, and then they're also looking at other news brands. ",
+  "في المجال الرقمي يستهلك<span translate=\"no\"></span> الناس CNN، ثم يبحثون أيضًا عن العلامات التجارية الإخبارية الأخرى. "
+ ],
+ [
+  "<span translate=\"no\"></span>They might be also taking sort of information in, let's say, via messaging apps or social media. ",
+  "<span translate=\"no\"></span>قد يأخذون أيضًا نوعًا من المعلومات، على سبيل المثال، عبر تطبيقات المراسلة أو وسائل التواصل الاجتماعي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, you are constantly competing for people's attention. ",
+  "<span translate=\"no\"></span>لذلك، أنت تتنافس باستمرار على جذب انتباه الناس. "
+ ],
+ [
+  "And the thing that drives that forward... ",
+  "والشيء الذي يدفع ذلك إلى الأمام... "
+ ],
+ [
+  "<span translate=\"no\"></span>what makes it so different is is the smartphone. ",
+  "<span translate=\"no\"></span>ما يجعله مختلفًا جدًا هو الهاتف الذكي. "
+ ],
+ [
+  "The smartphone changed everything. ",
+  "لقد غير الهاتف الذكي كل شيء. "
+ ],
+ [
+  "<span translate=\"no\"></span>It was the radical sort of development when it comes to how we consume news in the last decades, I would <span translate=\"no\"></span>say. ",
+  "<span translate=\"no\"></span>أود أن<span translate=\"no\"></span> أقول إنه كان نوعًا جذريًا من التطور عندما يتعلق الأمر بكيفية استهلاكنا للأخبار في العقود الماضية. "
+ ],
+ [
+  "Probably the most revolutionary thing since the internet itself. ",
+  "ربما يكون الشيء الأكثر ثورية منذ الإنترنت نفسه. "
+ ],
+ [
+  "And the smartphone as we all know, as huge users of our <span translate=\"no\"></span>phones, is that you are bombarded with many different things. ",
+  "والهاتف الذكي كما نعلم جميعًا، كمستخدمين ضخمين<span translate=\"no\"></span> لهواتفنا، هو أنك تتعرض للقصف بالعديد من الأشياء المختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>When you're consuming news in a linear television set up, you're, sort of transfixed maybe by what's happening on <span translate=\"no\"></span>the screen. ",
+  "<span translate=\"no\"></span>عندما تستهلك الأخبار في جهاز تلفزيون خطي، فإنك تشعر بنوع من الذهول ربما بسبب ما يحدث<span translate=\"no\"></span> على الشاشة. "
+ ],
+ [
+  "<span translate=\"no\"></span>When you bring that into a digital setting, it really is about competing for every audience member's attention. ",
+  "<span translate=\"no\"></span>عندما تضع ذلك في بيئة رقمية، فإن الأمر يتعلق حقًا بالتنافس على جذب انتباه كل عضو من الجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>At a moment in time when you're accessing news on digital, you're making an active choice to read or consume or watch or <span translate=\"no\"></span>listen to a particular piece of content. ",
+  "<span translate=\"no\"></span>في لحظة من الوقت الذي تصل فيه إلى الأخبار الرقمية، تتخذ خيارًا نشطًا لقراءة جزء معين من المحتوى أو استهلاكه أو مشاهدته أو<span translate=\"no\"></span> الاستماع إليه. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that's a very different relationship from the one with a that you have with a linear television channel where you sit <span translate=\"no\"></span>and watch and, and you're served a linear feed of what editors on the television channel  think would be interesting to <span translate=\"no\"></span>you. ",
+  "<span translate=\"no\"></span>وهذه علاقة مختلفة تمامًا عن تلك التي تربطك بقناة تلفزيونية خطية حيث تجلس<span translate=\"no\"></span> وتشاهد، ويتم تقديم موجز خطي لما يعتقده المحررون على القناة التلفزيونية. كن مثيرًا للاهتمام بالنسبة<span translate=\"no\"></span> لك. "
+ ],
+ [
+  "And you don't know what's coming up next. ",
+  "وأنت لا تعرف ماذا سيحدث بعد ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's a really important difference. ",
+  "<span translate=\"no\"></span>إنه فرق مهم حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Your audience on digital is making an active decision to interact and consume the piece of journalism that you've created. ",
+  "<span translate=\"no\"></span>يتخذ جمهورك على الإنترنت قرارًا نشطًا للتفاعل واستهلاك قطعة الصحافة التي أنشأتها. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that means you have to make it worth their while. ",
+  "<span translate=\"no\"></span>وهذا يعني أنه عليك أن تجعل الأمر يستحق وقتهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you have to deliver what they expect. ",
+  "<span translate=\"no\"></span>لذلك عليك تقديم ما يتوقعونه. "
+ ],
+ [
+  "<span translate=\"no\"></span>You have to make the make the headline or the photo or whatever the tease is interesting. ",
+  "<span translate=\"no\"></span>عليك أن تجعل العنوان الرئيسي أو الصورة أو أي شيء مثير للاهتمام. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then once they've decided to open it or download it or read it, whatever it is, you have to deliver on what you promised. ",
+  "<span translate=\"no\"></span>وبعد ذلك بمجرد أن يقرروا فتحه أو تنزيله أو قراءته، مهما كان، يجب عليك الوفاء بما وعدت به. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it's a really different kind of different kind of experience. ",
+  "<span translate=\"no\"></span>لذلك فهو نوع مختلف حقًا من أنواع مختلفة من الخبرة. "
+ ],
+ [
+  "<span translate=\"no\"></span>The digital landscape is changing year over year, depending on things that are outside of the scope of control when it comes <span translate=\"no\"></span>to, you know, media companies. ",
+  "<span translate=\"no\"></span>يتغير المشهد الرقمي عامًا بعد عام، اعتمادًا على أشياء خارجة عن نطاق السيطرة عندما<span translate=\"no\"></span> يتعلق الأمر، كما تعلمون، بشركات الإعلام. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're talking about advances and changes in platforms, you know, consumption patterns, how audiences are using the internet. ",
+  "<span translate=\"no\"></span>لذلك نحن نتحدث عن التطورات والتغييرات في المنصات، كما تعلمون، وأنماط الاستهلاك، وكيفية استخدام الجماهير للإنترنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's driven not by a media organization saying we'd like to change the strategy of how people are consuming digitally. ",
+  "<span translate=\"no\"></span>ليس الدافع وراء ذلك هو قول مؤسسة إعلامية إننا نرغب في تغيير استراتيجية كيفية استهلاك الناس رقميًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's driven by devices, right? ",
+  "<span translate=\"no\"></span>يتم تشغيله بواسطة الأجهزة، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>How are people actually consuming? ",
+  "<span translate=\"no\"></span>كيف يستهلك الناس بالفعل؟ "
+ ],
+ [
+  "What does the technology look like that they're consuming that journalism on? ",
+  "كيف تبدو التكنولوجيا التي يستهلكون بها تلك الصحافة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And what are the sort of the latest trends in terms of the various types of messaging apps or social platforms or other things <span translate=\"no\"></span>that are growing in terms of audience behavior when it comes to sort of the internet writ large? ",
+  "<span translate=\"no\"></span>وما هو نوع أحدث الاتجاهات من حيث الأنواع المختلفة من تطبيقات المراسلة أو المنصات الاجتماعية أو الأشياء الأخرى<span translate=\"no\"></span> التي تنمو من حيث سلوك الجمهور عندما يتعلق الأمر بنوع من الإنترنت، أليس كذلك؟ ؟ "
+ ],
+ [
+  "People's attention spans are <span translate=\"no\"></span>very different on digital in that way then. ",
+  "تختلف نطاقات انتباه الأشخاص<span translate=\"no\"></span> اختلافًا كبيرًا في المجال الرقمي بهذه الطريقة إذن. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, you know, instead of sitting back and watching a half hour program, they're coming for like a quick 30 second hit or something <span translate=\"no\"></span>like that. ",
+  "<span translate=\"no\"></span>لذا، كما تعلمون، بدلاً من الجلوس ومشاهدة برنامج مدته نصف ساعة، فإنهم يأتون للحصول على نجاح سريع لمدة 30 ثانية أو شيء من هذا<span translate=\"no\"></span> القبيل. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you've got that added challenge of how are you gonna attract them as a user and what are you going to do to really <span translate=\"no\"></span>get them into into the story and get them there in the first place and stand out amongst competitors? ",
+  "<span translate=\"no\"></span>إذن لديك هذا التحدي الإضافي المتمثل في كيفية جذبهم كمستخدم وما الذي ستفعله<span translate=\"no\"></span> لإدخالهم حقًا في القصة وإيصالهم إلى هناك في المقام الأول والتميز بين المنافسين؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>The Internet is a very noisy place, as we all know. ",
+  "<span translate=\"no\"></span>الإنترنت مكان صاخب للغاية، كما نعلم جميعًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then once they're there, are you delivering on what they wanted to come for? ",
+  "<span translate=\"no\"></span>وبعد ذلك بمجرد وصولهم إلى هناك، هل ستحققون ما أرادوا أن يأتوا من أجله؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, are you are you keeping their attention? ",
+  "<span translate=\"no\"></span>كما تعلم، هل تحافظ على انتباههم؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And people tend to have very short attention spans on the internet. ",
+  "<span translate=\"no\"></span>ويميل الناس إلى الحصول على فترات اهتمام قصيرة جدًا على الإنترنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Are you making sure that you're engaging them? ",
+  "<span translate=\"no\"></span>هل تتأكد من أنك تشركهم؟ "
+ ],
+ [
+  "When we make our digital videos, we don't know if people are going to <span translate=\"no\"></span>watch them on a desktop, on a linked up to a TV in their home, or on a mobile screen. ",
+  "عندما نصنع مقاطع الفيديو الرقمية الخاصة بنا، لا نعرف ما إذا كان الناس<span translate=\"no\"></span> سيشاهدونها على سطح المكتب أو على جهاز متصل بالتلفزيون في منازلهم أو على شاشة الهاتف المحمول. "
+ ],
+ [
+  "And there's a very, very <span translate=\"no\"></span>very high chance they'll be watching it on mobile phone. ",
+  "وهناك فرصة كبيرة جدًا<span translate=\"no\"></span> جدًا لأن يشاهدوه على الهاتف المحمول. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so obviously we are bearing that in mind with everything that we make, of course it's a smaller screen, of course they <span translate=\"no\"></span>might be on headphones. ",
+  "<span translate=\"no\"></span>ومن الواضح أننا نضع ذلك في الاعتبار مع كل ما نصنعه، بالطبع إنها شاشة أصغر، بالطبع<span translate=\"no\"></span> قد تكون على سماعات الرأس. "
+ ],
+ [
+  "<span translate=\"no\"></span>In some cases they might not even have audio. ",
+  "<span translate=\"no\"></span>في بعض الحالات، قد لا يكون لديهم حتى صوت. "
+ ],
+ [
+  "<span translate=\"no\"></span>These are all taken into account in the way that we produce our video, there's a lot of text on screen and digital videos <span translate=\"no\"></span>a lot of the time. ",
+  "<span translate=\"no\"></span>يتم أخذ كل ذلك في الاعتبار في الطريقة التي ننتج بها الفيديو الخاص بنا، فهناك الكثير من النصوص على الشاشة ومقاطع الفيديو الرقمية<span translate=\"no\"></span> في كثير من الأحيان. "
+ ],
+ [
+  "Obviously it has to be clear enough people to read it on a screen. ",
+  "من الواضح أنه يجب أن يكون واضحًا بما يكفي من الأشخاص لقراءته على الشاشة. "
+ ],
+ [
+  "As much as we'd love to <span translate=\"no\"></span>think that everybody does turn their screen and at least maximize the use of that aspect ratio. ",
+  "بقدر ما نحب أن<span translate=\"no\"></span> نعتقد أن الجميع يقلبون شاشتهم ويزيد على الأقل من استخدام نسبة العرض إلى الارتفاع هذه. "
+ ],
+ [
+  "<span translate=\"no\"></span>They don't. ",
+  "<span translate=\"no\"></span>إنهم لا يفعلون ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, you are working a lot of the time with a small screen, but I do think that the industry has come so far in <span translate=\"no\"></span>understanding that. ",
+  "<span translate=\"no\"></span>لذا، فأنت تعمل كثيرًا من الوقت باستخدام شاشة صغيرة، لكنني أعتقد أن الصناعة قد قطعت شوطًا طويلاً في<span translate=\"no\"></span> فهم ذلك. "
+ ],
+ [
+  "And the world and all of us as consumers and audience members have, we've got used to watching things <span translate=\"no\"></span>on these small screens. ",
+  "وقد اعتدنا العالم وكلنا كمستهلكين وأعضاء من الجمهور على مشاهدة الأشياء<span translate=\"no\"></span> على هذه الشاشات الصغيرة. "
+ ],
+ [
+  "And it's not that we've become forgiving, it's just that we've become very good at taking in a lot <span translate=\"no\"></span>on a very small screen. ",
+  "ولا يعني ذلك أننا أصبحنا متسامحين، بل أصبحنا جيدين جدًا في التعامل مع الكثير<span translate=\"no\"></span> على شاشة صغيرة جدًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think that it's of course it is front of mind and the way that we produce. ",
+  "<span translate=\"no\"></span>لذلك أعتقد أنها بالطبع أمام الذهن والطريقة التي ننتج بها. "
+ ],
+ [
+  "<span translate=\"no\"></span>But it's also, you know, it is absolutely the world's problem now. ",
+  "<span translate=\"no\"></span>لكنها أيضًا، كما تعلمون، هي بالتأكيد مشكلة العالم الآن. "
+ ],
+ [
+  "<span translate=\"no\"></span>I mean, it's just that it's just how we watch content. ",
+  "<span translate=\"no\"></span>أعني، الأمر فقط هو الطريقة التي نشاهد بها المحتوى. "
+ ],
+ [
+  "<span translate=\"no\"></span>The most exciting part of digital journalism is that you get to connect with your users in a real way. ",
+  "<span translate=\"no\"></span>الجزء الأكثر إثارة في الصحافة الرقمية هو أنه يمكنك التواصل مع المستخدمين بطريقة حقيقية. "
+ ],
+ [
+  "And we do that through <span translate=\"no\"></span>listening to the data. ",
+  "ونحن نفعل ذلك من خلال<span translate=\"no\"></span> الاستماع إلى البيانات. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, it's not very often in other forms of media that you get to have that close relationship with your audience. ",
+  "<span translate=\"no\"></span>كما تعلمون، ليس في كثير من الأحيان في أشكال أخرى من وسائل الإعلام تحصل على تلك العلاقة الوثيقة مع جمهورك. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think if you if you want journalism to be impactful and to change people's minds and to you know, connect and be <span translate=\"no\"></span>the voice of our societies, you really want to listen to what the people want. ",
+  "<span translate=\"no\"></span>أعتقد أنك إذا كنت تريد أن تكون الصحافة مؤثرة وأن تغير عقول الناس وأن تعرف وتتواصل وأن تكون<span translate=\"no\"></span> صوت مجتمعاتنا، فأنت تريد حقًا الاستماع إلى ما يريده الناس. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it's always a fine balance between what is editorially important and our editorial and ethical responsibility as a news <span translate=\"no\"></span>organization and then balancing that with what the world is finding interesting. ",
+  "<span translate=\"no\"></span>وهو دائمًا توازن دقيق بين ما هو مهم من الناحية التحريرية ومسؤوليتنا التحريرية والأخلاقية<span translate=\"no\"></span> كمنظمة إخبارية ومن ثم موازنة ذلك مع ما يجده العالم مثيرًا للاهتمام. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think anyone who embarks on a career in digital journalism will tell you that you have this, you know, intimate relationship <span translate=\"no\"></span>with the audience where you know exactly when you're doing right because you can see the metrics and you can see you can <span translate=\"no\"></span>see the number of people who are choosing to read your stuff. ",
+  "<span translate=\"no\"></span>أعتقد أن أي شخص يبدأ حياته المهنية في الصحافة الرقمية سيخبرك أن لديك هذه العلاقة الحميمة<span translate=\"no\"></span> مع الجمهور حيث تعرف بالضبط متى تقوم بذلك بشكل صحيح لأنك تستطيع رؤية المقاييس ويمكنك أن ترى أنه يمكنك<span translate=\"no\"></span> رؤية عدد الأشخاص الذين يختارون قراءة الأشياء الخاصة بك. "
+ ],
+ [
+  "And you can see how long they're listening to it for or how <span translate=\"no\"></span>far down the copy they read it and you get a really detailed picture of your audience and therefore, you know, when you're <span translate=\"no\"></span>going wrong as well. ",
+  "ويمكنك أن ترى المدة التي يستمعون فيها إليها أو إلى<span translate=\"no\"></span> أي مدى يقرؤونها في النسخة وتحصل على صورة مفصلة حقًا لجمهورك، وبالتالي، كما تعلمون، متى<span translate=\"no\"></span> تخطئ أيضًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it really helps you sharpen your focus. ",
+  "<span translate=\"no\"></span>لذلك فهو يساعدك حقًا على زيادة تركيزك. "
+ ],
+ [
+  "And it improves your journalism as well because you can't get away with flabby <span translate=\"no\"></span>stories or poor angles or ill thought through packages. ",
+  "كما أنه يحسن صحافتك أيضًا لأنه لا يمكنك الابتعاد عن<span translate=\"no\"></span> القصص المترهلة أو الزوايا الضعيفة أو سوء التفكير من خلال الحزم. "
+ ],
+ [
+  "It's a really. ",
+  "إنه حقًا. "
+ ],
+ [
+  "This closeness of the relationship with the audience <span translate=\"no\"></span>is the key thing. ",
+  "هذا التقارب في العلاقة مع الجمهور<span translate=\"no\"></span> هو الشيء الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>Obviously we have our core news gathering operations and they're feeding into all of the products that we have around the <span translate=\"no\"></span>network. ",
+  "<span translate=\"no\"></span>من الواضح أن لدينا عمليات جمع الأخبار الأساسية الخاصة بنا وهي تغذي جميع المنتجات التي لدينا حول<span translate=\"no\"></span> الشبكة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So whether that's the tv channels or digital, or our social platforms, they're really trying to  <span translate=\"no\"></span>create content and stories that work across different places. ",
+  "<span translate=\"no\"></span>لذا سواء كانت القنوات التلفزيونية أو الرقمية أو منصاتنا الاجتماعية، فهم يحاولون حقًا<span translate=\"no\"></span> إنشاء محتوى وقصص تعمل في أماكن مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So as much as we can, we're planning ahead. ",
+  "<span translate=\"no\"></span>بقدر ما نستطيع، نحن نخطط للمستقبل. "
+ ],
+ [
+  "We're making sure that we're lined up on everything. ",
+  "نحن نتأكد من أننا جاهزون لكل شيء. "
+ ],
+ [
+  "And that there's <span translate=\"no\"></span>something specifically tailored for the digital audience, as well as something that's gonna work for TV and something that's <span translate=\"no\"></span>gonna work for our Youtube audience. ",
+  "وأن هناك<span translate=\"no\"></span> شيئًا مصممًا خصيصًا للجمهور الرقمي، بالإضافة إلى شيء سيعمل للتلفزيون وشيء<span translate=\"no\"></span> سيعمل لجمهورنا على YouTube. "
+ ],
+ [
+  "<span translate=\"no\"></span>And kind of as much as we can and use thinking those things through ahead of time really helps to train an organization <span translate=\"no\"></span>that is traditionally broadcast into thinking about those different platforms as well. ",
+  "<span translate=\"no\"></span>وبقدر ما نستطيع واستخدام التفكير في هذه الأشياء مسبقًا يساعد حقًا في تدريب منظمة<span translate=\"no\"></span> يتم بثها تقليديًا على التفكير في تلك المنصات المختلفة أيضًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Certainly, and a lot of the conversation around a particular story and getting a sense of where the audience interest lies <span translate=\"no\"></span>comes from digital. ",
+  "<span translate=\"no\"></span>بالتأكيد، والكثير من المحادثة حول قصة معينة والتعرف على مصدر اهتمام الجمهور<span translate=\"no\"></span> يأتي من التكنولوجيا الرقمية. "
+ ],
+ [
+  "Because you're seeing it on social, you're seeing it on twitter, you're seeing it on Tiktok, you're seeing <span translate=\"no\"></span>it on Facebook. ",
+  "لأنك تشاهده على مواقع التواصل الاجتماعي، تشاهده على تويتر، تشاهده على Tiktok،<span translate=\"no\"></span> تشاهده على Facebook. "
+ ],
+ [
+  "That's where you get your first inclination of where you can start to find your story. ",
+  "هذا هو المكان الذي تحصل فيه على ميولك الأولى حيث يمكنك البدء في العثور على قصتك. "
+ ],
+ [
+  "If a certain theme <span translate=\"no\"></span>is emerging, <span translate=\"no\"></span>okay, that's an indication. ",
+  "إذا ظهر موضوع<span translate=\"no\"></span> معين،<span translate=\"no\"></span> حسنًا، هذا مؤشر. "
+ ],
+ [
+  "I want to follow that because everybody's talking about education and how that's <span translate=\"no\"></span>being impacted by the war. ",
+  "أريد متابعة ذلك لأن الجميع يتحدثون عن التعليم وكيف<span translate=\"no\"></span> يتأثر ذلك بالحرب. "
+ ],
+ [
+  "Or you're starting to see people being concerned about food exports, and Ukraine being one of the <span translate=\"no\"></span>war largest grain producers. ",
+  "أو أنك بدأت ترى الناس يشعرون بالقلق إزاء صادرات المواد الغذائية، وأوكرانيا واحدة من أكبر منتجي الحبوب في<span translate=\"no\"></span> الحرب. "
+ ],
+ [
+  "<span translate=\"no\"></span>Okay. ",
+  "<span translate=\"no\"></span>حسنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that is something that we need to dig a bit more into. ",
+  "<span translate=\"no\"></span>لذلك هذا شيء نحتاج إلى البحث فيه أكثر قليلاً. "
+ ],
+ [
+  "<span translate=\"no\"></span>Let's follow that thread. ",
+  "<span translate=\"no\"></span>دعونا نتابع هذا الموضوع. "
+ ],
+ [
+  "And that's where it starts. ",
+  "وهذا هو المكان الذي يبدأ فيه الأمر. "
+ ],
+ [
+  "<span translate=\"no\"></span>Things we found during our coverage of Ukraine, for example, is like, people were really connecting with the military aspect <span translate=\"no\"></span>of the story. ",
+  "<span translate=\"no\"></span>الأشياء التي وجدناها خلال تغطيتنا لأوكرانيا، على سبيل المثال، هي أن الناس كانوا على اتصال حقيقي بالجانب العسكري<span translate=\"no\"></span> من القصة. "
+ ],
+ [
+  "They were really connecting with what weapons the Russians were using. ",
+  "لقد كانوا على اتصال حقيقي بالأسلحة التي كان الروس يستخدمونها. "
+ ],
+ [
+  "What the tanks look like. ",
+  "كيف تبدو الدبابات. "
+ ],
+ [
+  "<span translate=\"no\"></span>What it really looks like on the ground. ",
+  "<span translate=\"no\"></span>كيف يبدو حقًا على الأرض. "
+ ],
+ [
+  "<span translate=\"no\"></span>Those were the things that we're really getting a lot of audience interest. ",
+  "<span translate=\"no\"></span>هذه هي الأشياء التي نحظى بها حقًا باهتمام كبير من الجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so we were looking out for those angles, much more from the content that we had available to us. ",
+  "<span translate=\"no\"></span>وهكذا كنا نبحث عن تلك الزوايا، أكثر بكثير من المحتوى الذي كان متاحًا لنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Same with Russian voices, there was a real sort of hunger every time we put up a piece from inside Russia. ",
+  "<span translate=\"no\"></span>نفس الشيء مع الأصوات الروسية، كان هناك نوع حقيقي من الجوع في كل مرة نضع فيها قطعة من داخل روسيا. "
+ ],
+ [
+  "Or the <span translate=\"no\"></span>profiles, someone who had been close to Putin. ",
+  "أو<span translate=\"no\"></span> الملفات الشخصية، شخص كان قريبًا من بوتين. "
+ ],
+ [
+  "Or had an analyst talking about what might have been going on <span translate=\"no\"></span>in Putin's mindset. ",
+  "أو كان هناك محلل يتحدث عما قد يحدث<span translate=\"no\"></span> في عقلية بوتين. "
+ ],
+ [
+  "<span translate=\"no\"></span>Those were things that really, you know, drove a lot of traffic. ",
+  "<span translate=\"no\"></span>كانت تلك الأشياء حقًا، كما تعلمون، هي التي أدت إلى الكثير من حركة المرور. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so it was telling us, okay, people really want to know what's happening in Russia. ",
+  "<span translate=\"no\"></span>وهكذا كان يخبرنا، حسنًا، الناس يريدون حقًا معرفة ما يحدث في روسيا. "
+ ],
+ [
+  "And people really want to see behind <span translate=\"no\"></span>that curtain. ",
+  "والناس يريدون حقًا أن يروا خلف<span translate=\"no\"></span> هذا الستار. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, we were kind of looking for those opportunities as well. ",
+  "<span translate=\"no\"></span>لذلك، كنا نوعًا ما نبحث عن تلك الفرص أيضًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think, you know, the most successful journalists and content makers of the future are going to be really bold and really <span translate=\"no\"></span>brave. ",
+  "<span translate=\"no\"></span>أعتقد، كما تعلمون، أن أكثر الصحفيين وصانعي المحتوى نجاحًا في المستقبل سيكونون جريئين حقًا وشجاعين<span translate=\"no\"></span> حقًا. "
+ ],
+ [
+  "And they're going to have ideas that they are passionate about and they push. ",
+  "وستكون لديهم أفكار هم متحمسون لها ويدفعون إليها. "
+ ],
+ [
+  "And they experiment and they don't try <span translate=\"no\"></span>to just copy what's being done. ",
+  "ويقومون بالتجربة ولا<span translate=\"no\"></span> يحاولون مجرد نسخ ما يتم إنجازه. "
+ ],
+ [
+  "Because this really is a very, very fast moving machine. ",
+  "لأن هذه حقًا آلة تتحرك بسرعة كبيرة جدًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And there's just a lot of content out there. ",
+  "<span translate=\"no\"></span>وهناك الكثير من المحتوى. "
+ ],
+ [
+  "<span translate=\"no\"></span>There's a huge saturation of content, whether it's made by media news organizations, or owned content from within brands. ",
+  "<span translate=\"no\"></span>هناك تشبع كبير بالمحتوى، سواء تم إنشاؤه بواسطة مؤسسات إخبارية إعلامية، أو محتوى مملوك من داخل العلامات التجارية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Everybody's competing for eyeballs and everybody's competing for clicks. ",
+  "<span translate=\"no\"></span>الجميع يتنافسون على مقل العيون والجميع يتنافسون على النقرات. "
+ ],
+ [
+  "So be bold, be brave, try and push the envelope. ",
+  "لذا كن جريئًا، وكن شجاعًا، وحاول الضغط على الظرف. "
+ ],
+ [
+  "<span translate=\"no\"></span>Like all things in life, you know, pick something that you love and try to do it with that love first and foremost. ",
+  "<span translate=\"no\"></span>مثل كل الأشياء في الحياة، كما تعلمون، اختر شيئًا تحبه وحاول أن تفعله بهذا الحب أولاً وقبل كل شيء. "
+ ],
+ [
+  "And if <span translate=\"no\"></span>it's journalism, follow your gut on the way that you want to tell a story as as somebody who might be reading it or watching <span translate=\"no\"></span>or choosing to engage with it. ",
+  "وإذا كان<span translate=\"no\"></span> الأمر يتعلق بالصحافة، اتبع حدسك بالطريقة التي تريد أن تروي بها قصة كشخص قد يقرأها أو يشاهدها<span translate=\"no\"></span> أو يختار التفاعل معها. "
+ ],
+ [
+  "Because ultimately, you're just trying to hold somebody's attention and you're just good a <span translate=\"no\"></span>judge of that as anybody else. ",
+  "لأنه في النهاية، تحاول فقط جذب انتباه شخص ما وأنت جيد في<span translate=\"no\"></span> الحكم على ذلك مثل أي شخص آخر. "
+ ],
+ [
+  "<span translate=\"no\"></span>When we're commissioning journalism and working in the field, we are thinking about in a digital landscape, how do you <span translate=\"no\"></span>stand out, right? ",
+  "<span translate=\"no\"></span>عندما نقوم بتكليف الصحافة والعمل في هذا المجال، نفكر في المشهد الرقمي، كيف<span translate=\"no\"></span> تبرز، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>We are working in a highly competitive digital news environment where there is an abundance of global news publishers and <span translate=\"no\"></span>also people who are uploading their own news via, you know, Twitter TikTok, other services where people are creating and feeding <span translate=\"no\"></span>into that kind of understanding of big news stories. ",
+  "<span translate=\"no\"></span>نحن نعمل في بيئة إخبارية رقمية تنافسية للغاية حيث يوجد عدد كبير من ناشري الأخبار العالميين<span translate=\"no\"></span> وأيضًا الأشخاص الذين يقومون بتحميل أخبارهم الخاصة عبر، كما تعلمون، Twitter TikTok، وغيرها من الخدمات حيث يقوم الناس بإنشاء وتغذية<span translate=\"no\"></span> هذا النوع من الفهم للقصص الإخبارية الكبيرة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So with that in mind, the most important thing we can do is is thinking really kind of two ways when it comes to differentiation. ",
+  "<span translate=\"no\"></span>لذلك مع أخذ ذلك في الاعتبار، فإن أهم شيء يمكننا القيام به هو التفكير حقًا بطريقتين عندما يتعلق الأمر بالتمايز. "
+ ],
+ [
+  "<span translate=\"no\"></span>How are you going to stand out in terms of the framing of the story,?What ",
+  "<span translate=\"no\"></span>كيف ستبرز من حيث تأطير القصة،؟ ماذا "
+ ],
+ [
+  "are stories that are currently <span translate=\"no\"></span>undercovered? ",
+  "هل القصص التي يتم<span translate=\"no\"></span> تغطيتها حاليًا؟ "
+ ],
+ [
+  " What are stories that are highly sort of personal and really tapped into something that's very universal? ",
+  " ما هي القصص الشخصية للغاية والتي يتم استغلالها حقًا في شيء عالمي جدًا؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Having the sort of the personal story come through or whether if if it's not a sort of a human-led story, then you're looking <span translate=\"no\"></span>for stories that are revelatory, right? ",
+  "<span translate=\"no\"></span>الحصول على هذا النوع من القصة الشخصية أو ما إذا لم تكن نوعًا من القصة التي يقودها الإنسان، فأنت<span translate=\"no\"></span> تبحث عن قصص ملهمة، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Something that is telling you a new sort of dimension of a story that maybe you already know very well, but this is telling <span translate=\"no\"></span>you something that you haven't heard before. ",
+  "<span translate=\"no\"></span>شيء يخبرك بنوع جديد من أبعاد القصة التي ربما تعرفها جيدًا بالفعل، ولكن هذا<span translate=\"no\"></span> يخبرك بشيء لم تسمعه من قبل. "
+ ],
+ [
+  " When you're in the field or when you're reporting a story or when you're doing <span translate=\"no\"></span>an interview, it's all it's increasingly important to think about how your story is going to be presented. ",
+  " عندما تكون في الميدان أو عندما تقوم بالإبلاغ عن قصة أو عند إجراء<span translate=\"no\"></span> مقابلة، فمن المهم بشكل متزايد التفكير في كيفية تقديم قصتك. "
+ ],
+ [
+  "<span translate=\"no\"></span>What will it look like on the page? ",
+  "<span translate=\"no\"></span>كيف ستبدو على الصفحة؟ "
+ ],
+ [
+  "what will the headline be? ",
+  "ماذا سيكون العنوان الرئيسي؟ "
+ ],
+ [
+  "What will the photos be? ",
+  "ماذا ستكون الصور؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What will your angle be? ",
+  "<span translate=\"no\"></span>ماذا ستكون الزاوية الخاصة بك؟ "
+ ],
+ [
+  "How will you tell the story? ",
+  "كيف ستروي القصة؟ "
+ ],
+ [
+  "What medium will you tell the story? ",
+  "ما الوسيلة التي سترويها القصة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>It used to be, you know, that you just get sent out on the story and and ask to come back with whatever <span translate=\"no\"></span>you could find. ",
+  "<span translate=\"no\"></span>كان من المعتاد، كما تعلم، أن يتم إرسالك إلى القصة وتطلب منك العودة بكل ما<span translate=\"no\"></span> يمكنك العثور عليه. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that's still, of course, important. ",
+  "<span translate=\"no\"></span>وهذا لا يزال مهمًا بالطبع. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it is, you know, important not to restrict your restrict yourself in that way. ",
+  "<span translate=\"no\"></span>ومن المهم، كما تعلم، عدم تقييد نفسك بهذه الطريقة. "
+ ],
+ [
+  "<span translate=\"no\"></span>But going out on a story with a clear idea, or at least a plan. ",
+  "<span translate=\"no\"></span>لكن الخروج بقصة بفكرة واضحة، أو على الأقل خطة. "
+ ],
+ [
+  "Plans always change. ",
+  "تتغير الخطط دائمًا. "
+ ],
+ [
+  "A clear idea of what it might <span translate=\"no\"></span>look like, or the end product might look like, whether it's the headline, <span translate=\"no\"></span>whether it's the lead photo, whether it's the elements that you need. ",
+  "فكرة واضحة عما قد<span translate=\"no\"></span> يبدو عليه الأمر، أو المنتج النهائي الذي قد يبدو عليه،<span translate=\"no\"></span> سواء كان العنوان الرئيسي، أو الصورة الرئيسية، أو العناصر التي تحتاجها. "
+ ],
+ [
+  "All of that will sharpen your story. ",
+  "كل ذلك سوف يشحذ قصتك. "
+ ],
+ [
+  "Will sharpen <span translate=\"no\"></span>your angles and make you it'll make you do the story better actually. ",
+  "سوف يشحذ<span translate=\"no\"></span> زواياك ويجعلك تقوم بالقصة بشكل أفضل في الواقع. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then you'll come back with something engaging and something that people will want to read. ",
+  "<span translate=\"no\"></span>ثم ستعود بشيء جذاب وشيء سيرغب الناس في قراءته. "
+ ],
+ [
+  "<span translate=\"no\"></span>Once you've, sort of, settled on the commission and you figured out a framing that achieves those things, then you're <span translate=\"no\"></span>also beginning to think about ways to tell that story. ",
+  "<span translate=\"no\"></span>بمجرد أن تستقر نوعًا ما على اللجنة وتكتشف إطارًا يحقق هذه الأشياء، فإنك تبدأ<span translate=\"no\"></span> أيضًا في التفكير في طرق لسرد تلك القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, what are the elements that you're going to need to gather as part of that reporting? ",
+  "<span translate=\"no\"></span>إذن، ما هي العناصر التي ستحتاج إلى جمعها كجزء من هذا التقرير؟ "
+ ],
+ [
+  "You're going to need something <span translate=\"no\"></span>very strong in terms of visuals. ",
+  "ستحتاج إلى شيء قوي<span translate=\"no\"></span> جدًا من حيث المرئيات. "
+ ],
+ [
+  "Whether that be photography, which which works obviously extremely well, that the web is <span translate=\"no\"></span>a visual medium. ",
+  "سواء كان ذلك هو التصوير الفوتوغرافي، الذي من الواضح أنه يعمل بشكل جيد للغاية، فإن الويب هو<span translate=\"no\"></span> وسيلة مرئية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So thinking about, you know, the sort of, visual ways to drive the story forward. ",
+  "<span translate=\"no\"></span>لذا فنفكر، كما تعلمون، في هذا النوع من الطرق المرئية لدفع القصة إلى الأمام. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's really essent, for example, that you have a very strong piece of at least you know, one to maybe five strong images. ",
+  "<span translate=\"no\"></span>من الضروري حقًا، على سبيل المثال، أن يكون لديك جزء قوي جدًا، على الأقل كما تعلم، من صورة واحدة إلى خمس صور قوية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Thinking about the image that you are going to use as the card image of your story. ",
+  "<span translate=\"no\"></span>التفكير في الصورة التي ستستخدمها كصورة بطاقة لقصتك. "
+ ],
+ [
+  " The card being the item and the picture <span translate=\"no\"></span>that people see on Facebook, they see it on Twitter that share card image is really essential. ",
+  " نظرًا لأن البطاقة هي العنصر والصورة<span translate=\"no\"></span> التي يراها الأشخاص على Facebook، فهم يرون أن مشاركة صورة البطاقة ضرورية حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Well, I think most importantly digital space allows you to be really creative. ",
+  "<span translate=\"no\"></span>حسنًا، أعتقد أن الأهم من ذلك هو أن الفضاء الرقمي يتيح لك أن تكون مبدعًا حقًا. "
+ ],
+ [
+  "And so as a result I want to leave all <span translate=\"no\"></span>my options open. ",
+  "ونتيجة لذلك أريد أن أترك جميع<span translate=\"no\"></span> خياراتي مفتوحة. "
+ ],
+ [
+  "<span translate=\"no\"></span>I want to, if I'm in the field, I want to take photos, I want to take audio. ",
+  "<span translate=\"no\"></span>أريد ذلك، إذا كنت في الميدان، أريد التقاط الصور، أريد التقاط الصوت. "
+ ],
+ [
+  "<span translate=\"no\"></span>I want to, I'll probably be filming something. ",
+  "<span translate=\"no\"></span>أريد ذلك، ربما سأقوم بتصوير شيء ما. "
+ ],
+ [
+  "And you'll be surprised how good an iPhone will film something these days. ",
+  "وستندهش من مدى جودة تصوير جهاز iPhone لشيء ما هذه الأيام. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then on top of that, you want to be gathering as much information as possible. ",
+  "<span translate=\"no\"></span>علاوة على ذلك، تريد جمع أكبر قدر ممكن من المعلومات. "
+ ],
+ [
+  "<span translate=\"no\"></span>You might not use it when it comes to crafting your story. ",
+  "<span translate=\"no\"></span>قد لا تستخدمه عندما يتعلق الأمر بصياغة قصتك. "
+ ],
+ [
+  "B in terms of just capturing that space in that place in that <span translate=\"no\"></span>moment in time and then reporting on it, those elements are invaluable to you. ",
+  "B فيما يتعلق بمجرد التقاط تلك المساحة في ذلك المكان في تلك<span translate=\"no\"></span> اللحظة الزمنية ثم الإبلاغ عنها، فإن هذه العناصر لا تقدر بثمن بالنسبة لك. "
+ ],
+ [
+  "<span translate=\"no\"></span>Then you can do whatever you want with it. ",
+  "<span translate=\"no\"></span>ثم يمكنك أن تفعل ما تريد به. "
+ ],
+ [
+  "<span translate=\"no\"></span>You have so many options available to you and then you can choose how you present your stories to the audience. ",
+  "<span translate=\"no\"></span>لديك العديد من الخيارات المتاحة لك ومن ثم يمكنك اختيار كيفية تقديم قصصك للجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>So when I'm going, when I'm preparing to go on a news gathering, deployment, I'm thinking about. ",
+  "<span translate=\"no\"></span>لذلك عندما أذهب، عندما أستعد للذهاب لجمع الأخبار ونشرها، أفكر في ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>Okay, so I need to get all the details. ",
+  "<span translate=\"no\"></span>حسنا، لذلك أنا بحاجة للحصول على جميع التفاصيل. "
+ ],
+ [
+  "the obvious things, the editorial lines. ",
+  "الأشياء الواضحة، الخطوط التحريرية. "
+ ],
+ [
+  "<span translate=\"no\"></span>I need to get all the biographical information from the people I'm speaking to. ",
+  "<span translate=\"no\"></span>أحتاج إلى الحصول على جميع معلومات السيرة الذاتية من الأشخاص الذين أتحدث إليهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>So not just first name, but first name and last name, age, occupation, where they come from, Why are they here? ",
+  "<span translate=\"no\"></span>لذلك ليس فقط الاسم الأول، ولكن الاسم الأول واسم العائلة، والعمر، والمهنة، من أين أتوا، لماذا هم هنا؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What have they seen? ",
+  "<span translate=\"no\"></span>ما الذي رأوه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Getting that kind of level of detail is something that we traditionally get on digital very, very different from <span translate=\"no\"></span>television. ",
+  "<span translate=\"no\"></span>الحصول على هذا النوع من التفاصيل هو شيء عادة ما نحصل عليه رقميًا بشكل مختلف جدًا عن<span translate=\"no\"></span> التلفزيون. "
+ ],
+ [
+  "<span translate=\"no\"></span>What's really interesting working as we do in a television news organization is seeing how television journalists work in <span translate=\"no\"></span>the field and trying to influence what they do to make a better digital story. ",
+  "<span translate=\"no\"></span>الأمر المثير للاهتمام حقًا في العمل كما نفعل في مؤسسة إخبارية تلفزيونية هو رؤية كيفية عمل الصحفيين<span translate=\"no\"></span> التلفزيونيين في الميدان ومحاولة التأثير على ما يفعلونه لصنع قصة رقمية أفضل. "
+ ],
+ [
+  "<span translate=\"no\"></span>Because television journalists of course go out and they shoot amazing pictures that they get incredible interviews. ",
+  "<span translate=\"no\"></span>لأن صحفيي التلفزيون يخرجون بالطبع ويلتقطون صورًا مذهلة ويحصلون على مقابلات مذهلة. "
+ ],
+ [
+  " What <span translate=\"no\"></span>they don't have to do in the scripts that they then write, is to to repeat what the, what the pictures say. ",
+  " ما لا يتعين<span translate=\"no\"></span> عليهم فعله في النصوص التي يكتبونها بعد ذلك، هو تكرار ما تقوله الصور. "
+ ],
+ [
+  "Because the <span translate=\"no\"></span>photos that the images tell their own story of course. ",
+  "لأن<span translate=\"no\"></span> الصور التي تحكي الصور قصتها الخاصة بالطبع. "
+ ],
+ [
+  "Where almost all forms of digital journalism, certainly all forms <span translate=\"no\"></span>of digital journalism that involve text, <span translate=\"no\"></span>you need to be able to tell the story in its almost in its entirety through text. ",
+  "عندما تكون جميع أشكال الصحافة الرقمية تقريبًا، وبالتأكيد جميع<span translate=\"no\"></span> أشكال الصحافة الرقمية التي تتضمن نصًا،<span translate=\"no\"></span> تحتاج إلى أن تكون قادرًا على سرد القصة بأكملها تقريبًا من خلال النص. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that means you need to be able to describe more. ",
+  "<span translate=\"no\"></span>وهذا يعني أنك بحاجة إلى أن تكون قادرًا على وصف المزيد. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you need to look around yourself more and understand and take notes and think about what it is you're seeing, feeling <span translate=\"no\"></span>hearing and what it all sounds and smells like. ",
+  "<span translate=\"no\"></span>لذلك عليك أن تنظر حولك أكثر وأن تفهم وتدوين الملاحظات وتفكر فيما تراه وتشعر<span translate=\"no\"></span> بسماعه وما يبدو عليه كل شيء ورائحته. "
+ ],
+ [
+  "<span translate=\"no\"></span>You need to take everyone's names. ",
+  "<span translate=\"no\"></span>تحتاج إلى أخذ أسماء الجميع. "
+ ],
+ [
+  "<span translate=\"no\"></span>You take their ages. ",
+  "<span translate=\"no\"></span>أنت تأخذ أعمارهم. "
+ ],
+ [
+  "You need to take where they live and what they do. ",
+  "عليك أن تأخذ المكان الذي يعيشون فيه وماذا يفعلون. "
+ ],
+ [
+  "All sorts of material, all sorts of really basic things <span translate=\"no\"></span>but super important things you don't need to do necessarily, if you're working in television. ",
+  "جميع أنواع المواد، وجميع أنواع الأشياء الأساسية حقًا<span translate=\"no\"></span> ولكن الأشياء المهمة جدًا التي لا تحتاج إلى القيام بها بالضرورة، إذا كنت تعمل في التلفزيون. "
+ ],
+ [
+  "You don't know until you're <span translate=\"no\"></span>on the ground, like you can plan for a deployment or reporting trip as much as you want, and then when you get there it <span translate=\"no\"></span>could be entirely different. ",
+  "لا تعرف حتى تكون<span translate=\"no\"></span> على أرض الواقع، كما يمكنك التخطيط لرحلة النشر أو الإبلاغ بقدر ما تريد، وبعد ذلك عندما تصل إلى هناك<span translate=\"no\"></span> قد يكون الأمر مختلفًا تمامًا. "
+ ],
+ [
+  "You could see another story emerging. ",
+  "يمكنك أن ترى قصة أخرى ناشئة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you just want to kind of soak up as much of that as possible. ",
+  "<span translate=\"no\"></span>لذلك تريد فقط امتصاص أكبر قدر ممكن من ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then when you're doing interviews, if you're just doing a traditional vox pop for on-camera, tt's gonna be a very short <span translate=\"no\"></span>element in a television piece, that's only gonna be two minutes or a minute-thirty or two minutes long. ",
+  "<span translate=\"no\"></span>ثم عندما تقوم بإجراء مقابلات، إذا كنت تقوم فقط بعمل موسيقى فوكس بوب تقليدية أمام الكاميرا، فسيكون هذا<span translate=\"no\"></span> عنصرًا قصيرًا جدًا في مقال تلفزيوني، لن يستغرق ذلك سوى دقيقتين أو دقيقة - ثلاثين أو دقيقتين طويل. "
+ ],
+ [
+  "When you're doing <span translate=\"no\"></span>a digital write, you have as much space as you want in the world, depending on what your final product is going to be. ",
+  "عندما تقوم<span translate=\"no\"></span> بالكتابة الرقمية، لديك مساحة كبيرة كما تريد في العالم، اعتمادًا على المنتج النهائي الخاص بك. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so you need to make sure that you have all that information. ",
+  "<span translate=\"no\"></span>ولذا تحتاج إلى التأكد من أن لديك كل هذه المعلومات. "
+ ],
+ [
+  "You can't go back and get it. ",
+  "لا يمكنك العودة والحصول عليها. "
+ ],
+ [
+  "You can't go and find <span translate=\"no\"></span>the person who's, you know, just kind of wandered past and you've managed to capture them because they're doing something <span translate=\"no\"></span>interesting and you want to chat with them. ",
+  "لا يمكنك الذهاب والعثور<span translate=\"no\"></span> على الشخص الذي، كما تعلم، كان يتجول في الماضي وتمكنت من التقاطه لأنه يفعل شيئًا<span translate=\"no\"></span> مثيرًا للاهتمام وتريد الدردشة معه. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you need to make sure that you have all the elements there, that you've got everything kind of in the bag so that you <span translate=\"no\"></span>can then look at everything when you get back and say, okay, this is how I'm going to structure my story. ",
+  "<span translate=\"no\"></span>لذلك عليك التأكد من وجود جميع العناصر هناك، وأن لديك كل شيء في الحقيبة حتى تتمكن بعد ذلك من النظر إلى كل شيء عندما تعود وتقول، حسنًا، هذه هي الطريقة التي سأبني بها<span translate=\"no\"></span> قصة. "
+ ],
+ [
+  " I'm gonna start <span translate=\"no\"></span>with this with this individual and then I'm gonna move onto onto this theme and the wider issue here. ",
+  " سأبدأ بهذا<span translate=\"no\"></span> مع هذا الشخص ثم سأنتقل إلى هذا الموضوع والقضية الأوسع هنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's a really different media. ",
+  "<span translate=\"no\"></span>إنها وسيلة مختلفة حقًا. "
+ ],
+ [
+  "Digital is a different medium. ",
+  "الرقمية هي وسيلة مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>It requires a lot more thought and thought in a different way. ",
+  "<span translate=\"no\"></span>يتطلب الكثير من التفكير والتفكير بطريقة مختلفة. "
+ ],
+ [
+  "And a lot more planning and a lot more and a lot more <span translate=\"no\"></span>detailed work. ",
+  "والكثير من التخطيط والمزيد والمزيد من العمل<span translate=\"no\"></span> التفصيلي. "
+ ],
+ [
+  "And that's why it's important to think about what you're doing before you go, because then you'll come back <span translate=\"no\"></span>with everything that you need. ",
+  "ولهذا السبب من المهم التفكير فيما تفعله قبل أن تذهب، لأنك ستعود بعد ذلك<span translate=\"no\"></span> بكل ما تحتاجه. "
+ ],
+ [
+  "<span translate=\"no\"></span>There's an incredible range of options for journalists now to tell their stories and you can tell your stories in so many <span translate=\"no\"></span>different ways. ",
+  "<span translate=\"no\"></span>هناك مجموعة مذهلة من الخيارات للصحفيين الآن لسرد قصصهم ويمكنك سرد قصصك بعدة طرق<span translate=\"no\"></span> مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And even, you know, in the time that I've been a digital editor, those platforms have expanded and changed. ",
+  "<span translate=\"no\"></span>وحتى، كما تعلمون، في الوقت الذي كنت فيه محررًا رقميًا، توسعت هذه المنصات وتغيرت. "
+ ],
+ [
+  "And the way <span translate=\"no\"></span>people interact with news is changing all the time. ",
+  "والطريقة التي يتفاعل بها<span translate=\"no\"></span> الناس مع الأخبار تتغير طوال الوقت. "
+ ],
+ [
+  "<span translate=\"no\"></span> I mean obviously there's the straightforward straight up and down digital news story that with <span translate=\"no\"></span>a picture on the top and then words underneath. ",
+  "<span translate=\"no\"></span>أعني أنه من الواضح أن هناك قصة إخبارية رقمية مباشرة صعودًا وهبوطًا<span translate=\"no\"></span> تحتوي على صورة في الأعلى ثم كلمات تحتها. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that's the bedrock of the vast majority of digital journalism, but even that's not enough because that's <span translate=\"no\"></span>how it all started, I guess, because it looked a bit like a newspaper article. ",
+  "<span translate=\"no\"></span>وهذا هو حجر الأساس للغالبية العظمى من الصحافة الرقمية، ولكن حتى هذا ليس كافيًا لأن هذه هي<span translate=\"no\"></span> الطريقة التي بدأ بها كل شيء، على ما أعتقد، لأنها بدت وكأنها مقالة صحفية. "
+ ],
+ [
+  "But then that's developed and these days you <span translate=\"no\"></span>need to, in order to keep readers engaged, you need to think about the format. ",
+  "ولكن بعد ذلك تم تطوير ذلك<span translate=\"no\"></span> وتحتاج هذه الأيام إلى التفكير في التنسيق من أجل الحفاظ على تفاعل القراء. "
+ ],
+ [
+  "You need to add photos. ",
+  "تحتاج إلى إضافة صور. "
+ ],
+ [
+  "You need <span translate=\"no\"></span>to think about how the text is presented. ",
+  "تحتاج<span translate=\"no\"></span> إلى التفكير في كيفية تقديم النص. "
+ ],
+ [
+  "<span translate=\"no\"></span>So even the traditional text and photos article just, you know, is nothing like what it was at the start of digital journalism. ",
+  "<span translate=\"no\"></span>لذلك حتى مقالة النصوص والصور التقليدية فقط، كما تعلمون، لا تشبه ما كانت عليه في بداية الصحافة الرقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Oftentimes if we're working on a story, what I call it, what we call a distinct feature, which is something that's not necessarily <span translate=\"no\"></span>a traditional news, right? ",
+  "<span translate=\"no\"></span>في كثير من الأحيان إذا كنا نعمل على قصة، ما أسميها، ما نسميه ميزة مميزة، وهو أمر ليس بالضرورة<span translate=\"no\"></span> خبرًا تقليديًا، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>It's not straight news, it's something that's broader. ",
+  "<span translate=\"no\"></span>إنه ليس خبرًا مباشرًا، إنه شيء أوسع. "
+ ],
+ [
+  "It's a bit more reported out. ",
+  "تم الإبلاغ عنها أكثر قليلاً. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's a bit more in depth, a bit of a deep dive. ",
+  "<span translate=\"no\"></span>إنه أكثر عمقًا قليلاً، قليلًا من الغوص العميق. "
+ ],
+ [
+  "<span translate=\"no\"></span>We'll often think about whether it's appropriate to have a photo element to it, <span translate=\"no\"></span>whether that's agency photos or whether we do a gallery that works with it. ",
+  "<span translate=\"no\"></span>سنفكر غالبًا فيما إذا كان من المناسب وجود عنصر صورة فيه،<span translate=\"no\"></span> سواء كان ذلك صورًا للوكالة أو ما إذا كنا ننشئ معرضًا يعمل معها. "
+ ],
+ [
+  "<span translate=\"no\"></span>And where that placement of that gallery might go. ",
+  "<span translate=\"no\"></span>وأين قد يذهب هذا المكان لهذا المعرض. "
+ ],
+ [
+  "How that might enhance the story. ",
+  "كيف يمكن أن يعزز ذلك القصة. "
+ ],
+ [
+  "Because you never want <span translate=\"no\"></span>to add an element into a story for the sake of adding it. ",
+  "لأنك لا<span translate=\"no\"></span> تريد أبدًا إضافة عنصر إلى قصة من أجل إضافتها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Everything that you add into a story has to have a reason. ",
+  "<span translate=\"no\"></span>يجب أن يكون لكل شيء تضيفه إلى قصة سبب. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can't just do it because you want it to look pretty. ",
+  "<span translate=\"no\"></span>لا يمكنك فعل ذلك فقط لأنك تريد أن تبدو جميلة. "
+ ],
+ [
+  "But is it adding anything to it? ",
+  "ولكن هل تضيف أي شيء إليها؟ "
+ ],
+ [
+  "Is it helping somebody understand <span translate=\"no\"></span>your story or your point or the point that you're trying to get across? ",
+  "هل تساعد شخصًا ما<span translate=\"no\"></span> على فهم قصتك أو وجهة نظرك أو النقطة التي تحاول الوصول إليها؟ "
+ ],
+ [
+  "If it doesn't, don't put it in. ",
+  "إذا لم يحدث ذلك، فلا تضعه. "
+ ],
+ [
+  "<span translate=\"no\"></span>The most important thing is to think about the story itself. ",
+  "<span translate=\"no\"></span>أهم شيء هو التفكير في القصة نفسها. "
+ ],
+ [
+  " What are the elements that you have? ",
+  " ما هي العناصر التي لديك؟ "
+ ],
+ [
+  "What are the fundamentals <span translate=\"no\"></span>of the story and be led by that. ",
+  "ما هي<span translate=\"no\"></span> أساسيات القصة وليقودك ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>So don't go into it with an idea of... ",
+  "<span translate=\"no\"></span>لذلك لا تخوض في الأمر بفكرة... "
+ ],
+ [
+  "I want to create something that is full of bells and whistles and it's really shiny. ",
+  "أريد أن أصنع شيئًا مليئًا بالأجراس والصفارات وهو لامع حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And is this big sort of incredible, interactive. ",
+  "<span translate=\"no\"></span>وهل هذا النوع الكبير من الأشياء المذهلة والتفاعلية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Don't do things for the sake of it. ",
+  "<span translate=\"no\"></span>لا تفعل أشياء من أجل ذلك. "
+ ],
+ [
+  "when it comes to digital storytelling be really led by <span translate=\"no\"></span>the story and the elements that you have. ",
+  "عندما يتعلق الأمر برواية القصص الرقمية، يجب<span translate=\"no\"></span> أن تقودها حقًا القصة والعناصر التي لديك. "
+ ],
+ [
+  "<span translate=\"no\"></span>So if it is a very visual story, then maybe you're thinking about something like a full bleed photo gallery. ",
+  "<span translate=\"no\"></span>لذلك إذا كانت قصة بصرية للغاية، فربما تفكر في شيء مثل معرض صور التسييل الكامل. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example, you really want people to be able to spend time with that with those photographs and be really immersed in it <span translate=\"no\"></span>Maybe it is a story that has the potential, for example, to be audio rich. ",
+  "<span translate=\"no\"></span>على سبيل المثال، تريد حقًا أن يتمكن الأشخاص من قضاء بعض الوقت مع تلك الصور وأن يكونوا منغمسين فيها حقًا.<span translate=\"no\"></span> ربما تكون قصة لديها القدرة، على سبيل المثال، على أن تكون غنية بالصوت. "
+ ],
+ [
+  "<span translate=\"no\"></span>So thinking about stories that we've done in the past, where there has been either a sound element that's been <span translate=\"no\"></span>very compelling or where people's audio testimony has just been so emotive that you want to center that element. ",
+  "<span translate=\"no\"></span>لذا، فكر في القصص التي قمنا بها في الماضي، حيث كان هناك إما عنصر صوتي مقنع<span translate=\"no\"></span> للغاية أو حيث كانت الشهادات الصوتية للأشخاص عاطفية للغاية لدرجة أنك تريد التركيز على هذا العنصر . "
+ ],
+ [
+  "<span translate=\"no\"></span>Now, of course, there's a plethora of formats. ",
+  "<span translate=\"no\"></span>الآن، بالطبع، هناك عدد كبير من التنسيقات. "
+ ],
+ [
+  "<span translate=\"no\"></span>You've got explainers and backgrounders and lists and. ",
+  "<span translate=\"no\"></span>لديك شرحات ومعلومات أساسية وقوائم و. "
+ ],
+ [
+  "That's just all in the text format. ",
+  "هذا فقط في شكل النص. "
+ ],
+ [
+  "<span translate=\"no\"></span>Then you've got video explainers or video stories or interactives. ",
+  "<span translate=\"no\"></span>ثم لديك شرحات فيديو أو قصص فيديو أو مقاطع تفاعلية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And some of those are really straightforward and some of those are really complex. ",
+  "<span translate=\"no\"></span>وبعضها بسيط حقًا وبعضها معقد حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then you've got podcasts and audio downloads and series. ",
+  "<span translate=\"no\"></span>ثم لديك ملفات بودكاست وتنزيلات صوتية ومسلسلات. "
+ ],
+ [
+  "And the picture is changing all the time. ",
+  "والصورة تتغير طوال الوقت. "
+ ],
+ [
+  "<span translate=\"no\"></span>And there's a massive array of different options. ",
+  "<span translate=\"no\"></span>وهناك مجموعة كبيرة من الخيارات المختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>The digital landscape is a place where you can have fun. ",
+  "<span translate=\"no\"></span>المشهد الرقمي هو مكان يمكنك الاستمتاع فيه. "
+ ],
+ [
+  "And you can embrace creativity. ",
+  "ويمكنك احتضان الإبداع. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can do a 600 word write. ",
+  "<span translate=\"no\"></span>يمكنك كتابة 600 كلمة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And have a traditional, very traditional story or you could do something that's photo rich or you could do something that's <span translate=\"no\"></span>audio-led. ",
+  "<span translate=\"no\"></span>ولديك قصة تقليدية وتقليدية جدًا أو يمكنك القيام بشيء غني بالصور أو يمكنك القيام بشيء يعتمد<span translate=\"no\"></span> على الصوت. "
+ ],
+ [
+  "<span translate=\"no\"></span>Or you could do something that's data-led. ",
+  "<span translate=\"no\"></span>أو يمكنك القيام بشيء يعتمد على البيانات. "
+ ],
+ [
+  "And create infographics and you know, display the numbers. ",
+  "وأنشئ الرسوم البيانية، كما تعلم، اعرض الأرقام. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, think about the elements of your story that you're putting together and lean into that. ",
+  "<span translate=\"no\"></span>كما تعلم، فكر في عناصر قصتك التي تقوم بتجميعها واتكئ على ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>What is the thing that works for the story and lean into that. ",
+  "<span translate=\"no\"></span>ما هو الشيء الذي يصلح للقصة والمتمثل في ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>Because that's ultimately how you should be thinking about your stories. ",
+  "<span translate=\"no\"></span>لأن هذه هي الطريقة التي يجب أن تفكر بها في قصصك في النهاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Don't be boring and just write 600 words because it's the easy thing to do. ",
+  "<span translate=\"no\"></span>لا تكن مملًا واكتب 600 كلمة فقط لأنه الشيء السهل القيام به. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, embrace that creativity. ",
+  "<span translate=\"no\"></span>كما تعلم، اعتنق هذا الإبداع. "
+ ],
+ [
+  "Try and be fun. ",
+  "حاول أن تكون ممتعًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Try and be innovative because. ",
+  "<span translate=\"no\"></span>حاول أن تكون مبتكرًا بسبب ذلك. "
+ ],
+ [
+  "That's what the audience responds to. ",
+  "هذا ما يستجيب له الجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>That's that's how they're going to embrace your story and ultimately get more out of it. ",
+  "<span translate=\"no\"></span>هذه هي الطريقة التي سيتبنون بها قصتك ويستفيدون منها في النهاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we want to give people the best of CNN, and what CNN has to offer. ",
+  "<span translate=\"no\"></span>لذلك نريد أن نقدم للناس أفضل ما في CNN، وما تقدمه CNN. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you know, a lot of that is our on the ground reporting, that's what really makes us stand out from competitors. ",
+  "<span translate=\"no\"></span>كما تعلمون، الكثير من ذلك هو تقاريرنا الميدانية، وهذا ما يجعلنا حقًا نتميز عن المنافسين. "
+ ],
+ [
+  " That's, <span translate=\"no\"></span>you know, where we put a lot of our resources as a network, making sure that we have people on the ground telling these stories <span translate=\"no\"></span>and bringing them to people. ",
+  " هذا هو المكان الذي نضع فيه الكثير من مواردنا كشبكة، ونتأكد من وجود أشخاص على الأرض يروون هذه القصص<span translate=\"no\"></span> وينقلونها إلى الناس.<span translate=\"no\"></span> "
+ ],
+ [
+  "<span translate=\"no\"></span>So that's always what I'm looking for first... ",
+  "<span translate=\"no\"></span>لذلك هذا دائمًا ما أبحث عنه أولاً... "
+ ],
+ [
+  "is this something that is going to bring the world to that person sitting <span translate=\"no\"></span>there on their phone? ",
+  "هل هذا شيء سيجلب العالم إلى ذلك الشخص الجالس<span translate=\"no\"></span> هناك على هاتفه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Then we're thinking about is that action, is this really a video moment? ",
+  "<span translate=\"no\"></span>ثم نفكر في ما إذا كان هذا الحدث، هل هذه حقًا لحظة فيديو؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And sometimes it's like it's a great video and it's very action-led and it's something that you really have to see to believe. ",
+  "<span translate=\"no\"></span>وأحيانًا يبدو الأمر وكأنه مقطع فيديو رائع ومليء بالإثارة وهو شيء يجب أن تراه حقًا لتصدقه. "
+ ],
+ [
+  "<span translate=\"no\"></span>And like those true moments are the things that make really great digital video. ",
+  "<span translate=\"no\"></span>ومثل تلك اللحظات الحقيقية هي الأشياء التي تصنع فيديو رقمي رائعًا حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're always looking out for those, whether that's a TV reporter package or whether that's a moment that happens on air. ",
+  "<span translate=\"no\"></span>لذلك نحن نبحث دائمًا عن هؤلاء، سواء كانت هذه حزمة مراسل تلفزيوني أو ما إذا كانت هذه هي اللحظة التي تحدث على الهواء. "
+ ],
+ [
+  "<span translate=\"no\"></span>For example an anchor reacting to something, that something will will look for. ",
+  "<span translate=\"no\"></span>على سبيل المثال، يتفاعل المرساة مع شيء ما، والذي سيبحث عنه شيء ما. "
+ ],
+ [
+  "Emotional interviews with people that we have.. ",
+  "مقابلات عاطفية مع أشخاص لدينا.. "
+ ],
+ [
+  "<span translate=\"no\"></span>you know, we obviously have lots of guests on air and we'll make sure that, you know, we're monitoring those and seeing how <span translate=\"no\"></span>people are responding. ",
+  "<span translate=\"no\"></span>كما تعلمون، من الواضح أن لدينا الكثير من الضيوف على الهواء وسنتأكد، كما تعلمون، من أننا نراقب هؤلاء ونرى كيف يستجيب<span translate=\"no\"></span> الناس. "
+ ],
+ [
+  "<span translate=\"no\"></span>You really want to make the most of being on the ground and that's going to come down to capturing as much as you can <span translate=\"no\"></span>of the real sights and sound and raw experience of being there, whether or not you're an on camera reporter or your producer <span translate=\"no\"></span>behind the camera, you're trying to take the audience there, that's the whole point of us going.And ",
+  "<span translate=\"no\"></span>تريد حقًا تحقيق أقصى استفادة من التواجد على الأرض، وسيعود ذلك إلى التقاط أكبر قدر ممكن<span translate=\"no\"></span> من المشاهد الحقيقية والصوت والتجربة الأولية لوجودك هناك، سواء كنت أمام الكاميرا أم لا المراسل أو المنتج الخاص بك<span translate=\"no\"></span> خلف الكاميرا، تحاول اصطحاب الجمهور إلى هناك، وهذا هو الهدف الأساسي من ذهابنا. "
+ ],
+ [
+  "whether that comes down to <span translate=\"no\"></span>finding the most compelling characters that you can find to really reflect the story in the environment you're in. ",
+  "سواء كان ذلك يتعلق<span translate=\"no\"></span> بالعثور على الشخصيات الأكثر إقناعًا التي يمكنك العثور عليها لتعكس القصة حقًا في البيئة التي تعيش فيها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Whether it's about just getting the best NAT SOT and the music in the streets and the color. ",
+  "<span translate=\"no\"></span>سواء كان الأمر يتعلق فقط بالحصول على أفضل NAT SOT والموسيقى في الشوارع والألوان. "
+ ],
+ [
+  " Almost kind of getting that sense <span translate=\"no\"></span>across that the camera is there to take the viewer there. ",
+  " تقريبًا نوع من الشعور<span translate=\"no\"></span> بأن الكاميرا موجودة لنقل المشاهد إلى هناك. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think that holds true whether or not you're shooting for a digital video or a TV package. ",
+  "<span translate=\"no\"></span>أعتقد أن هذا صحيح سواء كنت تقوم بالتصوير من أجل فيديو رقمي أو حزمة تلفزيونية أم لا. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think the difference from my point of view having now worked in digital video for more years is you're starting with a <span translate=\"no\"></span>question of why should this be a video? ",
+  "<span translate=\"no\"></span>أعتقد أن الفرق من وجهة نظري بعد أن عملت الآن في الفيديو الرقمي لسنوات أخرى هو أنك تبدأ<span translate=\"no\"></span> بسؤال لماذا يجب أن يكون هذا الفيديو؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Because in a digital environment you don't have to make a video. ",
+  "<span translate=\"no\"></span>لأنه في البيئة الرقمية لا يتعين عليك إنشاء فيديو. "
+ ],
+ [
+  "<span translate=\"no\"></span>You can do it with words, you can do it with photos and you're relying on an audience member clicking on it because they <span translate=\"no\"></span>want to watch that video and you've got to make it worth their while. ",
+  "<span translate=\"no\"></span>يمكنك القيام بذلك بالكلمات، ويمكنك القيام بذلك بالصور وأنت تعتمد على أحد أعضاء الجمهور الذي ينقر عليها لأنهم<span translate=\"no\"></span> يريدون مشاهدة هذا الفيديو وعليك أن تجعله يستحق وقتهم. "
+ ],
+ [
+  "Because if they could get the same information by reading <span translate=\"no\"></span>an article or listening to a podcast or whatever <span translate=\"no\"></span>the other option is, why have you made this video? ",
+  "لأنه إذا كان بإمكانهم الحصول على نفس المعلومات من خلال قراءة<span translate=\"no\"></span> مقال أو الاستماع إلى بودكاست أو أيًا كان<span translate=\"no\"></span> الخيار الآخر، فلماذا صنعت هذا الفيديو؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And so it's got to be visual. ",
+  "<span translate=\"no\"></span>ولذا يجب أن تكون مرئية. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's got to be giving them something that they can't get another way. ",
+  "<span translate=\"no\"></span>يجب أن يمنحهم شيئًا لا يمكنهم الحصول عليه بطريقة أخرى. "
+ ],
+ [
+  "<span translate=\"no\"></span>If it's a story that is happening immediately, it's happening right now, it's like it's action, action. ",
+  "<span translate=\"no\"></span>إذا كانت هذه قصة تحدث على الفور، فإنها تحدث الآن، وكأنها حركة أو فعل. "
+ ],
+ [
+  "<span translate=\"no\"></span>Action. ",
+  "<span translate=\"no\"></span>الإجراء. "
+ ],
+ [
+  "<span translate=\"no\"></span>We want to convey that to our audience. ",
+  "<span translate=\"no\"></span>نريد أن ننقل ذلك إلى جمهورنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we don't want to wait until a polished package comes out five hours later, we want to capture like the rawness of what's <span translate=\"no\"></span>happening in the moment. ",
+  "<span translate=\"no\"></span>لذلك لا نريد الانتظار حتى تخرج الحزمة المصقولة بعد خمس ساعات، نريد أن نلتقط مثل قسوة ما<span translate=\"no\"></span> يحدث في الوقت الحالي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think great examples of that are things like Matthew chance on the balcony and Kiev as the first air raid sirens were <span translate=\"no\"></span>going on. ",
+  "<span translate=\"no\"></span>لذلك أعتقد أن الأمثلة الرائعة على ذلك هي أشياء مثل ماثيو تشانس على الشرفة وكييف كأول صفارات الإنذار<span translate=\"no\"></span> للغارات الجوية. "
+ ],
+ [
+  "<span translate=\"no\"></span>I'll tell you what, I just heard a big bang right here behind me. ",
+  "<span translate=\"no\"></span>سأخبرك بشيء، لقد سمعت للتو ضجة كبيرة هنا خلفي. "
+ ],
+ [
+  "<span translate=\"no\"></span>I told you we shouldn't have done live shot here. ",
+  "<span translate=\"no\"></span>أخبرتك أنه لم يكن علينا تصوير حي هنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>There are big explosions taking place in Kiev right now. ",
+  "<span translate=\"no\"></span>هناك انفجارات كبيرة تحدث في كييف الآن. "
+ ],
+ [
+  "Fred Pleitgen on the border between Russia and Ukraine as like tanks <span translate=\"no\"></span>were rolling past him. ",
+  "فريد بليتجن على الحدود بين روسيا وأوكرانيا كما<span translate=\"no\"></span> كانت الدبابات تتجاوزه. "
+ ],
+ [
+  "<span translate=\"no\"></span>That was something where you don't need any polish at all. ",
+  "<span translate=\"no\"></span>كان هذا شيئًا لا تحتاج فيه إلى أي طلاء على الإطلاق. "
+ ],
+ [
+  "<span translate=\"no\"></span>You just have to see this happening... ",
+  "<span translate=\"no\"></span>عليك فقط أن ترى هذا يحدث... "
+ ],
+ [
+  "like tanks rolling across borders in Europe. ",
+  "مثل الدبابات التي تمر عبر الحدود في أوروبا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Another example I think of all the time is Clarissa Ward on the runway at Kabul Airport trying to be airlifted and evacuated out. ",
+  "<span translate=\"no\"></span>مثال آخر أفكر فيه طوال الوقت هو كلاريسا وارد على مدرج مطار كابول وهي تحاول أن يتم نقلها جواً وإجلائها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Please get these people some tents. ",
+  "<span translate=\"no\"></span>يرجى إحضار بعض الخيام لهؤلاء الناس. "
+ ],
+ [
+  "<span translate=\"no\"></span>Okay, I'm okay. ",
+  "<span translate=\"no\"></span>حسنا، أنا بخير. "
+ ],
+ [
+  "<span translate=\"no\"></span>But the women with their babies, they can't be standing out in the 95 degree sun for eight hours. ",
+  "<span translate=\"no\"></span>لكن النساء مع أطفالهن، لا يمكنهن الوقوف تحت أشعة الشمس البالغة 95 درجة لمدة ثماني ساعات. "
+ ],
+ [
+  "<span translate=\"no\"></span>They just can't. ",
+  "<span translate=\"no\"></span>هم فقط لا يستطيعون. "
+ ],
+ [
+  "<span translate=\"no\"></span>After the city fell to the Taliban, we really wanted to let that rawness come across to our digital audiences. ",
+  "<span translate=\"no\"></span>بعد سقوط المدينة في أيدي طالبان، أردنا حقًا السماح لهذه القسوة بالوصول إلى جماهيرنا الرقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>One format, which people are very familiar that became very popular in the kind of advent of digital video journalism is <span translate=\"no\"></span>character lead pieces. ",
+  "<span translate=\"no\"></span>إحدى الأشكال، التي يعرفها الناس جدًا والتي أصبحت شائعة جدًا في هذا النوع من صحافة الفيديو الرقمية، هي القطع الرائدة في<span translate=\"no\"></span> الشخصيات. "
+ ],
+ [
+  " This was something that wasn't, you know, so much part of the daily bread of TV journalism right? ",
+  " لم يكن هذا، كما تعلمون، جزءًا كبيرًا من الخبز اليومي للصحافة التلفزيونية، أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, we commonly have reported lead pieces on TV so if you're going to have a whole piece hung around a character, of <span translate=\"no\"></span>course you need to find a character who's completely central to the story, who has enough about them that can carry the arc <span translate=\"no\"></span>of the piece. ",
+  "<span translate=\"no\"></span>كما تعلمون، عادةً ما يتم الإبلاغ عن المقالات الرئيسية على شاشة التلفزيون، لذا إذا كنت تريد تعليق قطعة كاملة حول شخصية ما، فأنت بحاجة<span translate=\"no\"></span> بالطبع إلى العثور على شخصية ذات أهمية محورية تمامًا في القصة، ولديها ما يكفي تلك التي يمكنها حمل قوس<span translate=\"no\"></span> القطعة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And in an ideal world for me, the best ones will be a video where you found a character who brings to life an issue <span translate=\"no\"></span>which then resonates well beyond their situation and for our audience well beyond the country they're from or the city they're from. ",
+  "<span translate=\"no\"></span>وفي عالم مثالي بالنسبة لي، سيكون أفضلها هو مقطع فيديو وجدت فيه شخصية تعيد الحياة إلى مشكلة<span translate=\"no\"></span> يتردد صداها بعد ذلك بعيدًا عن وضعهم وبالنسبة لجمهورنا خارج البلد الذي ينتمون إليه. أو المدينة التي ينحدرون منها. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, we really want people to here these local stories which take them to the heart of an issue and then connect the <span translate=\"no\"></span>dots to how that's relevant to them and how that resonates to them, oceans oceans apart on the other side of the world. ",
+  "<span translate=\"no\"></span>كما تعلمون، نريد حقًا أن يعرض الناس هذه القصص المحلية التي تأخذهم إلى قلب المشكلة ثم تربط<span translate=\"no\"></span> النقاط بمدى صلة ذلك بهم ومدى تأثير ذلك عليهم، والمحيطات بصرف النظر عن المحيطات من جهة أخرى. جانب من العالم. "
+ ],
+ [
+  "<span translate=\"no\"></span>You really want to firstly use the fact that you've gone to a place to speak to the people which are really connected to <span translate=\"no\"></span>the story. ",
+  "<span translate=\"no\"></span>تريد حقًا أن تستخدم أولاً حقيقة أنك ذهبت إلى مكان للتحدث إلى الأشخاص المرتبطين حقًا<span translate=\"no\"></span> بالقصة. "
+ ],
+ [
+  "Obviously all the better if they are compelling on camera, but that doesn't come ahead of their role in the story <span translate=\"no\"></span>and what they have to tell us editorially about the story we're telling. ",
+  "من الواضح أن كل شيء أفضل إذا كانوا مقنعين أمام الكاميرا، لكن هذا لا يأتي قبل دورهم في القصة<span translate=\"no\"></span> وما يجب أن يخبرونا به افتتاحيًا عن القصة التي نرويها. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think it comes down to, you know, what is this character going to tell us that we can't find out from anyone else? ",
+  "<span translate=\"no\"></span>أعتقد أن الأمر يتعلق بـ، كما تعلمون، ما الذي ستخبرنا به هذه الشخصية والذي لا يمكننا اكتشافه من أي شخص آخر؟ "
+ ],
+ [
+  " And <span translate=\"no\"></span>what are we bringing our audience that somebody else can't bring them by finding this person and hearing what they have to <span translate=\"no\"></span>say. ",
+  " <span translate=\"no\"></span>وما الذي نقدمه لجمهورنا والذي لا يستطيع شخص آخر إحضاره لهم من خلال العثور على هذا الشخص وسماع ما<span translate=\"no\"></span> سيقولونه. "
+ ],
+ [
+  " Character driven pieces are so important online because people really connect with characters and they connect with <span translate=\"no\"></span>their stories that tell kind of the bigger piece. ",
+  " تعتبر القطع التي تعتمد على الشخصيات مهمة جدًا عبر الإنترنت لأن الأشخاص يتواصلون حقًا مع الشخصيات ويتواصلون مع<span translate=\"no\"></span> قصصهم التي تحكي نوعًا ما الجزء الأكبر. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think that's what we're always looking for when we're choosing what program on our different platforms... ",
+  "<span translate=\"no\"></span>لذلك أعتقد أن هذا هو ما نبحث عنه دائمًا عندما نختار البرنامج على منصاتنا المختلفة... "
+ ],
+ [
+  "is what's this <span translate=\"no\"></span>person's small story that tells the big story? ",
+  "ما هي قصة هذا<span translate=\"no\"></span> الشخص الصغيرة التي تحكي القصة الكبيرة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think a great example of that is when the blast went off in Beirut port, there was the bride who was, you know <span translate=\"no\"></span>she was standing in the streets and she was having her wedding video taken and all of a sudden there was a huge blast. ",
+  "<span translate=\"no\"></span>لذا أعتقد أن أحد الأمثلة الرائعة على ذلك هو عندما وقع الانفجار في مرفأ بيروت، كانت هناك العروس،<span translate=\"no\"></span> كما تعلمون، كانت تقف في الشوارع وكانت تقوم بتصوير فيديو زفافها وفجأة كان هناك انفجار ضخم. "
+ ],
+ [
+  "<span translate=\"no\"></span>She was just one character in this big story and she really captured that and that was kind of one of the moments that really <span translate=\"no\"></span>resonated with people. ",
+  "<span translate=\"no\"></span>لقد كانت مجرد شخصية واحدة في هذه القصة الكبيرة وقد التقطت ذلك حقًا وكانت تلك إحدى اللحظات التي<span translate=\"no\"></span> لاقت صدى حقيقيًا لدى الناس. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think there are a lot of myths about what works in digital video that doesn't work in tv and I think one of the <span translate=\"no\"></span>myths is that people who make digital video think that reporters shouldn't be in digital videos and it is absolutely not true. ",
+  "<span translate=\"no\"></span>أعتقد أن هناك الكثير من الأساطير حول ما يصلح في الفيديو الرقمي الذي لا يعمل في التلفزيون وأعتقد أن إحدى<span translate=\"no\"></span> الأساطير هي أن الأشخاص الذين يصنعون الفيديو الرقمي يعتقدون أن المراسلين لا ينبغي أن يكونوا في مقاطع الفيديو الرقمية وهو كذلك ليس صحيحًا على الإطلاق. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think that a good video piece is a good video piece. ",
+  "<span translate=\"no\"></span>أعتقد أن مقطع الفيديو الجيد هو مقطع فيديو جيد. "
+ ],
+ [
+  "<span translate=\"no\"></span>And whether or not that was originally made for TV or digital is by the by and there are thousands millions of examples of <span translate=\"no\"></span>TV packages which are absolutely perfect for an online audience and nothing needs to be changed about them. ",
+  "<span translate=\"no\"></span>وسواء كان ذلك قد تم إنشاؤه في الأصل للتلفزيون أو رقميًا أم لا، فهناك الآلاف من الملايين من الأمثلة على حزم<span translate=\"no\"></span> التلفزيون التي تعد مثالية تمامًا للجمهور عبر الإنترنت ولا يلزم تغيير أي شيء. عنهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>And those basically are the best pieces, none of our talented reporters just put themselves in a piece to camera if they're <span translate=\"no\"></span>not using that opportunity to show us something to use their presence there to take us deeper into the story. ",
+  "<span translate=\"no\"></span>وهذه في الأساس هي أفضل القطع، لم يقم أي من مراسلينا الموهوبين بوضع أنفسهم في صورة واحدة أمام الكاميرا إذا<span translate=\"no\"></span> لم يستغلوا هذه الفرصة ليظهروا لنا شيئًا لاستخدام وجودهم هناك ليأخذونا بشكل أعمق القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>Right? ",
+  "<span translate=\"no\"></span>أليس كذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So we know this, this is a basic fundamental. ",
+  "<span translate=\"no\"></span>لذلك نحن نعرف هذا، هذا هو الأساس الأساسي. "
+ ],
+ [
+  " But the reporters presence should be enhancing the story by us being on a journey <span translate=\"no\"></span>with them being in that place, standing there as a talking head in the way they would as a live hit isn't as compelling for <span translate=\"no\"></span>digital video because we want to be seeing as much as we can, we want to be drinking up the visuals in a digital environment. ",
+  " لكن حضور المراسل يجب أن يعزز القصة من خلال كوننا في رحلة<span translate=\"no\"></span> معهم في ذلك المكان، والوقوف هناك كرئيس يتحدث بالطريقة التي سيفعلون بها كنجاح مباشر ليس مقنعًا للفيديو<span translate=\"no\"></span> الرقمي. لأننا نريد أن نرى بقدر ما نستطيع، نريد أن نستهلك المرئيات في بيئة رقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Otherwise in some cases we might as well be reading rather than watch a video. ",
+  "<span translate=\"no\"></span>وإلا في بعض الحالات، قد نقرأ مقطع فيديو بدلاً من مشاهدته. "
+ ],
+ [
+  " Sara Sidner when she was reporting on Covid in the <span translate=\"no\"></span>States, she had this moment where she was in a community that just sort of didn't really believe what was going on with Covid <span translate=\"no\"></span>and she just broke down and was like, we can't keep doing this to each other. ",
+  " سارة سيدنر عندما كانت تقوم بالإبلاغ عن كوفيد في<span translate=\"no\"></span> الولايات المتحدة، كانت تمر بهذه اللحظة حيث كانت في مجتمع لم يصدق حقًا ما كان يحدث مع كوفيد<span translate=\"no\"></span>، وقد انهارت للتو وكانت تقول: «نحن نستطيع» لا تستمروا في فعل هذا لبعضكم البعض. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, we really need to take care of our communities. ",
+  "<span translate=\"no\"></span>كما تعلمون، نحن حقا بحاجة لرعاية مجتمعاتنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that was one of those moments that I think really drove home a lot of the pain and emotional suffering that was going <span translate=\"no\"></span>on during the pandemic. ",
+  "<span translate=\"no\"></span>وكانت تلك إحدى تلك اللحظات التي أعتقد أنها دفعت حقًا إلى المنزل الكثير من الألم والمعاناة العاطفية التي كانت<span translate=\"no\"></span> تحدث أثناء الوباء. "
+ ],
+ [
+  "<span translate=\"no\"></span>I'm sorry this is the... ",
+  "<span translate=\"no\"></span>يؤسفني أن هذا هو... "
+ ],
+ [
+  "<span translate=\"no\"></span>I apologize, I'm gonna try to try to get through this. ",
+  "<span translate=\"no\"></span>أعتذر، سأحاول تجاوز هذا. "
+ ],
+ [
+  "<span translate=\"no\"></span>This is the tenth hospital that I have been in and to see the way that these families have to live after this and the heartache <span translate=\"no\"></span>that goes so far and so wide, <span translate=\"no\"></span>If it's going to be a digital video, firstly, it's going to come back to, how are you going to sell it to the viewer? ",
+  "<span translate=\"no\"></span>هذا هو المستشفى العاشر الذي كنت فيه وأرى الطريقة التي يجب أن تعيش بها هذه العائلات بعد هذا والحزن<span translate=\"no\"></span> الذي يمتد حتى الآن وعلى نطاق واسع،<span translate=\"no\"></span> إذا كان الأمر كذلك كن مقطع فيديو رقميًا، أولاً، سيعود إلى، كيف ستبيعه للمشاهد؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>We want to hear a headline in all digital content really when somebody's pitching because we live or die by the headline <span translate=\"no\"></span>and the thumbnail and the way in which we present and sell this content to the viewer. ",
+  "<span translate=\"no\"></span>نريد أن نسمع عنوانًا رئيسيًا في جميع المحتويات الرقمية حقًا عندما يقوم شخص ما بالترويج لأننا نعيش أو نموت<span translate=\"no\"></span> وفقًا للعنوان والصورة المصغرة والطريقة التي نقدم بها هذا المحتوى ونبيعه للمشاهد. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you can't encapsulate what is the specific angle and the specific selling point of this piece of content that you want <span translate=\"no\"></span>to do? ",
+  "<span translate=\"no\"></span>إذا لم تتمكن من تغليف ما هي الزاوية المحددة ونقطة البيع المحددة لهذا الجزء من المحتوى الذي تريد<span translate=\"no\"></span> القيام به؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>No one's going to click on it and you could make you could make an Emmy-worthy stunning film that nobody will ever see. ",
+  "<span translate=\"no\"></span>لن ينقر عليه أحد ويمكنك أن تجعلك تستطيع صنع فيلم مذهل يستحق إيمي ولن يشاهده أحد على الإطلاق. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you have to be laser focused on what is the USP of this piece of content. ",
+  "<span translate=\"no\"></span>لذلك يجب أن تركز بالليزر على ما هو USP لهذا الجزء من المحتوى. "
+ ],
+ [
+  "We're gonna ask questions, has it been done before? ",
+  "سنطرح أسئلة، هل تم ذلك من قبل؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>How has it been done before? ",
+  "<span translate=\"no\"></span>كيف تم ذلك من قبل؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, what are your elements, what makes it visual? ",
+  "<span translate=\"no\"></span>كما تعلمون، ما هي العناصر الخاصة بك، ما الذي يجعلها مرئية؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Why should it be a video? ",
+  "<span translate=\"no\"></span>لماذا يجب أن يكون مقطع فيديو؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What format do you want to make? ",
+  "<span translate=\"no\"></span>ما التنسيق الذي تريد صنعه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Oh, you want to do it as a cat or how strong is your character? ",
+  "<span translate=\"no\"></span>أوه، تريد أن تفعل ذلك كقطة أو ما مدى قوة شخصيتك؟ "
+ ],
+ [
+  "You want to do it as a short documentary? ",
+  "تريد أن تفعل ذلك كفيلم وثائقي قصير؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Why are you going deeper? ",
+  "<span translate=\"no\"></span>لماذا تتعمق أكثر؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>How are we going to keep people engaged for that long? ",
+  "<span translate=\"no\"></span>كيف سنحافظ على تفاعل الناس لفترة طويلة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Oh, it's an investigation. ",
+  "<span translate=\"no\"></span>أوه، إنه تحقيق. "
+ ],
+ [
+  "<span translate=\"no\"></span>What is it, you know? ",
+  "<span translate=\"no\"></span>ما هو، هل تعلم؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So obviously we want people to be really clear on the format they've chosen and why. ",
+  "<span translate=\"no\"></span>لذلك من الواضح أننا نريد أن يكون الناس واضحين حقًا بشأن الشكل الذي اختاروه ولماذا. "
+ ],
+ [
+  " I think in terms of what works well... ",
+  " أعتقد فيما يتعلق بما يعمل بشكل جيد... "
+ ],
+ [
+  "<span translate=\"no\"></span>the key with online is thinking about the platform. ",
+  "<span translate=\"no\"></span>مفتاح الإنترنت هو التفكير في المنصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So what someone wants to watch on our homepage isn't necessarily the same as what somebody wants to watch on Twitter or what <span translate=\"no\"></span>somebody wants to watch on YouTube. ",
+  "<span translate=\"no\"></span>لذا فإن ما يريد شخص ما مشاهدته على صفحتنا الرئيسية ليس بالضرورة نفس ما يريد شخص ما مشاهدته على Twitter أو ما يريد<span translate=\"no\"></span> شخص ما مشاهدته على YouTube. "
+ ],
+ [
+  "<span translate=\"no\"></span>So as much as we can, we're trying to understand the way that the platform works and the way that the user interacts with <span translate=\"no\"></span>it so that we can make sure that we're giving them the best form of storytelling for their needs on that platform. ",
+  "<span translate=\"no\"></span>بقدر ما نستطيع، نحاول فهم الطريقة التي تعمل بها المنصة والطريقة التي يتفاعل بها المستخدم<span translate=\"no\"></span> معها حتى نتمكن من التأكد من أننا نقدم لهم أفضل شكل من أشكال سرد القصص لاحتياجاتهم على تلك المنصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So on YouTube, you know, maybe it's more of a lean-back experience, something that is more like a short doc or just slightly <span translate=\"no\"></span>longer format and on platform. ",
+  "<span translate=\"no\"></span>لذا على YouTube، كما تعلمون، ربما يكون الأمر أكثر من مجرد تجربة بسيطة، شيء أشبه بمستند قصير أو مجرد صيغة<span translate=\"no\"></span> أطول قليلاً وعلى المنصة. "
+ ],
+ [
+  "Maybe it's, you know, something that is a little bit more throws you right in the moment or <span translate=\"no\"></span>you know, whatever it is on mobile while people have very, very short attention spans. ",
+  "ربما يكون، كما تعلمون، شيئًا أكثر إثارة في الوقت الحالي أو كما<span translate=\"no\"></span> تعلم، أيًا كان ما يحدث على الهاتف المحمول بينما يتمتع الأشخاص بفترات انتباه قصيرة جدًا. "
+ ],
+ [
+  "Because if you think about how you're <span translate=\"no\"></span>watching video on your mobile, you're probably not sitting there and watching it for four or five minutes, you probably want <span translate=\"no\"></span>to see exactly what it is that you came there to see and you know, and then move on to the next story. ",
+  "لأنه إذا فكرت في كيفية<span translate=\"no\"></span> مشاهدة الفيديو على هاتفك المحمول، فمن المحتمل أنك لا تجلس هناك وتشاهده لمدة أربع أو خمس دقائق، ربما<span translate=\"no\"></span> تريد أن ترى بالضبط ما أتيت إلى هناك لرؤيته و كما تعلمون، ومن ثم ننتقل إلى القصة التالية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're thinking about the different platforms and what works best for those and then we can figure out, you know, what's <span translate=\"no\"></span>the best way to tell that story. ",
+  "<span translate=\"no\"></span>لذلك نحن نفكر في المنصات المختلفة وما هو الأفضل لها ومن ثم يمكننا معرفة، كما تعلمون، ما<span translate=\"no\"></span> هي أفضل طريقة لسرد تلك القصة. "
+ ],
+ [
+  "I think when it comes to the duration of a digital video, and this is true of all <span translate=\"no\"></span>digital content, it all comes down to the environment that somebody is coming to that content in. ",
+  "أعتقد أنه عندما يتعلق الأمر بمدة الفيديو الرقمي، وهذا ينطبق على كل المحتوى<span translate=\"no\"></span> الرقمي، فإن الأمر كله يتعلق بالبيئة التي يأتي فيها شخص ما إلى هذا المحتوى. "
+ ],
+ [
+  " CNN is most associated with <span translate=\"no\"></span>being not just a news environment, but in many ways of breaking news environment. ",
+  " ترتبط CNN أكثر من<span translate=\"no\"></span> غيرها بكونها ليست مجرد بيئة إخبارية، ولكن بطرق عديدة لبيئة الأخبار العاجلة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So our audience, when they come to us, you know, they spend an average of a few minutes on the platform maybe, you know, <span translate=\"no\"></span>four or five times a day and obviously this this data shifts all the time. ",
+  "<span translate=\"no\"></span>لذا فإن جمهورنا، عندما يأتون إلينا، كما تعلمون، يقضون في المتوسط بضع دقائق على المنصة ربما، كما تعلمون،<span translate=\"no\"></span> أربع أو خمس مرات في اليوم، ومن الواضح أن هذه البيانات تتغير طوال الوقت. "
+ ],
+ [
+  "But they're often in a busy day, they're coming <span translate=\"no\"></span>to us to get the headlines, they're not in a sort of lean back mood to kind of settle in. ",
+  "لكنهم غالبًا ما يكونون في يوم حافل، فهم يأتون إلينا<span translate=\"no\"></span> للحصول على عناوين الأخبار، فهم ليسوا في حالة مزاجية ضعيفة نوعًا ما للاستقرار فيها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Some viewers come of course to do that, but a lot of them are, can be quite a sort of skittish mindset of trying to <span translate=\"no\"></span>just quickly get a sense of what's going on and move on. ",
+  "<span translate=\"no\"></span>يأتي بعض المشاهدين بالطبع للقيام بذلك، لكن الكثير منهم، يمكن أن يكون نوعًا من العقلية المتقلبة<span translate=\"no\"></span> لمحاولة التعرف بسرعة على ما يجري والمضي قدمًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>That in some ways does obviously drive pressure to keep videos short to say that people can get what they need from them. ",
+  "<span translate=\"no\"></span>من الواضح أن هذا يؤدي في بعض النواحي إلى الضغط لإبقاء مقاطع الفيديو قصيرة للقول إن الأشخاص يمكنهم الحصول على ما يحتاجون إليه منها. "
+ ],
+ [
+  "<span translate=\"no\"></span>However, we've had tremendous success with a lot of much longer form video. ",
+  "<span translate=\"no\"></span>ومع ذلك، فقد حققنا نجاحًا هائلاً مع الكثير من مقاطع الفيديو الطويلة. "
+ ],
+ [
+  "And I think the success of keeping people with <span translate=\"no\"></span>a piece no matter the duration is a combination, not just of making an excellent video, which obviously we try to do with <span translate=\"no\"></span>all our videos, but giving people a sense of what they're opting in for when they click on it. ",
+  "وأعتقد أن نجاح الاحتفاظ بمقالة ما لدى<span translate=\"no\"></span> الأشخاص بغض النظر عن المدة هو مزيج، ليس فقط إنشاء مقطع فيديو ممتاز، وهو ما نحاول القيام به بوضوح مع<span translate=\"no\"></span> جميع مقاطع الفيديو الخاصة بنا، ولكن إعطاء الناس فكرة عن ماذا إنهم يختارون الاشتراك عند النقر عليه. "
+ ],
+ [
+  "And that can be a combination <span translate=\"no\"></span>of the headline that they've they've flicked on the the thumbnail image that goes with the piece, a tone setting in terms <span translate=\"no\"></span>of the way that video is presented. ",
+  "ويمكن أن يكون هذا مزيجًا<span translate=\"no\"></span> من العنوان الرئيسي الذي نقلوه على الصورة المصغرة التي تتوافق مع القطعة، وهو إعداد النغمة<span translate=\"no\"></span> من حيث طريقة عرض الفيديو. "
+ ],
+ [
+  "How is it framed on the page? ",
+  "كيف يتم تأطيرها على الصفحة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What is the framing and what are you telling somebody as they decide to click on that? ",
+  "<span translate=\"no\"></span>ما هو الإطار وما الذي تقوله لشخص ما عندما يقرر النقر على ذلك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Do they know that what they're about to opt in for is a sort of 10 minute deep dive or a four minute explainer or <span translate=\"no\"></span>a one minute 30 quick text on screen. ",
+  "<span translate=\"no\"></span>هل يعرفون أن ما هم على وشك الاشتراك فيه هو نوع من الغوص العميق لمدة 10 دقائق أو شرح لمدة أربع دقائق أو نص سريع<span translate=\"no\"></span> لمدة 30 دقيقة على الشاشة. "
+ ],
+ [
+  "<span translate=\"no\"></span>Just get a sense of the latest development in this story. ",
+  "<span translate=\"no\"></span>ما عليك سوى التعرف على أحدث التطورات في هذه القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I think as long as you can give people a sense of what it is they're opting in for and that depends that can <span translate=\"no\"></span>that that applies to, you know, the CNN environment or anywhere, you're much more likely to keep them with you till the end <span translate=\"no\"></span>of the piece. ",
+  "<span translate=\"no\"></span>لذلك أعتقد أنه طالما يمكنك إعطاء الناس فكرة عما يختارونه وهذا يعتمد على إمكانية أن ينطبق<span translate=\"no\"></span> ذلك على، كما تعلمون، بيئة CNN أو في أي مكان، فمن المرجح أن تحتفظ بهم معك حتى<span translate=\"no\"></span> نهاية القطعة. "
+ ],
+ [
+  "<span translate=\"no\"></span>We try and think about telling this story with a beginning and a middle and an end, you know, it kind of comes all back <span translate=\"no\"></span>to basics, what's your narrative arc here? ",
+  "<span translate=\"no\"></span>نحاول أن نفكر في سرد هذه القصة من البداية والوسط والنهاية، كما تعلمون، إنها تعود<span translate=\"no\"></span> إلى الأساسيات، ما هو القوس السردي الخاص بك هنا؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What do people need to know at the beginning? ",
+  "<span translate=\"no\"></span>ما الذي يحتاج الناس إلى معرفته في البداية؟ "
+ ],
+ [
+  "what's the crescendo? ",
+  "ما هو التصعيد؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, what's the action and what's the kind of resolution at the end? ",
+  "<span translate=\"no\"></span>كما تعلمون، ما هو الإجراء وما هو نوع القرار في النهاية؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, we think, we think in those terms to try and get people to engage throughout the whole thing. ",
+  "<span translate=\"no\"></span>كما تعلمون، نعتقد أننا نفكر بهذه المصطلحات لمحاولة جعل الناس ينخرطون في كل شيء. "
+ ],
+ [
+  " Big believer in your <span translate=\"no\"></span>video should be as long as it needs to be. ",
+  " يجب أن يكون المؤمن الكبير<span translate=\"no\"></span> بالفيديو الخاص بك طويلاً كما يجب أن يكون. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, it might need to be 60 seconds, it might need to be 4.5 ",
+  "<span translate=\"no\"></span>كما تعلمون، قد تحتاج إلى 60 ثانية، قد تحتاج إلى 4.5 "
+ ],
+ [
+  "minutes. ",
+  "الدقائق. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think that depends on what story you're trying to tell, how many elements there are, what you're trying to do. ",
+  "<span translate=\"no\"></span>أعتقد أن هذا يعتمد على القصة التي تحاول سردها، وعدد العناصر الموجودة، وما تحاول القيام به. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, I think there's sometimes a tendency to think, oh, anything can go online, we can just publish as as long as we <span translate=\"no\"></span>want to publish, that's the beauty of online. ",
+  "<span translate=\"no\"></span>كما تعلمون، أعتقد أن هناك ميلًا في بعض الأحيان إلى التفكير، أوه، أي شيء يمكن نشره على الإنترنت، يمكننا فقط النشر طالما أننا<span translate=\"no\"></span> نريد النشر، وهذا هو جمال الإنترنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you're really gonna engage digital audiences, you need to, you need to make sure that you're giving <span translate=\"no\"></span>them what they want and not what you want to put online, if that makes sense. ",
+  "<span translate=\"no\"></span>إذا كنت ترغب حقًا في إشراك الجماهير الرقمية، فأنت بحاجة إلى ذلك، فأنت بحاجة إلى التأكد من أنك<span translate=\"no\"></span> تمنحهم ما يريدون وليس ما تريد وضعه على الإنترنت، إذا كان ذلك منطقيًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>I think ultimately good storytelling is good storytelling. ",
+  "<span translate=\"no\"></span>أعتقد أن رواية القصص الجيدة في نهاية المطاف هي رواية القصص الجيدة. "
+ ],
+ [
+  "And if a video is pulling you along and you're compelled to stay <span translate=\"no\"></span>with it because you feel that you're being pulled on a narrative journey where you're gonna learn more by sticking around <span translate=\"no\"></span>you're going to stay with it. ",
+  "وإذا كان مقطع فيديو يجذبك وأنت مضطر للبقاء<span translate=\"no\"></span> معه لأنك تشعر أنك تنجذب في رحلة سردية حيث ستتعلم المزيد من خلال البقاء<span translate=\"no\"></span>، فستبقى معه. "
+ ],
+ [
+  "<span translate=\"no\"></span>If there's a very flat structure to a story where you've basically been given everything that you're going to be given off <span translate=\"no\"></span>the bat and then there's a sort of, let's elaborate massive section after that, I think we lose people because they feel <span translate=\"no\"></span>a bit of drift. ",
+  "<span translate=\"no\"></span>إذا كان هناك هيكل مسطح جدًا للقصة حيث تم إعطاؤك أساسًا كل شيء ستحصل عليه من الخفافيش، ثم هناك نوع من، دعنا نطور قسمًا ضخمًا بعد ذلك، أعتقد أننا نخسر<span translate=\"no\"></span> الناس لأنهم يشعرون<span translate=\"no\"></span> بقليل من الانجراف. "
+ ],
+ [
+  "<span translate=\"no\"></span>Some people come down to a rule of three and they feel that, you know, if you're making three really key points over <span translate=\"no\"></span>the course of a video and almost sort of chapterize it a bit, it helps people stay with it. ",
+  "<span translate=\"no\"></span>يلجأ بعض الأشخاص إلى قاعدة الثلاثة ويشعرون، كما تعلمون، أنك إذا قدمت ثلاث نقاط رئيسية حقًا على مدار<span translate=\"no\"></span> الفيديو وقمت تقريبًا بتقسيمها إلى فصل بسيط، فهذا يساعد الأشخاص على البقاء معها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Some people find that signposting is really, really helpful and digital video, if you give people a sense of what's coming <span translate=\"no\"></span>later and you kind of indicate, you know, stick around to learn this later, you might do that with an intro, piece of script. ",
+  "<span translate=\"no\"></span>يجد بعض الأشخاص أن وضع العلامات هو حقًا فيديو رقمي مفيد حقًا، إذا أعطيت الناس فكرة عما سيحدث<span translate=\"no\"></span> لاحقًا وتشير، كما تعلم، إلى الاستمرار في تعلم ذلك لاحقًا، يمكنك القيام بذلك مع مقدمة، قطعة من السيناريو. "
+ ],
+ [
+  "<span translate=\"no\"></span>You might do it with some graphics. ",
+  "<span translate=\"no\"></span>قد تفعل ذلك مع بعض الرسومات. "
+ ],
+ [
+  "<span translate=\"no\"></span>You might literally have an intro that says in this piece, we're going to address these three questions. ",
+  "<span translate=\"no\"></span>قد يكون لديك حرفيًا مقدمة تقول في هذه المقالة، سنتناول هذه الأسئلة الثلاثة. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, there are all sorts of tools. ",
+  "<span translate=\"no\"></span>كما تعلمون، هناك كل أنواع الأدوات. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you identify something that could potentially be an interactive, you're gonna get as many people, as many stakeholders <span translate=\"no\"></span>for the final product in a room as possible. ",
+  "<span translate=\"no\"></span>إذا حددت شيئًا يمكن أن يكون تفاعليًا، فستحصل على أكبر عدد ممكن من الأشخاص، وأكبر عدد ممكن من أصحاب المصلحة<span translate=\"no\"></span> للمنتج النهائي في الغرفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And in a room could be a virtual room these days, but you're gonna try and get them together so that you can talk about <span translate=\"no\"></span>it all. ",
+  "<span translate=\"no\"></span>وفي الغرفة يمكن أن تكون غرفة افتراضية هذه الأيام، لكنك ستحاول جمعها معًا حتى تتمكن من التحدث عن كل<span translate=\"no\"></span> شيء. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that could be your editorial team, your visuals team, the people that are going to, your designers, your developers. ",
+  "<span translate=\"no\"></span>ويمكن أن يكون هذا هو فريق التحرير الخاص بك، وفريق المرئيات الخاص بك، والأشخاص الذين سيقومون بذلك، والمصممين، والمطورين. "
+ ],
+ [
+  "<span translate=\"no\"></span>And when I say designers, graphic designers, your developers who are gonna hack the page. ",
+  "<span translate=\"no\"></span>وعندما أقول المصممين ومصممي الجرافيك والمطورين الذين سيخترقون الصفحة. "
+ ],
+ [
+  "It could be your video team <span translate=\"no\"></span>because there may be video elements involved. ",
+  "قد يكون فريق الفيديو الخاص بك<span translate=\"no\"></span> لأنه قد تكون هناك عناصر فيديو متورطة. "
+ ],
+ [
+  "<span translate=\"no\"></span>It could be audio, like we could involve the audio team because we want to include snippets or podcasts or eclipse. ",
+  "<span translate=\"no\"></span>يمكن أن يكون الصوت، كما يمكننا إشراك فريق الصوت لأننا نريد تضمين مقتطفات أو ملفات بودكاست أو كسوف. "
+ ],
+ [
+  "<span translate=\"no\"></span>It could be the photo desk because there's going to be an element of photos running through it or you're working with a photographer <span translate=\"no\"></span>in the field. ",
+  "<span translate=\"no\"></span>يمكن أن يكون مكتب الصور لأنه سيكون هناك عنصر من الصور يمر عبره أو أنك تعمل مع مصور<span translate=\"no\"></span> في الميدان. "
+ ],
+ [
+  "<span translate=\"no\"></span>So there, I mean, you could have 6-7-8 teams depending on kind of the region and kind of how big you want to go with <span translate=\"no\"></span>it and how much resource you want to go into it. ",
+  "<span translate=\"no\"></span>لذلك، أعني، يمكن أن يكون لديك 6-7-8 فرق اعتمادًا على نوع المنطقة ونوع الحجم الذي تريد<span translate=\"no\"></span> استخدامه ومقدار الموارد التي تريد استخدامها فيها. "
+ ],
+ [
+  "<span translate=\"no\"></span>But if I think back to one recent example, as a story that we collaborated on across many teams here at CNN. ",
+  "<span translate=\"no\"></span>ولكن إذا عدت إلى مثال حديث، كقصة تعاوننا فيها عبر العديد من الفرق هنا في CNN. "
+ ],
+ [
+  "So news gathering <span translate=\"no\"></span>were engaged in it. ",
+  "لذلك<span translate=\"no\"></span> تم جمع الأخبار في ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>Our video teams, our visual news teams. ",
+  "<span translate=\"no\"></span>فرق الفيديو لدينا، فرق الأخبار المرئية لدينا. "
+ ],
+ [
+  "<span translate=\"no\"></span>It was a story that investigated the Mariupol strike, which is in very early phase of the Ukraine war. ",
+  "<span translate=\"no\"></span>لقد كانت قصة حققت في إضراب ماريوبول، الذي هو في مرحلة مبكرة جدًا من حرب أوكرانيا. "
+ ],
+ [
+  "<span translate=\"no\"></span>And in this interactive feature, it takes the single issue of this strike that Russia carried out on a maternity hospital <span translate=\"no\"></span>in Mariupol. ",
+  "<span translate=\"no\"></span>وفي هذه الميزة التفاعلية، تتناول المسألة الوحيدة من هذا الإضراب الذي نفذته روسيا على مستشفى للولادة<span translate=\"no\"></span> في ماريوبول. "
+ ],
+ [
+  "And then it actually contextualizes and broadens the subject, because it points to more than a dozen other <span translate=\"no\"></span>strikes on health facilities across the country. ",
+  "ومن ثم فإنها في الواقع تضع الموضوع في سياقه وتوسعه، لأنها تشير إلى أكثر من اثني عشر<span translate=\"no\"></span> ضربة أخرى على المرافق الصحية في جميع أنحاء البلاد. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it takes the singular and it brings it to focus on the systemic. ",
+  "<span translate=\"no\"></span>لذا فإن الأمر يتطلب صيغة المفرد ويجعله يركز على النظام. "
+ ],
+ [
+  "So that involved piecing together what we knew of the <span translate=\"no\"></span>story. ",
+  "لذلك تضمن ذلك تجميع ما عرفناه عن<span translate=\"no\"></span> القصة. "
+ ],
+ [
+  "That's a lot of traditional on the ground reporting. ",
+  "هذا كثير من التقارير التقليدية على الأرض. "
+ ],
+ [
+  "And then using maps and graphics and illustrations to build <span translate=\"no\"></span>up a more immersive picture. ",
+  "ثم استخدام الخرائط والرسومات والرسوم التوضيحية<span translate=\"no\"></span> لبناء صورة أكثر شمولاً. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then we sent it all off to someone who's expert at doing 3D motion picture graphics. ",
+  "<span translate=\"no\"></span>ثم أرسلناها كلها إلى شخص خبير في عمل رسومات الصور المتحركة ثلاثية الأبعاد. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it enabled us to tell the story of the attack and the aftermath by building a 3D model of the hospital, by overlaying <span translate=\"no\"></span>photos of the scene, by telling some of the story through text and others through still photos. ",
+  "<span translate=\"no\"></span>ومكنتنا من سرد قصة الهجوم وما تبعه من خلال بناء نموذج ثلاثي الأبعاد للمستشفى، من خلال تغطية<span translate=\"no\"></span> صور المشهد، من خلال سرد بعض القصة من خلال النص والبعض الآخر من خلال الصور الثابتة. "
+ ],
+ [
+  "And the rest of it <span translate=\"no\"></span>by building up is amazing 3D model of the of the hospital itself. ",
+  "والباقي من<span translate=\"no\"></span> خلال البناء هو نموذج ثلاثي الأبعاد مذهل للمستشفى نفسه. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it really took you in and drew you into the to what was, you know, what would otherwise have been a very sort of <span translate=\"no\"></span>text heavy story. ",
+  "<span translate=\"no\"></span>وقد جذبك ذلك حقًا وجذبك إلى ما كان، كما تعلمون، ما كان يمكن أن يكون نوعًا جدًا من القصص<span translate=\"no\"></span> النصية الثقيلة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And I think it's a good example of when you have the time, and the resources and the expertise to actually think about, could <span translate=\"no\"></span>we tell this deep dive story in a multi-layered way that will that will keep audiences engaged. ",
+  "<span translate=\"no\"></span>وأعتقد أنه مثال جيد عندما يكون لديك الوقت والموارد والخبرة للتفكير فعليًا، هل<span translate=\"no\"></span> يمكننا سرد قصة الغوص العميق هذه بطريقة متعددة الطبقات من شأنها أن تحافظ على تفاعل الجماهير. "
+ ],
+ [
+  "<span translate=\"no\"></span>And I think that kind of presentation really can give a strong impact to stories that might otherwise be <span translate=\"no\"></span>difficult to tell. ",
+  "<span translate=\"no\"></span>وأعتقد أن هذا النوع من العروض التقديمية يمكن أن يعطي تأثيرًا قويًا على القصص التي قد يكون من<span translate=\"no\"></span> الصعب سردها. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's very collaborative thing. ",
+  "<span translate=\"no\"></span>إنه شيء تعاوني للغاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And if you get everyone together at the beginning to talk about what potentially could be an interactive and everyone's <span translate=\"no\"></span>on the same page, then you everybody's everybody's under the same impression of what could the final, the final product could be. ",
+  "<span translate=\"no\"></span>وإذا جمعت الجميع معًا في البداية للحديث عما يمكن أن يكون تفاعليًا وما يمكن أن يكون الجميع<span translate=\"no\"></span> على نفس الصفحة، فسيكون لدى الجميع نفس الانطباع عما يمكن أن يكون النهائي، يمكن أن يكون المنتج النهائي. "
+ ],
+ [
+  "<span translate=\"no\"></span>You then go and do the reporting, and then when you come back and you start building the interactive, it's much smoother process. ",
+  "<span translate=\"no\"></span>ثم تقوم بإعداد التقارير، وعندما تعود وتبدأ في بناء التفاعل، تصبح العملية أكثر سلاسة. "
+ ],
+ [
+  "<span translate=\"no\"></span>A really striking story that we did from Lviv in Ukraine as part of a digital deployment is a piece that brings people inside <span translate=\"no\"></span>one of the first stagings in the National Opera House in Lviv, and it was the ballet that was actually putting on a performance <span translate=\"no\"></span>This was, you know, right in the middle of a period of an ongoing enduring period of instability within the country. ",
+  "<span translate=\"no\"></span>قصة مذهلة حقًا قمنا بها من لفيف في أوكرانيا كجزء من النشر الرقمي هي قطعة تجمع الناس داخل<span translate=\"no\"></span> واحدة من أولى المسرحيات في دار الأوبرا الوطنية في لفيف، وكان الباليه هو في الواقع، كان<span translate=\"no\"></span> هذا، كما تعلمون، في منتصف فترة مستمرة من عدم الاستقرار داخل البلاد. "
+ ],
+ [
+  "<span translate=\"no\"></span>But as part of a sense of sort of showing defiance, the National Opera House decided to stage a ballet and invite people <span translate=\"no\"></span>to attend. ",
+  "<span translate=\"no\"></span>ولكن كجزء من الشعور بنوع من التحدي، قررت دار الأوبرا الوطنية تنظيم الباليه ودعوة الناس<span translate=\"no\"></span> للحضور. "
+ ],
+ [
+  "<span translate=\"no\"></span>Many of those in the, in the audience, of course were displaced people from other parts of the country who had fled conflict <span translate=\"no\"></span>and instability into sort of the relatively, you know, more secure city of Lviv. ",
+  "<span translate=\"no\"></span>كان العديد من الحاضرين، بالطبع، من النازحين من أجزاء أخرى من البلاد الذين فروا من الصراع<span translate=\"no\"></span> وعدم الاستقرار إلى نوع من مدينة لفيف الأكثر أمانًا نسبيًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>I knew I was going to see a performance and that I was gonna be able to spend some time with the actors and dancers <span translate=\"no\"></span>There was gonna be a lot of movement, It was gonna be very visual. ",
+  "<span translate=\"no\"></span>كنت أعلم أنني سأشاهد عرضًا وأنني سأتمكن من قضاء بعض الوقت مع الممثلين والراقصين سيكون<span translate=\"no\"></span> هناك الكثير من الحركة، وسيكون الأمر مرئيًا للغاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So I knew going in that I didn't want to do a traditional 600-800 word write. ",
+  "<span translate=\"no\"></span>لذلك عرفت أنني لا أريد أن أقوم بالكتابة التقليدية من 600 إلى 800 كلمة. "
+ ],
+ [
+  " That doesn't serve my audience. ",
+  " هذا لا يخدم جمهوري. "
+ ],
+ [
+  "<span translate=\"no\"></span>I want to present a piece that they're going to enjoy. ",
+  "<span translate=\"no\"></span>أريد أن أقدم قطعة سوف يستمتعون بها. "
+ ],
+ [
+  "<span translate=\"no\"></span>I'm trying to convey to them that we're trying to bring a sense of normality back. ",
+  "<span translate=\"no\"></span>أحاول أن أنقل إليهم أننا نحاول إعادة الشعور بالحياة الطبيعية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so seeing something that's visually rich like that in my planning process, you kind of craft the story around that. ",
+  "<span translate=\"no\"></span>وبالتالي فإن رؤية شيء غني بصريًا مثل هذا في عملية التخطيط الخاصة بي، فإنك تقوم نوعًا ما بصياغة القصة حول ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it wasn't, it ultimately wasn't a piece that was text heavy. ",
+  "<span translate=\"no\"></span>لذلك لم يكن الأمر كذلك، في النهاية لم يكن جزءًا ثقيلًا من النص. "
+ ],
+ [
+  "<span translate=\"no\"></span>It was, it was a photo-led, you know, photo rich piece because it was designed to be that because you want to present <span translate=\"no\"></span>the dancers doing what they do best. ",
+  "<span translate=\"no\"></span>لقد كانت، كما تعلمون، قطعة غنية بالصور الفوتوغرافية لأنها صُممت لتكون كذلك لأنك تريد أن تقدم<span translate=\"no\"></span> للراقصين وهم يقومون بأفضل ما يفعلونه. "
+ ],
+ [
+  "Let them do the talking and then you write a supplementary write, supplementary copy that <span translate=\"no\"></span>can kind of lift the photos of the piece. ",
+  "اسمح لهم بالتحدث ثم تكتب نسخة تكميلية مكتوبة ومكملة<span translate=\"no\"></span> يمكنها نوعًا ما رفع صور القطعة. "
+ ],
+ [
+  "<span translate=\"no\"></span>We decided to use a combination of video and still imagery and then Lauren wrote a beautiful piece that just <span translate=\"no\"></span>encapsulates that sense of anticipation for what was going to happen. ",
+  "<span translate=\"no\"></span>قررنا استخدام مزيج من الفيديو والصور الثابتة ثم كتبت لورين مقالًا جميلًا<span translate=\"no\"></span> يلخص هذا الشعور بالتوقع لما سيحدث. "
+ ],
+ [
+  "<span translate=\"no\"></span>And in in that piece you're also hearing, you know, personal stories of how people are, you know, how they, how they are <span translate=\"no\"></span>feeling about attending something and even though it is an act of defiance in a way to be there and maybe some respite from <span translate=\"no\"></span>what is happening in the country at that moment in time. ",
+  "<span translate=\"no\"></span>وفي هذه المقالة، تسمع أيضًا، كما تعلمون، قصصًا شخصية عن حالة الناس، كما تعلمون، وكيف<span translate=\"no\"></span> يشعرون حيال حضور شيء ما، وعلى الرغم من أنه يمثل تحديًا في طريقة التواجد هناك و ربما بعض الراحة<span translate=\"no\"></span> مما يحدث في البلاد في تلك اللحظة من الزمن. "
+ ],
+ [
+  "<span translate=\"no\"></span>Lauren also conveys that sense that at any moment the air raid sirens could sound and the people who are attending and the <span translate=\"no\"></span>dancers on stage and the people who are in the orchestra might have to, you know, get to a safe place. ",
+  "<span translate=\"no\"></span>تنقل لورين أيضًا هذا الشعور بأنه في أي لحظة يمكن أن تنطلق صفارات الإنذار للغارات الجوية وقد يضطر الأشخاص الذين يحضرون<span translate=\"no\"></span> والراقصون على خشبة المسرح والأشخاص الذين هم في الأوركسترا إلى الوصول إلى مكان آمن مكان. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it's really only at that point in the story that you realize, you know that there is just that juxtaposition between <span translate=\"no\"></span>something so normal to happen in a historic city and a cultural city like Lviv and yet the broader context of course being <span translate=\"no\"></span>that the entire country is still very much in the midst of something so unstable. ",
+  "<span translate=\"no\"></span>وفي الحقيقة فقط في تلك المرحلة من القصة تدرك، كما تعلمون أن هناك ذلك التجاور بين<span translate=\"no\"></span> شيء طبيعي جدًا يحدث في مدينة تاريخية ومدينة ثقافية مثل لفيف ومع ذلك على نطاق أوسع السياق بالطبع هو<span translate=\"no\"></span> أن البلد بأكمله لا يزال إلى حد كبير في خضم شيء غير مستقر للغاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>When we think about when news breaks, people are really keen to understand what is actually happening and what is what can <span translate=\"no\"></span>be trusted in a time of great uncertainty where, you know, people might be really actually almost stopped in their tracks <span translate=\"no\"></span>kind of waiting to get some piece of verifiable information. ",
+  "<span translate=\"no\"></span>عندما نفكر في وقت نشر الأخبار، يحرص الناس حقًا على فهم ما يحدث بالفعل وما<span translate=\"no\"></span> يمكن الوثوق به في وقت يتسم بعدم اليقين الشديد حيث، كما تعلمون، قد يكون الناس في الواقع تقريبًا توقفوا في مساراتهم<span translate=\"no\"></span> نوعًا ما في انتظار الحصول على بعض المعلومات التي يمكن التحقق منها. "
+ ],
+ [
+  "In a newsroom at that moment in time, if you're working on a <span translate=\"no\"></span>digital news desk, what you're seeking to do is get the first line of confirmable information out onto a, onto a live blog <span translate=\"no\"></span>which we call the dynamic live experience or onto a URL. ",
+  "في غرفة الأخبار في تلك اللحظة، إذا كنت تعمل على مكتب أخبار<span translate=\"no\"></span> رقمي، فإن ما تسعى إلى القيام به هو الحصول على السطر الأول من المعلومات المؤكدة على مدونة<span translate=\"no\"></span> مباشرة نسميها البث المباشر الديناميكي تجربة أو على عنوان URL. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you want to get one line of information that we are are saying this is happening or this thing has happened, that's our <span translate=\"no\"></span>first priority is to get to one line. ",
+  "<span translate=\"no\"></span>لذلك تريد الحصول على سطر واحد من المعلومات التي نقول أن هذا يحدث أو حدث هذا الشيء، وهذه هي أولويتنا<span translate=\"no\"></span> الأولى هي الوصول إلى سطر واحد. "
+ ],
+ [
+  "<span translate=\"no\"></span>And that one line then essentially becomes the push alert that people receive onto their smartphones. ",
+  "<span translate=\"no\"></span>ثم يصبح هذا السطر أساسًا التنبيه الفوري الذي يتلقاه الأشخاص على هواتفهم الذكية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Most people in digital journalism are familiar with the term a live blog. ",
+  "<span translate=\"no\"></span>معظم الناس في الصحافة الرقمية على دراية بمصطلح مدونة حية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Live blogs were started as a way of developing the digital story format to tell breaking news. ",
+  "<span translate=\"no\"></span>بدأت المدونات الحية كطريقة لتطوير شكل القصة الرقمية لسرد الأخبار العاجلة. "
+ ],
+ [
+  "<span translate=\"no\"></span>CNN's name for the live blog is a DLE, a dynamic live experience. ",
+  "<span translate=\"no\"></span>اسم CNN للمدونة الحية هو DLE، وهي تجربة حية ديناميكية. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's just, it's just another word for a live blog or live page. ",
+  "<span translate=\"no\"></span>إنها مجرد كلمة أخرى لمدونة حية أو صفحة مباشرة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And the key elements of these formats, it's a page that can be relatively swiftly updated that the audience can see the <span translate=\"no\"></span>updates. ",
+  "<span translate=\"no\"></span>والعناصر الرئيسية لهذه التنسيقات، إنها صفحة يمكن تحديثها بسرعة نسبيًا بحيث يمكن للجمهور رؤية<span translate=\"no\"></span> التحديثات. "
+ ],
+ [
+  "That you're able to <span translate=\"no\"></span>tell a developing story as it happens and you're not bound by the traditional structures and strictures of the top down <span translate=\"no\"></span>traditional newspaper style story, which was the sort of bedrock of the early stages of the internet. ",
+  "أنك قادر على<span translate=\"no\"></span> سرد قصة متطورة فور حدوثها، وأنك لست ملزمًا بالهياكل والقيود التقليدية لقصة الصحف<span translate=\"no\"></span> التقليدية من أعلى إلى أسفل، والتي كانت نوعًا من حجر الأساس في العصور القديمة مراحل الإنترنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>It means that you can run, you can run your updates as fast or as slowly as the story merits. ",
+  "<span translate=\"no\"></span>هذا يعني أنه يمكنك التشغيل، يمكنك تشغيل تحديثاتك بالسرعة أو ببطء كما تستحق القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>It means you can, you can run different kinds of updates whether their photos or videos or statements or press conferences <span translate=\"no\"></span>or whatever it is that's happening and it gives the audience a sense that story is developing. ",
+  "<span translate=\"no\"></span>هذا يعني أنه يمكنك تشغيل أنواع مختلفة من التحديثات سواء كانت صورًا أو مقاطع فيديو أو بيانات<span translate=\"no\"></span> أو مؤتمرات صحفية أو أيًا كان ما يحدث ويمنح الجمهور إحساسًا بأن القصة تتطور. "
+ ],
+ [
+  "<span translate=\"no\"></span>It also crucially keeps the audience engaged, they keep coming back because they, you know, they want to know what the latest <span translate=\"no\"></span>updates are. ",
+  "<span translate=\"no\"></span>كما أنه يحافظ على تفاعل الجمهور بشكل حاسم، فهم يواصلون العودة لأنهم، كما تعلمون، يريدون معرفة آخر<span translate=\"no\"></span> التحديثات. "
+ ],
+ [
+  "<span translate=\"no\"></span>When a big story breaks, the organization will swing into action, you'll have editors and producers chasing <span translate=\"no\"></span>down the, trying to confirm the top lines of the story itself, you'll have a digital editor standing by to edit the copy. ",
+  "<span translate=\"no\"></span>عندما تدور قصة كبيرة، ستبدأ المؤسسة في العمل، وسيكون لديك محررون ومنتجون يقومون<span translate=\"no\"></span> بمطاردتهم، ويحاولون تأكيد الخطوط العليا للقصة نفسها، وسيكون لديك محرر رقمي جاهز للتعديل النسخة. "
+ ],
+ [
+  "<span translate=\"no\"></span>You'll have a writer ready to write the first line, you have a home page editor who's ready to place it on the page, you <span translate=\"no\"></span>might you might even have another home page editor who's writing the push alert that's going to go out and then there's another <span translate=\"no\"></span>producer or editor getting ready to send the social post. ",
+  "<span translate=\"no\"></span>سيكون لديك كاتب جاهز لكتابة السطر الأول، ولديك محرر الصفحة الرئيسية جاهز لوضعه على الصفحة،<span translate=\"no\"></span> وقد يكون لديك محرر صفحة رئيسية آخر يكتب التنبيه الفوري الذي سيبدأ ثم هناك<span translate=\"no\"></span> منتج أو محرر آخر يستعد لإرسال المنشور الاجتماعي. "
+ ],
+ [
+  "There's lots of all of that all has to happen altogether and <span translate=\"no\"></span>all the same time. ",
+  "هناك الكثير من كل ذلك يجب أن يحدث تمامًا وفي<span translate=\"no\"></span> نفس الوقت. "
+ ],
+ [
+  "<span translate=\"no\"></span>And once you're over the line, once you've got that first line out, push alert's been sent the post is out on twitter, the <span translate=\"no\"></span>the breaking news banner has gone out on tv, then you kind of take a breath and then start to think about the next element. ",
+  "<span translate=\"no\"></span>وبمجرد تجاوزك للخط، بمجرد إخراج السطر الأول، يتم إرسال تنبيه فوري، ونشر المنشور على تويتر، ونشر شعار الأخبار العاجلة على التلفزيون، ثم تأخذ نفسًا ثم تبدأ في التفكير<span translate=\"no\"></span> حول العنصر التالي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So how's the story going to develop? ",
+  "<span translate=\"no\"></span>إذن كيف ستتطور القصة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Do we need to deploy to it? ",
+  "<span translate=\"no\"></span>هل نحن بحاجة إلى النشر إليها؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Do we need a live blog? ",
+  "<span translate=\"no\"></span>هل نحتاج إلى مدونة حية؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Do we, do we need to build out the story in different ways, will there be eyewitnesses... ",
+  "<span translate=\"no\"></span>هل نحن بحاجة إلى بناء القصة بطرق مختلفة، هل سيكون هناك شهود عيان... "
+ ],
+ [
+  "is that a separate story? ",
+  "هل هذه قصة منفصلة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Will we need a color piece? ",
+  "<span translate=\"no\"></span>هل سنحتاج إلى قطعة ملونة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>All sorts of decisions are then taken. ",
+  "<span translate=\"no\"></span>ثم يتم اتخاذ جميع أنواع القرارات. "
+ ],
+ [
+  " You've got multiple people doing different things. ",
+  " لديك العديد من الأشخاص الذين يقومون بأشياء مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So one person might be working on, getting that one line out. ",
+  "<span translate=\"no\"></span>لذلك قد يعمل شخص واحد على إخراج هذا السطر. "
+ ],
+ [
+  " You might have another person at the same time trying to figure <span translate=\"no\"></span>out some background, some context, trying to, you know, piece together. ",
+  " قد يكون لديك شخص آخر في نفس الوقت يحاول<span translate=\"no\"></span> معرفة بعض الخلفية، بعض السياق، يحاول، كما تعلمون، تجميع المعلومات معًا. "
+ ],
+ [
+  "When you're in a digital setting, <span translate=\"no\"></span>it's, you know, you are sort of really driving forward on the facts of something. ",
+  "عندما تكون في بيئة رقمية،<span translate=\"no\"></span> فأنت، كما تعلم، تمضي قدمًا حقًا في حقائق شيء ما. "
+ ],
+ [
+  "<span translate=\"no\"></span>And while you might focus that, say on television on on a fact on a sort of segment centered around maybe one story or one <span translate=\"no\"></span>sort of side of the story for for a period of time or maybe a block of time or segment within a show. ",
+  "<span translate=\"no\"></span>وبينما يمكنك التركيز على ذلك، على سبيل المثال في التلفزيون، على حقيقة أو نوع من المقطع يتمحور حول ربما قصة واحدة أو<span translate=\"no\"></span> نوع واحد من القصة لفترة من الوقت أو ربما مجموعة من الوقت أو جزء داخل عرض. "
+ ],
+ [
+  "On digital <span translate=\"no\"></span>you really need what's new, constantly moving forward. ",
+  "في المجال الرقمي،<span translate=\"no\"></span> تحتاج حقًا إلى ما هو جديد والمضي قدمًا باستمرار. "
+ ],
+ [
+  "<span translate=\"no\"></span>And best of that is the dynamic live experience, which is our live coverage or a live blog if you like in a digital setting. ",
+  "<span translate=\"no\"></span>وأفضل ما في الأمر هو التجربة الحية الديناميكية، وهي تغطيتنا المباشرة أو مدونة حية إذا كنت ترغب في ذلك في بيئة رقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And what we require for that to be interesting for audiences is really a fast moving feed of new information. ",
+  "<span translate=\"no\"></span>وما نطلبه لكي يكون ذلك مثيرًا للاهتمام للجماهير هو حقًا تغذية سريعة الحركة للمعلومات الجديدة. "
+ ],
+ [
+  "<span translate=\"no\"></span>A key characteristic of live stories is obviously the constant updates. ",
+  "<span translate=\"no\"></span>من الواضح أن إحدى السمات الرئيسية للقصص الحية هي التحديثات المستمرة. "
+ ],
+ [
+  "And what that means is that you can actually be more <span translate=\"no\"></span>detailed and go into more depth than you would otherwise do in a traditional 600 or 800 word news story. ",
+  "وما يعنيه ذلك هو أنه يمكنك بالفعل أن تكون أكثر<span translate=\"no\"></span> تفصيلاً وأن تتعمق أكثر مما كنت ستفعله في قصة إخبارية تقليدية من 600 أو 800 كلمة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So if you were constantly updating a fairly standard news story, you'd be thinking about what you're going to leave out. ",
+  "<span translate=\"no\"></span>لذلك إذا كنت تقوم باستمرار بتحديث قصة إخبارية عادية إلى حد ما، فستفكر فيما ستتركه. "
+ ],
+ [
+  "What <span translate=\"no\"></span>live stories do is enable you to report everything. ",
+  "ما تفعله القصص<span translate=\"no\"></span> الحية هو تمكينك من الإبلاغ عن كل شيء. "
+ ],
+ [
+  "<span translate=\"no\"></span>So someone makes a statement, you put the whole statement in, you say this is what they've said. ",
+  "<span translate=\"no\"></span>لذلك يدلي شخص ما ببيان، وتضع البيان بأكمله، وتقول هذا ما قاله. "
+ ],
+ [
+  "<span translate=\"no\"></span>If somebody reacts to what's happened and you can carry carry the full reaction and and you're you're not bound, you're not <span translate=\"no\"></span>bound by the the limitations of a traditional story. ",
+  "<span translate=\"no\"></span>إذا تفاعل شخص ما مع ما حدث وكان بإمكانك تحمل رد الفعل الكامل ولم تكن ملزمًا، فأنت لست<span translate=\"no\"></span> ملزمًا بقيود القصة التقليدية. "
+ ],
+ [
+  "<span translate=\"no\"></span>It also means therefore that the work of your news gathering colleagues or the work of your reporters or whoever it is <span translate=\"no\"></span>that's contributing to all of this. ",
+  "<span translate=\"no\"></span>وهذا يعني أيضًا أن عمل زملائك في جمع الأخبار أو عمل مراسليك أو أي شخص يساهم في كل هذا.<span translate=\"no\"></span> "
+ ],
+ [
+  "<span translate=\"no\"></span>We have to work a bit harder because it's like a sort of it's like a live monster. ",
+  "<span translate=\"no\"></span>علينا أن نعمل بجهد أكبر قليلاً لأنه يشبه نوعًا ما مثل الوحش الحي. "
+ ],
+ [
+  "<span translate=\"no\"></span>It constantly needs feeding. ",
+  "<span translate=\"no\"></span>إنها تحتاج باستمرار إلى التغذية. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, your live page is always there, always needs, it always needs to be updated and it needs more as much details <span translate=\"no\"></span>as you can possibly get. ",
+  "<span translate=\"no\"></span>كما تعلم، صفحتك المباشرة موجودة دائمًا، وتحتاج دائمًا، وتحتاج دائمًا إلى التحديث وتحتاج إلى مزيد من التفاصيل<span translate=\"no\"></span> بقدر ما يمكنك الحصول عليها. "
+ ],
+ [
+  "<span translate=\"no\"></span>This is what we tell our correspondents and producers in the field: keep filing updates to the news desk. ",
+  "<span translate=\"no\"></span>هذا ما نقوله لمراسلينا والمنتجين في هذا المجال: استمر في تقديم التحديثات إلى مكتب الأخبار. "
+ ],
+ [
+  "<span translate=\"no\"></span>Keep keep sending those uh those alerts and put as much detail in them as possible. ",
+  "<span translate=\"no\"></span>استمر في إرسال تلك التنبيهات ووضع أكبر قدر ممكن من التفاصيل فيها. "
+ ],
+ [
+  "<span translate=\"no\"></span>Don't leave anything out. ",
+  "<span translate=\"no\"></span>لا تترك أي شيء. "
+ ],
+ [
+  " Give us everything. ",
+  " أعطنا كل شيء. "
+ ],
+ [
+  "<span translate=\"no\"></span>Push notifications or push alerts are an important way of sending breaking news headlines and other kinds of headlines <span translate=\"no\"></span>to alert the users of your app to an important story or an important piece of journalism. ",
+  "<span translate=\"no\"></span>تُعد الإشعارات الفورية أو التنبيهات الفورية طريقة مهمة لإرسال عناوين الأخبار العاجلة وأنواع أخرى من العناوين<span translate=\"no\"></span> لتنبيه مستخدمي تطبيقك إلى قصة مهمة أو جزء مهم من الصحافة. "
+ ],
+ [
+  "<span translate=\"no\"></span>They're quite blunt instrument. ",
+  "<span translate=\"no\"></span>إنها أداة حادة للغاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>They're short, they're quite hard to write. ",
+  "<span translate=\"no\"></span>إنها قصيرة، ومن الصعب جدًا كتابتها. "
+ ],
+ [
+  "<span translate=\"no\"></span>They have to capture the attention, they have to make you want to click. ",
+  "<span translate=\"no\"></span>يجب عليهم جذب الانتباه، وعليهم أن يجعلوك ترغب في النقر. "
+ ],
+ [
+  "And they're quite intrusive as well because they <span translate=\"no\"></span>pop up usually with some sort of annoying sound on your phone, on the lock screen. ",
+  "كما أنها تدخلية جدًا لأنها<span translate=\"no\"></span> تظهر عادةً بنوع من الصوت المزعج على هاتفك، على شاشة القفل. "
+ ],
+ [
+  " They disturb your users. ",
+  " إنها تزعج المستخدمين لديك. "
+ ],
+ [
+  "<span translate=\"no\"></span>That's the point... ",
+  "<span translate=\"no\"></span>هذه هي النقطة... "
+ ],
+ [
+  "they're meant to disturb people to because you're trying to tell them something important or you're trying <span translate=\"no\"></span>to put something interesting in front of them, but you've got to use them pretty sparingly because users have <span translate=\"no\"></span>a love hate relationship with push notifications. ",
+  "يُقصد بها إزعاج الناس لأنك تحاول إخبارهم بشيء مهم أو<span translate=\"no\"></span> تحاول وضع شيء مثير للاهتمام أمامهم، ولكن عليك استخدامها باعتدال لأن المستخدمين<span translate=\"no\"></span> لديهم علاقة الحب والكراهية مع الإشعارات الفورية. "
+ ],
+ [
+  "<span translate=\"no\"></span>They allow users to be to be interrupted by their choice because they've subscribed. ",
+  "<span translate=\"no\"></span>إنها تسمح بمقاطعة المستخدمين حسب اختيارهم لأنهم اشتركوا. "
+ ],
+ [
+  "<span translate=\"no\"></span>But equally they don't want to be overwhelmed. ",
+  "<span translate=\"no\"></span>لكنهم بنفس القدر لا يريدون أن يشعروا بالارتباك. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, they didn't sign up to get interrupted all through the day, every day, every hour, every half hour. ",
+  "<span translate=\"no\"></span>كما تعلم، لم يقوموا بالتسجيل حتى تتم مقاطعتهم طوال اليوم، كل يوم، كل ساعة، كل نصف ساعة. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's a real sort of, it's a real sort of art to getting it right because you never quite know how much people want. ",
+  "<span translate=\"no\"></span>إنه نوع حقيقي من الفن، إنه نوع حقيقي من الفن لفهمه بشكل صحيح لأنك لا تعرف أبدًا مدى رغبة الناس. "
+ ],
+ [
+  "<span translate=\"no\"></span>And some people might want more and some people might want fewer and what some people consider important story is <span translate=\"no\"></span>different from what other people consider important story. ",
+  "<span translate=\"no\"></span>وقد يرغب بعض الأشخاص في المزيد وقد يرغب بعض الأشخاص في الحصول على عدد أقل، وما يعتبره البعض قصة مهمة<span translate=\"no\"></span> يختلف عما يعتبره الآخرون قصة مهمة. "
+ ],
+ [
+  "<span translate=\"no\"></span>The basic building block of a push notification has remained the same. ",
+  "<span translate=\"no\"></span>ظلت اللبنة الأساسية للإشعار الفوري كما هي. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's a short engaging headline that you either have to write under huge pressure because it's breaking news alert or you <span translate=\"no\"></span>have loads of time to think about because it's because you're writing a push notification for a piece of journalism <span translate=\"no\"></span>that you haven't published yet. ",
+  "<span translate=\"no\"></span>إنه عنوان قصير وجذاب يتعين عليك إما كتابته تحت ضغط كبير لأنه تنبيه بالأخبار العاجلة أو<span translate=\"no\"></span> لديك الكثير من الوقت للتفكير فيه لأنه لأنك تكتب إشعارًا فوريًا لمقالة ما. عن الصحافة<span translate=\"no\"></span> التي لم تنشرها بعد. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you've got lots of time. ",
+  "<span translate=\"no\"></span>لذلك لديك الكثير من الوقت. "
+ ],
+ [
+  "<span translate=\"no\"></span>It might be an exclusive story or an investigation. ",
+  "<span translate=\"no\"></span>قد تكون قصة حصرية أو تحقيقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Either way they're hard to write because breaking news push notifications... ",
+  "<span translate=\"no\"></span>في كلتا الحالتين، يصعب كتابتها لأن الأخبار العاجلة تدفع الإشعارات... "
+ ],
+ [
+  "<span translate=\"no\"></span>you can't... ",
+  "<span translate=\"no\"></span>لا يمكنك... "
+ ],
+ [
+  "if you get something wrong in it you can't bring it back. ",
+  "إذا حدث خطأ ما فيه فلا يمكنك إعادته. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's there, it sits on someone's phone and the only way to correct it is to send another one. ",
+  "<span translate=\"no\"></span>إنه موجود على هاتف شخص ما والطريقة الوحيدة لتصحيحه هي إرسال هاتف آخر. "
+ ],
+ [
+  "That's really embarrassing. ",
+  "هذا محرج حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>You don't want to get those wrong. ",
+  "<span translate=\"no\"></span>أنت لا تريد أن تفهم ذلك بشكل خاطئ. "
+ ],
+ [
+  "<span translate=\"no\"></span>We don't... ",
+  "<span translate=\"no\"></span>نحن لا... "
+ ],
+ [
+  "we don't get those wrong very often. ",
+  "نحن لا نخطئ في كثير من الأحيان. "
+ ],
+ [
+  "<span translate=\"no\"></span>But again it means you double and triple check it before you before you send it. ",
+  "<span translate=\"no\"></span>ولكن مرة أخرى يعني ذلك أنك تقوم بفحصه مرتين وثلاث مرات قبل إرساله. "
+ ],
+ [
+  "<span translate=\"no\"></span>You get at least one other person to read it sometimes more. ",
+  "<span translate=\"no\"></span>تحصل على شخص آخر على الأقل لقراءته أحيانًا أكثر. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then you read it again and then I read them aloud to myself. ",
+  "<span translate=\"no\"></span>ثم تقرأها مرة أخرى ثم أقرأها بصوت عالٍ لنفسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>Before I press the button. ",
+  "<span translate=\"no\"></span>قبل أن أضغط على الزر. "
+ ],
+ [
+  "<span translate=\"no\"></span>Everyone has their different ways of just making sure that they get them right. ",
+  "<span translate=\"no\"></span>لكل شخص طرقه المختلفة للتأكد من أنه يحصل عليها بشكل صحيح. "
+ ],
+ [
+  "<span translate=\"no\"></span>The other thing too, the Dirty Little Secret really of push notifications is that most people don't click on them. ",
+  "<span translate=\"no\"></span>الشيء الآخر أيضًا، فإن Dirty Little Secret حقًا في الإشعارات الفورية هو أن معظم الأشخاص لا ينقرون عليها. "
+ ],
+ [
+  "<span translate=\"no\"></span>You send a push notification notification and a small percentage of your audience will actually open it. ",
+  "<span translate=\"no\"></span>يمكنك إرسال إشعار فوري وستقوم نسبة صغيرة من جمهورك بفتحه بالفعل. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's that's because really often the notification itself is enough because it's the headline of a big breaking news story <span translate=\"no\"></span>It gives the audience the main thing they need to know and maybe they'll come back to it later when they're home or they'll <span translate=\"no\"></span>engage with the story a different way. ",
+  "<span translate=\"no\"></span>هذا لأن الإشعار نفسه غالبًا ما يكون كافيًا لأنه عنوان قصة إخبارية عاجلة كبيرة،<span translate=\"no\"></span> فهو يمنح الجمهور الشيء الرئيسي الذي يحتاجون إلى معرفته وربما سيعودون إليه لاحقًا إنهم في المنزل أو<span translate=\"no\"></span> سيتفاعلون مع القصة بطريقة مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>I know I do that because I don't open most push notifications on my phone. ",
+  "<span translate=\"no\"></span>أعلم أنني أفعل ذلك لأنني لا أفتح معظم الإشعارات الفورية على هاتفي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So actually push notifications don't necessarily send a huge audience to your story compared to the overall audience that <span translate=\"no\"></span>it eventually gets. ",
+  "<span translate=\"no\"></span>لذا فإن الإشعارات الفورية لا ترسل بالضرورة جمهورًا كبيرًا إلى قصتك مقارنة بالجمهور العام الذي تحصل<span translate=\"no\"></span> عليه في النهاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>However, it gives it a kind of kick start. ",
+  "<span translate=\"no\"></span>ومع ذلك، فإنه يعطيها نوعًا من البداية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it means that... ",
+  "<span translate=\"no\"></span>لذا فهذا يعني أن... "
+ ],
+ [
+  "in the competitive space of a breaking news story or when you're looking to put an exclusive or deeply <span translate=\"no\"></span>reported piece of journalism in front of your audience. ",
+  "في الفضاء التنافسي لقصة إخبارية عاجلة أو عندما تتطلع إلى وضع مقال صحفي حصري أو<span translate=\"no\"></span> تم الإبلاغ عنه بعمق أمام جمهورك. "
+ ],
+ [
+  "<span translate=\"no\"></span>When I'm pitching, one of the things that I really focus on is mobile first pitches. ",
+  "<span translate=\"no\"></span>عندما أقوم بالترويج، فإن أحد الأشياء التي أركز عليها حقًا هو العروض التقديمية الأولى للجوّال. "
+ ],
+ [
+  "<span translate=\"no\"></span>And the reason why is because at least for me that's where I consume the majority of> I constantly have my phone. ",
+  "<span translate=\"no\"></span>والسبب في ذلك هو أنه بالنسبة لي على الأقل هذا هو المكان الذي أستهلك فيه غالبية> لدي هاتفي باستمرار. "
+ ],
+ [
+  "And I'm <span translate=\"no\"></span>constantly reading and consuming my news, my TV, my everything is through my phone. ",
+  "وأنا أقرأ<span translate=\"no\"></span> باستمرار وأستهلك أخباري وتلفازي وكل شيء من خلال هاتفي. "
+ ],
+ [
+  "<span translate=\"no\"></span>And if I'm like that then so is some of our audience and so I'm looking at and I'm using data for that. ",
+  "<span translate=\"no\"></span>وإذا كنت كذلك، فكذلك الحال بالنسبة لبعض جمهورنا ولذا فإنني أنظر وأستخدم البيانات لذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>We know that the majority... ",
+  "<span translate=\"no\"></span>نحن نعلم أن الأغلبية... "
+ ],
+ [
+  "there are times that CNN is majority mobile first. ",
+  "هناك أوقات تكون فيها CNN هي الأغلبية المتنقلة أولاً. "
+ ],
+ [
+  "As in the majority of our audience <span translate=\"no\"></span>is coming from mobile devices. ",
+  "كما هو الحال في غالبية<span translate=\"no\"></span> جمهورنا يأتي من الأجهزة المحمولة. "
+ ],
+ [
+  "Especially at the weekends, for example, because nobody's sitting on a desktop computer <span translate=\"no\"></span>reading the news. ",
+  "خاصة في عطلات نهاية الأسبوع، على سبيل المثال، لأنه لا أحد يجلس على كمبيوتر سطح المكتب<span translate=\"no\"></span> يقرأ الأخبار. "
+ ],
+ [
+  "They're sat on the couch in between, you know, watching tv scrolling through their phone. ",
+  "يجلسون على الأريكة بين ذلك، كما تعلمون، يشاهدون التلفاز وهو يتصفح هواتفهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>And so sometimes there are certain stories that when you're coming up with your pitch, you think that <span translate=\"no\"></span>is a mobile first story. ",
+  "<span translate=\"no\"></span>وفي بعض الأحيان تكون هناك بعض القصص التي عندما تأتي بعرضك التقديمي، فإنك تعتقد أن هذه<span translate=\"no\"></span> هي القصة الأولى للجوّال. "
+ ],
+ [
+  "That's something that's going to lend itself to a mobile presentation. ",
+  "هذا شيء سيكون مفيدًا لعرض تقديمي محمول. "
+ ],
+ [
+  " In which case, how can I <span translate=\"no\"></span>incorporate that into my pitch? ",
+  " في هذه الحالة، كيف يمكنني<span translate=\"no\"></span> دمج ذلك في العرض التقديمي الخاص بي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What do I need in terms of elements that would make that more mobile friendly? ",
+  "<span translate=\"no\"></span>ما الذي أحتاجه من حيث العناصر التي من شأنها أن تجعل ذلك أكثر ملاءمة للجوّال؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Do I want to include photos? ",
+  "<span translate=\"no\"></span>هل أريد تضمين الصور؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And does that include photos that are taken in a more portrait landscape orientation as opposed to a landscape orientation? ",
+  "<span translate=\"no\"></span>وهل يشمل ذلك الصور التي يتم التقاطها في اتجاه أفقي عمودي أكثر بدلاً من الاتجاه الأفقي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Because I know that's how it's going to be consumed. ",
+  "<span translate=\"no\"></span>لأنني أعلم أن هذه هي الطريقة التي سيتم استهلاكها بها. "
+ ],
+ [
+  " If I'm gonna be shooting video elements for it, because I think <span translate=\"no\"></span>video would be a good part of that story, <span translate=\"no\"></span>am I shooting it in portrait mode because I'm thinking about them? ",
+  " إذا كنت سأقوم بتصوير عناصر فيديو لذلك، لأنني أعتقد أن<span translate=\"no\"></span> الفيديو سيكون جزءًا جيدًا من تلك القصة،<span translate=\"no\"></span> فهل أقوم بتصويره في الوضع الرأسي لأنني أفكر فيها؟ "
+ ],
+ [
+  "\n That mobile presentation. ",
+  "\n هذا العرض المحمول. "
+ ],
+ [
+  "And so you might incorporate <span translate=\"no\"></span>that into your pitch from the get go. ",
+  "ولذا يمكنك دمج<span translate=\"no\"></span> ذلك في عرضك التقديمي منذ البداية. "
+ ],
+ [
+  "Because you have a clear vision that that's how your piece is going, you would like your <span translate=\"no\"></span>piece to go out. ",
+  "نظرًا لأن لديك رؤية واضحة مفادها أن هذه هي الطريقة التي تسير بها مقالتك، فأنت ترغب في إخراج<span translate=\"no\"></span> قطعتك. "
+ ],
+ [
+  "<span translate=\"no\"></span>Big thing to think about when pitching stories to digital editors, is to think about how the story is going to be presented. ",
+  "<span translate=\"no\"></span>الشيء المهم الذي يجب التفكير فيه عند عرض القصص على المحررين الرقميين، هو التفكير في كيفية تقديم القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, don't just say, oh, I'm looking into this issue. ",
+  "<span translate=\"no\"></span>لذا، لا تقولي فقط، أوه، أنا أبحث في هذه القضية. "
+ ],
+ [
+  "I'm going to this place. ",
+  "سأذهب إلى هذا المكان. "
+ ],
+ [
+  "Think about what story you're actually going <span translate=\"no\"></span>to tell. ",
+  "فكر في القصة التي<span translate=\"no\"></span> سترويها بالفعل. "
+ ],
+ [
+  "<span translate=\"no\"></span>Think about what the headline might be. ",
+  "<span translate=\"no\"></span>فكر فيما قد يكون العنوان الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>Think about what the first few paragraphs would be. ",
+  "<span translate=\"no\"></span>فكر في ما ستكون عليه الفقرات القليلة الأولى. "
+ ],
+ [
+  "Encapsulate the story that you're going to do. ",
+  "قم بتغليف القصة التي ستقوم بها. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that the editor can you can understand and visualize and think about what it's gonna look like on on the digital page. ",
+  "<span translate=\"no\"></span>حتى تتمكن من فهم المحرر وتصوره والتفكير في الشكل الذي سيبدو عليه على الصفحة الرقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And being able to think ahead and visualize what your story is gonna look like on the page, and from my point of view from <span translate=\"no\"></span>what the story is gonna look like on the home page as well, will really help you get your story commissioned. ",
+  "<span translate=\"no\"></span>والقدرة على التفكير في المستقبل وتصور كيف ستبدو قصتك على الصفحة، ومن وجهة نظري من الشكل<span translate=\"no\"></span> الذي ستبدو عليه القصة على الصفحة الرئيسية أيضًا، ستساعدك حقًا في الحصول على قصتك مفوض. "
+ ],
+ [
+  "Or <span translate=\"no\"></span>get the story that you've already done, given a good placing on the home page. ",
+  "أو<span translate=\"no\"></span> احصل على القصة التي قمت بها بالفعل، مع وضع جيد على الصفحة الرئيسية. "
+ ],
+ [
+  "It's not enough to say, I'm going to <span translate=\"no\"></span>X Place, and I'll see what I get. ",
+  "لا يكفي القول، سأذهب إلى<span translate=\"no\"></span> X Place، وسأرى ما أحصل عليه. "
+ ],
+ [
+  "You think about what the framing of your story is going to be. ",
+  "أنت تفكر في ما سيكون عليه تأطير قصتك. "
+ ],
+ [
+  "What <span translate=\"no\"></span>format it's going to end up in and and what visual elements you're going to have. ",
+  "ما هو<span translate=\"no\"></span> الشكل الذي سينتهي به الأمر والعناصر المرئية التي ستحصل عليها. "
+ ],
+ [
+  "And of course that might might change, and <span translate=\"no\"></span>plans always change, and it might not end up working out the way you want it. ",
+  "وبالطبع قد يتغير ذلك،<span translate=\"no\"></span> والخطط تتغير دائمًا، وقد لا ينتهي الأمر بالعمل بالطريقة التي تريدها. "
+ ],
+ [
+  "<span translate=\"no\"></span>But having a good idea of what the story is going to be, look like. ",
+  "<span translate=\"no\"></span>لكن الحصول على فكرة جيدة عما ستكون عليه القصة، يبدو. "
+ ],
+ [
+  "The headline, the tease for the tease image. ",
+  "العنوان الرئيسي، المضايقة للصورة المثيرة. "
+ ],
+ [
+  "What <span translate=\"no\"></span>your story that you're trying to tell or the message that you're trying to give. ",
+  "ما هي<span translate=\"no\"></span> قصتك التي تحاول سردها أو الرسالة التي تحاول إيصالها. "
+ ],
+ [
+  " Having a clear idea about that at the <span translate=\"no\"></span>pitching stage will be a much better guarantee of success. ",
+  " إن الحصول على فكرة واضحة عن ذلك في مرحلة<span translate=\"no\"></span> الترويج سيكون ضمانًا أفضل للنجاح. "
+ ],
+ [
+  "<span translate=\"no\"></span>Number one, you have to have a strong headline when you're pitching, because otherwise, you don't have a clear focus of what <span translate=\"no\"></span>your story is going to be. ",
+  "<span translate=\"no\"></span>أولاً، يجب أن يكون لديك عنوان قوي عند الترويج، لأنه بخلاف ذلك، لن يكون لديك تركيز واضح على ما ستكون عليه<span translate=\"no\"></span> قصتك. "
+ ],
+ [
+  "<span translate=\"no\"></span>But you have to think about how it's going to be presented both on the top of your story and perhaps the homepage. ",
+  "<span translate=\"no\"></span>ولكن عليك التفكير في كيفية عرضها في الجزء العلوي من قصتك وربما في الصفحة الرئيسية. "
+ ],
+ [
+  "You know <span translate=\"no\"></span>how are you going to draw a reader in and that's different from print? ",
+  "هل تعرف<span translate=\"no\"></span> كيف ستجذب القارئ وهذا يختلف عن الطباعة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You don't have to necessarily think about that because that's something that the editor of the newspaper is going to do or <span translate=\"no\"></span>the copy editors are gonna do. ",
+  "<span translate=\"no\"></span>ليس عليك بالضرورة التفكير في ذلك لأن هذا شيء سيفعله محرر الصحيفة أو<span translate=\"no\"></span> سيفعله محررو النسخ. "
+ ],
+ [
+  "<span translate=\"no\"></span>That's all part of the process on the digital, in the digital space, at least, at CNN it is. ",
+  "<span translate=\"no\"></span>هذا كله جزء من العملية الرقمية، في الفضاء الرقمي، على الأقل، في CNN. "
+ ],
+ [
+  "It's a whole encompassing process <span translate=\"no\"></span>You need to think about every single element of your piece from the beginning, because otherwise, you're not gonna get <span translate=\"no\"></span>very far with your pitch. ",
+  "إنها عملية شاملة<span translate=\"no\"></span> تحتاج إلى التفكير في كل عنصر من عناصر قطعتك منذ البداية، وإلا فلن تمضي قدمًا<span translate=\"no\"></span> في عرضك التقديمي. "
+ ],
+ [
+  "<span translate=\"no\"></span>We would describe this as being audience led. ",
+  "<span translate=\"no\"></span>يمكن أن نصف هذا بأنه بقيادة الجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>Being really conscious of audience behavior and how they are consuming a story. ",
+  "<span translate=\"no\"></span>أن تكون مدركًا حقًا لسلوك الجمهور وكيف يستهلكون القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that might be a whole range of metrics. ",
+  "<span translate=\"no\"></span>لذلك قد تكون هذه مجموعة كاملة من المقاييس. "
+ ],
+ [
+  "Shall we say from everything from how are people, what are they reading <span translate=\"no\"></span>on or watching on? ",
+  "هل نقول من كل شيء من كيف حال الناس، ما الذي يقرؤون<span translate=\"no\"></span> عليه أو يشاهدونه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, is it a phone? ",
+  "<span translate=\"no\"></span>كما تعلمون، هل هو هاتف؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is it a desktop computer? ",
+  "<span translate=\"no\"></span>هل هو كمبيوتر مكتبي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is it a tablet? ",
+  "<span translate=\"no\"></span>هل هو جهاز لوحي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is that Android is it IOS? ",
+  "<span translate=\"no\"></span>هل هذا أندرويد هل هو IOS؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So thinking about all of these differences then? ",
+  "<span translate=\"no\"></span>إذن هل تفكر في كل هذه الاختلافات؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Thinking about how they how are they arriving to the journalism that we are publishing? ",
+  "<span translate=\"no\"></span>هل تفكر في كيفية وصولهم إلى الصحافة التي ننشرها؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Is that via a social platform, is it via WhatsApp or Telegram or another messaging app? ",
+  "<span translate=\"no\"></span>هل هذا عبر منصة اجتماعية، هل عبر WhatsApp أو Telegram أو تطبيق مراسلة آخر؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>Or is it that they are a really loyal branded news customer? ",
+  "<span translate=\"no\"></span>أم أنهم عملاء أخبار مخلصون حقًا للعلامة التجارية؟ "
+ ],
+ [
+  "They type cnn.com ",
+  "إنهم يكتبون cnn.com "
+ ],
+ [
+  "into their browser. ",
+  "في متصفحهم. "
+ ],
+ [
+  "Or they <span translate=\"no\"></span>have the app downloaded onto their phone. ",
+  "أو<span translate=\"no\"></span> قاموا بتنزيل التطبيق على هواتفهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>You really need to be thinking about how are people consuming your news? ",
+  "<span translate=\"no\"></span>تحتاج حقًا إلى التفكير في كيفية استهلاك الناس لأخبارك؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>We use software called ChartBeat. ",
+  "<span translate=\"no\"></span>نحن نستخدم برنامج يسمى ChartBeat. "
+ ],
+ [
+  "That will show different headlines to different parts of the audience. ",
+  "سيعرض ذلك عناوين مختلفة لأجزاء مختلفة من الجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you'll write anywhere between, you know, it tends to work better with like three or four headlines. ",
+  "<span translate=\"no\"></span>لذلك ستكتب في أي مكان بين، كما تعلم، تميل إلى العمل بشكل أفضل مع ثلاثة أو أربعة عناوين رئيسية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you'll write anywhere from three or four headlines to I think you can go up to 10, 15 headlines. ",
+  "<span translate=\"no\"></span>لذلك ستكتب في أي مكان من ثلاثة أو أربعة عناوين إلى أعتقد أنه يمكنك الانتقال إلى 10 أو 15 عنوانًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Then the software will show each headline to different parts of the audience and it will then calculate the number <span translate=\"no\"></span>of clicks that it gets versus the engagement on the page afterwards. ",
+  "<span translate=\"no\"></span>ثم سيعرض البرنامج كل عنوان لأجزاء مختلفة من الجمهور وسيقوم بعد ذلك بحساب<span translate=\"no\"></span> عدد النقرات التي يحصل عليها مقابل المشاركة على الصفحة بعد ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>So it will calculate that balance between what's retaining users and what's getting them to click and it will find that sweet <span translate=\"no\"></span>spot and then it'll tell us what that is. ",
+  "<span translate=\"no\"></span>لذلك سيحسب هذا التوازن بين ما يحتفظ بالمستخدمين وما يدفعهم إلى النقر وسيجد هذا<span translate=\"no\"></span> المكان المناسب ثم سيخبرنا بما هو ذلك. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you've written something that is getting a lot of clicks but is getting clicked off, it will tend to stop. ",
+  "<span translate=\"no\"></span>إذا كتبت شيئًا يحصل على الكثير من النقرات ولكن تم النقر عليه، فسوف يميل إلى التوقف. "
+ ],
+ [
+  "<span translate=\"no\"></span>It will tend to not choose that once. ",
+  "<span translate=\"no\"></span>سوف تميل إلى عدم اختيار ذلك مرة واحدة. "
+ ],
+ [
+  "<span translate=\"no\"></span>There are lots of metrics available to digital journalists and they all tell you different kinds of stories. ",
+  "<span translate=\"no\"></span>هناك الكثير من المقاييس المتاحة للصحفيين الرقميين وكلها تخبرك بأنواع مختلفة من القصص. "
+ ],
+ [
+  "<span translate=\"no\"></span>There are the metrics that give you a sense of how a story is doing in the moment. ",
+  "<span translate=\"no\"></span>هناك مقاييس تمنحك فكرة عن أداء القصة في الوقت الحالي. "
+ ],
+ [
+  "<span translate=\"no\"></span>Home page editors at CNN use use a tool called ChartBeat that ranks stories on the home page. ",
+  "<span translate=\"no\"></span>يستخدم محررو الصفحة الرئيسية في CNN أداة تسمى ChartBeat تصنف القصص على الصفحة الرئيسية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So usually the story that's in the lead slot will be number one. ",
+  "<span translate=\"no\"></span>لذلك عادةً ما تكون القصة الموجودة في خانة الصدارة هي رقم واحد. "
+ ],
+ [
+  "<span translate=\"no\"></span>But if it isn't, you'll be questioning why. ",
+  "<span translate=\"no\"></span>ولكن إذا لم يكن الأمر كذلك، فسوف تتساءل عن السبب. "
+ ],
+ [
+  "Perhaps there'll be a story  that's quite far down the page that actually <span translate=\"no\"></span>has quite a high ranking. ",
+  "ربما ستكون هناك قصة بعيدة جدًا عن الصفحة<span translate=\"no\"></span> تتمتع بالفعل بترتيب عالٍ جدًا. "
+ ],
+ [
+  "And that will make you think people are interested in that perhaps we should move it up. ",
+  "وهذا سيجعلك تعتقد أن الناس مهتمون بذلك ربما ينبغي علينا المضي قدمًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>It'll also tell you whether a story is gaining in popularity or losing in popularity or whether it's performing <span translate=\"no\"></span>on average better than other stories in that slot where it's currently placed. ",
+  "<span translate=\"no\"></span>سيخبرك أيضًا ما إذا كانت القصة تكتسب شعبية أو تفقد شعبيتها أو ما إذا كانت تؤدي في<span translate=\"no\"></span> المتوسط بشكل أفضل من القصص الأخرى في تلك الفتحة حيث يتم وضعها حاليًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So all of those real time pieces of information allow you to take decisions in the moment about how you're placing stories. ",
+  "<span translate=\"no\"></span>لذا فإن كل هذه المعلومات في الوقت الفعلي تسمح لك باتخاذ قرارات في الوقت الحالي حول كيفية وضع القصص. "
+ ],
+ [
+  "<span translate=\"no\"></span>And whether they're doing well and whether the headlines need to be sharpened or whether the story is just not performing <span translate=\"no\"></span>and perhaps it's time to replace it with something else. ",
+  "<span translate=\"no\"></span>وما إذا كانت تعمل بشكل جيد وما إذا كانت العناوين بحاجة إلى شحذ أو ما إذا كانت القصة لا<span translate=\"no\"></span> تعمل فقط وربما حان الوقت لاستبدالها بشيء آخر. "
+ ],
+ [
+  "<span translate=\"no\"></span>However, there are competitive and metrics pressures that you need to guard against. ",
+  "<span translate=\"no\"></span>ومع ذلك، هناك ضغوط تنافسية وقياسية تحتاج إلى الحماية منها. "
+ ],
+ [
+  "<span translate=\"no\"></span>If the only determinant for commissioning a story was whether it will do well, or the only determining factor for where <span translate=\"no\"></span>we place the story on the homepage is its position in the rankings, then I think you'd end up with a very different kind <span translate=\"no\"></span>of home page. ",
+  "<span translate=\"no\"></span>إذا كان العامل الوحيد المحدد لبدء القصة هو ما إذا كانت ستنجح أم أن العامل المحدد الوحيد لمكان وضع القصة على الصفحة الرئيسية هو موقعها في التصنيفات، فأعتقد أنك ستنتهي بـ<span translate=\"no\"></span> نوع مختلف جدًا<span translate=\"no\"></span> من الصفحة الرئيسية. "
+ ],
+ [
+  "And that's what some news organizations do. ",
+  "وهذا ما تفعله بعض المؤسسات الإخبارية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And metrics are the only, are the only determining factor for some. ",
+  "<span translate=\"no\"></span>والمقاييس هي العامل الوحيد المحدد للبعض. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's not the case at CNN. ",
+  "<span translate=\"no\"></span>ليس هذا هو الحال في CNN. "
+ ],
+ [
+  "We have a very subjective think about what we think is important <span translate=\"no\"></span>and what we think the stories that we ought to tell. ",
+  "لدينا فكرة ذاتية للغاية حول ما نعتقد أنه مهم<span translate=\"no\"></span> وما نعتقد أنه القصص التي يجب أن نرويها. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we use a combination of things. ",
+  "<span translate=\"no\"></span>لذلك نستخدم مزيجًا من الأشياء. "
+ ],
+ [
+  "Then we also try and make our most what we think that might be <span translate=\"no\"></span>our most difficult stories as accessible as possible. ",
+  "ثم نحاول أيضًا تحقيق أقصى ما نعتقد أنه قد يكون<span translate=\"no\"></span> أصعب قصصنا في الوصول إليها قدر الإمكان. "
+ ],
+ [
+  "<span translate=\"no\"></span>So don't make it hard, you know. ",
+  "<span translate=\"no\"></span>لذا لا تصعّب الأمر، كما تعلم. "
+ ],
+ [
+  "Try and make it try and make it easy for, for your audience to engage with your stories. ",
+  "حاول أن تجعل من السهل على جمهورك التفاعل مع قصصك. "
+ ],
+ [
+  "<span translate=\"no\"></span>That doesn't mean a race to the bottom. ",
+  "<span translate=\"no\"></span>هذا لا يعني السباق إلى القاع. "
+ ],
+ [
+  "<span translate=\"no\"></span>It means it just means exactly as I'm saying, it just make it don't make it difficult for your audience to access your stories. ",
+  "<span translate=\"no\"></span>هذا يعني تمامًا كما أقول، إنه يجعل الأمر لا يجعل من الصعب على جمهورك الوصول إلى قصصك. "
+ ],
+ [
+  "<span translate=\"no\"></span>And and that competitive pressure I think is it's something that makes us all... ",
+  "<span translate=\"no\"></span>وأعتقد أن هذا الضغط التنافسي هو شيء يجعلنا جميعًا... "
+ ],
+ [
+  "it makes us all better. ",
+  "يجعلنا جميعًا أفضل. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're primarily focused on video starts and completion rates. ",
+  "<span translate=\"no\"></span>لذلك نحن نركز بشكل أساسي على بدء الفيديو ومعدلات الإكمال. "
+ ],
+ [
+  "<span translate=\"no\"></span>So video starts is obviously telling you the picture of who is watching this and how many people are watching it. ",
+  "<span translate=\"no\"></span>لذا من الواضح أن بدء الفيديو يخبرك بصورة من يشاهد هذا وعدد الأشخاص الذين يشاهدونه. "
+ ],
+ [
+  "And you're <span translate=\"no\"></span>getting that sense of scale and what people really want to consume and what's what's really driving attention on this story <span translate=\"no\"></span>in a visual way. ",
+  "وأنت<span translate=\"no\"></span> تحصل على هذا الإحساس بالحجم وما يريد الناس حقًا استهلاكه وما الذي يجذب الانتباه حقًا إلى هذه القصة<span translate=\"no\"></span> بطريقة مرئية. "
+ ],
+ [
+  "<span translate=\"no\"></span>And then the other thing we're looking at is completion rate. ",
+  "<span translate=\"no\"></span>ثم الشيء الآخر الذي ننظر إليه هو معدل الإكمال. "
+ ],
+ [
+  "And that is telling us is this engaging people and keeping <span translate=\"no\"></span>them from beginning to middle to end. ",
+  "وهذا يخبرنا أن هذا يشرك الناس<span translate=\"no\"></span> ويمنعهم من البداية إلى المنتصف إلى النهاية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So that's what we're focused on is the percentage of people who are watching this right up until the last frame. ",
+  "<span translate=\"no\"></span>لذلك ما نركز عليه هو النسبة المئوية للأشخاص الذين يشاهدون هذا حتى الإطار الأخير. "
+ ],
+ [
+  "<span translate=\"no\"></span>We're not looking so much at what percentage of the video are they looking at? ",
+  "<span translate=\"no\"></span>نحن لا ننظر كثيرًا إلى النسبة المئوية للفيديو الذي يشاهدونه؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>We're interested more in like are we creating that narrative arc? ",
+  "<span translate=\"no\"></span>نحن مهتمون أكثر بما يشبه إنشاء هذا القوس السردي؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>And are we delivering on that promise? ",
+  "<span translate=\"no\"></span>وهل نفي بهذا الوعد؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So it is, it's not about how do I get them? ",
+  "<span translate=\"no\"></span>لذا فالأمر لا يتعلق بكيفية الحصول عليها؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>How do I write the stories or publish the stories that have the greatest number of clicks. ",
+  "<span translate=\"no\"></span>كيف أكتب القصص أو أنشر القصص التي تحتوي على أكبر عدد من النقرات. "
+ ],
+ [
+  "<span translate=\"no\"></span>That is not the driving force when we think about metrics. ",
+  "<span translate=\"no\"></span>هذه ليست القوة الدافعة عندما نفكر في المقاييس. "
+ ],
+ [
+  "We are only using them to hell help us to understand those consumption <span translate=\"no\"></span>patterns and behaviors. ",
+  "نحن نستخدمها فقط للمساعدة في مساعدتنا على فهم<span translate=\"no\"></span> أنماط الاستهلاك والسلوكيات هذه. "
+ ],
+ [
+  "<span translate=\"no\"></span>Metrics are really helpful for a newsroom so that they can understand how the audience is interacting and engaging with the news. ",
+  "<span translate=\"no\"></span>المقاييس مفيدة حقًا لغرفة الأخبار حتى تتمكن من فهم كيفية تفاعل الجمهور والتفاعل مع الأخبار. "
+ ],
+ [
+  "<span translate=\"no\"></span>But at the end of the day, the sort of, the largest guiding principle is our own editorial judgment. ",
+  "<span translate=\"no\"></span>ولكن في نهاية المطاف، فإن المبدأ التوجيهي الأكبر هو قرارنا التحريري. "
+ ],
+ [
+  "That is something that <span translate=\"no\"></span>is essential when it comes to commissioning and how we're thinking about framing news stories. ",
+  "هذا شيء<span translate=\"no\"></span> ضروري عندما يتعلق الأمر بالتكليف وكيف نفكر في تأطير القصص الإخبارية. "
+ ],
+ [
+  "What we are committing our <span translate=\"no\"></span>time into covering. ",
+  "ما نخصص<span translate=\"no\"></span> وقتنا في تغطيته. "
+ ],
+ [
+  "<span translate=\"no\"></span>That is essentially when we think about our news meetings and we think about editorial <span translate=\"no\"></span>discussions that we're having. ",
+  "<span translate=\"no\"></span>يحدث هذا بشكل أساسي عندما نفكر في اجتماعاتنا الإخبارية ونفكر في<span translate=\"no\"></span> المناقشات التحريرية التي نجريها. "
+ ],
+ [
+  "<span translate=\"no\"></span>That is what guides how we shape the news that we publish to our digital platforms. ",
+  "<span translate=\"no\"></span>هذا هو ما يوجه كيفية تشكيل الأخبار التي ننشرها على منصاتنا الرقمية. "
+ ],
+ [
+  "<span translate=\"no\"></span>We're looking at click through rates primarily on the home page. ",
+  "<span translate=\"no\"></span>نحن نبحث في معدلات النقر بشكل أساسي على الصفحة الرئيسية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're looking at how what people are clicking on and then engaging with. ",
+  "<span translate=\"no\"></span>لذلك نحن نبحث في كيفية النقر على ما ينقر عليه الأشخاص ثم التفاعل معه. "
+ ],
+ [
+  "We always want to make sure that we're not having <span translate=\"no\"></span>people click very heavily on something and then having them drop off. ",
+  "نريد دائمًا التأكد من عدم وجود<span translate=\"no\"></span> أشخاص ينقرون بشدة على شيء ما ثم نطلب منهم تسليمه. "
+ ],
+ [
+  "<span translate=\"no\"></span>And it's sometimes a balance of, okay, you know, we may know that this interview or this story isn't something that's going <span translate=\"no\"></span>to get a lot of attention because it's, you know, maybe a part of the world that's more obscure to the audience or something <span translate=\"no\"></span>like that, but it's really important. ",
+  "<span translate=\"no\"></span>وفي بعض الأحيان يكون هناك توازن بين، حسنًا، كما تعلمون، قد نعلم أن هذه المقابلة أو هذه القصة ليست شيئًا<span translate=\"no\"></span> سيحظى بالكثير من الاهتمام لأنه، كما تعلمون، ربما جزء من العالم أكثر غموضًا الجمهور أو شيء من هذا<span translate=\"no\"></span> القبيل، لكنه مهم حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we're gonna make sure that it gets the space and and the the priority that it needs. ",
+  "<span translate=\"no\"></span>لذلك سوف نتأكد من حصولها على المساحة والأولوية التي تحتاجها. "
+ ],
+ [
+  "<span translate=\"no\"></span>That's when the real challenge comes in, when the audience don't seem to be so interested based on the numbers and and what <span translate=\"no\"></span>are the ways that you can try and get them interested. ",
+  "<span translate=\"no\"></span>هذا هو الوقت الذي يأتي فيه التحدي الحقيقي، عندما لا يبدو الجمهور مهتمًا جدًا استنادًا إلى الأرقام وما<span translate=\"no\"></span> هي الطرق التي يمكنك من خلالها محاولة جذب اهتمامهم. "
+ ],
+ [
+  "<span translate=\"no\"></span>So we'll we'll run headline tests. ",
+  "<span translate=\"no\"></span>لذلك سنقوم بإجراء اختبارات العنوان. "
+ ],
+ [
+  "We'll try different images. ",
+  "سنجرب صورًا مختلفة. "
+ ],
+ [
+  " We'll pull out characters to try and help people connect with <span translate=\"no\"></span>the story. ",
+  " سنقوم بسحب الشخصيات لمحاولة مساعدة الأشخاص على التواصل مع<span translate=\"no\"></span> القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>And yeah, we'll start thinking about those sort of techniques. ",
+  "<span translate=\"no\"></span>ونعم، سنبدأ التفكير في هذا النوع من التقنيات. "
+ ],
+ [
+  "<span translate=\"no\"></span>The headline is the entry point to a story. ",
+  "<span translate=\"no\"></span>العنوان هو نقطة الدخول إلى القصة. "
+ ],
+ [
+  "Whether that's on the homepage. ",
+  "سواء كان ذلك على الصفحة الرئيسية. "
+ ],
+ [
+  "Whether you're coming across a <span translate=\"no\"></span>story on social media. ",
+  "سواء كنت تصادف<span translate=\"no\"></span> قصة على وسائل التواصل الاجتماعي. "
+ ],
+ [
+  "But on the homepage you're thinking about how do I write a headline that is accurate, <span translate=\"no\"></span>that will really engage someone and and grab them and pull them into the story. ",
+  "ولكن في الصفحة الرئيسية، تفكر في كيفية كتابة عنوان دقيق، من شأنه<span translate=\"no\"></span> أن يشرك شخصًا ما حقًا ويجذبه ويجذبه إلى القصة. "
+ ],
+ [
+  " And how do I give them enough information <span translate=\"no\"></span>so that I'm not revealing the entire contents of the story, but also that I'm not creating what we call in the industry too <span translate=\"no\"></span>large of a curiosity gap. ",
+  " وكيف أقدم لهم معلومات كافية<span translate=\"no\"></span> حتى لا أكشف عن محتويات القصة بأكملها، ولكن أيضًا حتى لا أقوم بإنشاء ما نسميه في الصناعة فجوة الفضول<span translate=\"no\"></span> الكبيرة جدًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So where you're not leaving too much, you know, sort of teasing people into clicking. ",
+  "<span translate=\"no\"></span>لذا عندما لا تترك الكثير، كما تعلم، نوع من إغاظة الناس للنقر. "
+ ],
+ [
+  "And then, you know, they just sort of <span translate=\"no\"></span>click away because the story wasn't as interesting as the headline. ",
+  "وبعد ذلك، كما تعلمون، يتم<span translate=\"no\"></span> النقر عليها نوعًا ما لأن القصة لم تكن مثيرة للاهتمام مثل العنوان الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>So you're really thinking about how do you responsibly headline stories, and then what are the strong imagery and other elements. ",
+  "<span translate=\"no\"></span>لذا فأنت تفكر حقًا في كيفية عناوين القصص بمسؤولية، ثم ما هي الصور القوية والعناصر الأخرى. "
+ ],
+ [
+  "<span translate=\"no\"></span>Sometimes we use things, for example, like video loops or graphics, things that again might stop somebody and and compel <span translate=\"no\"></span>them to click and spend more time with a news story. ",
+  "<span translate=\"no\"></span>في بعض الأحيان نستخدم أشياء، على سبيل المثال، مثل حلقات الفيديو أو الرسومات، الأشياء التي قد تمنع شخصًا ما مرة أخرى<span translate=\"no\"></span> وتجبره على النقر وقضاء المزيد من الوقت في قصة إخبارية. "
+ ],
+ [
+  "<span translate=\"no\"></span>Your thumbnail follows your video around the internet. ",
+  "<span translate=\"no\"></span>تتبع الصورة المصغرة الفيديو الخاص بك عبر الإنترنت. "
+ ],
+ [
+  "<span translate=\"no\"></span>It's the reason people want to see it. ",
+  "<span translate=\"no\"></span>هذا هو سبب رغبة الناس في رؤيته. "
+ ],
+ [
+  "It like really paints the picture of what it's going to be in this video. ",
+  "إنه يرسم حقًا صورة ما سيكون عليه في هذا الفيديو. "
+ ],
+ [
+  "<span translate=\"no\"></span>What are they gonna watch? ",
+  "<span translate=\"no\"></span>ماذا سيشاهدون؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What are they going to see? ",
+  "<span translate=\"no\"></span>ماذا سيرون؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>What's the moment? ",
+  "<span translate=\"no\"></span>ما هي اللحظة؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>So we will experiment with those on the home page will test them out in different photo spots versus text spots. ",
+  "<span translate=\"no\"></span>لذلك سنقوم بتجربة تلك الموجودة على الصفحة الرئيسية ونختبرها في أماكن صور مختلفة مقابل نقاط نصية. "
+ ],
+ [
+  "<span translate=\"no\"></span>So sometimes it can work actually really well when you don't have a thumbnail on the home page because you've created a sort <span translate=\"no\"></span>of curiosity gap for the audience. ",
+  "<span translate=\"no\"></span>لذلك في بعض الأحيان يمكن أن تعمل بشكل جيد حقًا عندما لا يكون لديك صورة مصغرة على الصفحة الرئيسية لأنك أنشأت نوعًا<span translate=\"no\"></span> من فجوة الفضول للجمهور. "
+ ],
+ [
+  "<span translate=\"no\"></span>So if you've used a headline, like \"See What Rome Looks Like During the Pandemic,\" and you've already got a picture of the <span translate=\"no\"></span>colosseum empty up there, people may not want to click on it so much. ",
+  "<span translate=\"no\"></span>لذلك إذا استخدمت عنوانًا رئيسيًا، مثل «انظر كيف تبدو روما أثناء الوباء»، ولديك بالفعل صورة<span translate=\"no\"></span> الكولوسيوم فارغة هناك، فقد لا يرغب الناس في النقر عليها كثيرًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>My team also works on animations for the home page. ",
+  "<span translate=\"no\"></span>يعمل فريقي أيضًا على الرسوم المتحركة للصفحة الرئيسية. "
+ ],
+ [
+  "We call them animations, gifs, loops, it's kind of all the same thing. ",
+  "نحن نسميها الرسوم المتحركة والصور المتحركة والحلقات، إنها نوعًا ما نفس الشيء. "
+ ],
+ [
+  "<span translate=\"no\"></span>Moving pictures that go on the homepage and in our apps. ",
+  "<span translate=\"no\"></span>نقل الصور التي تظهر على الصفحة الرئيسية وفي تطبيقاتنا. "
+ ],
+ [
+  "<span translate=\"no\"></span>So those will be sort of very short little teases basically that will get the audience into the story. ",
+  "<span translate=\"no\"></span>لذلك ستكون هذه نوعًا من المضايقات الصغيرة القصيرة جدًا التي ستجذب الجمهور إلى القصة. "
+ ],
+ [
+  "<span translate=\"no\"></span>Snd sometimes with those, it's as much about teasing the audience into wanting to click on this as it is also creating like <span translate=\"no\"></span>a visually impactful home page as well. ",
+  "<span translate=\"no\"></span>وأحيانًا مع هؤلاء، يتعلق الأمر كثيرًا بإثارة الجمهور للرغبة في النقر على هذا كما هو الحال أيضًا<span translate=\"no\"></span> في إنشاء صفحة رئيسية مؤثرة بصريًا أيضًا. "
+ ],
+ [
+  "Thinking about tone is really important in the digital sphere, because if you get <span translate=\"no\"></span>the tone wrong, it can be really damaging. ",
+  "التفكير في النغمة مهم حقًا في المجال الرقمي، لأنه إذا فهمت<span translate=\"no\"></span> النغمة بشكل خاطئ، فقد يكون ذلك ضارًا حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>You might get flamed on social media and emails. ",
+  "<span translate=\"no\"></span>قد تشعر بالذهول على وسائل التواصل الاجتماعي ورسائل البريد الإلكتروني. "
+ ],
+ [
+  "Or or you might be the the the reaction to getting the tone wrong in <span translate=\"no\"></span>any kind of story can be really immediate. ",
+  "أو قد تكون رد الفعل على فهم النبرة الخاطئة في<span translate=\"no\"></span> أي نوع من القصص يمكن أن يكون فوريًا حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>However if you think about it and think about the context, it is possible to vary the tone in many different ways. ",
+  "<span translate=\"no\"></span>ولكن إذا فكرت في الأمر وفكرت في السياق، فمن الممكن تغيير النغمة بعدة طرق مختلفة. "
+ ],
+ [
+  "<span translate=\"no\"></span>There will always be the majority of stories will have a fairly straightforward way of writing themselves, but if you're <span translate=\"no\"></span>doing more explanatory journalism, or if you're doing more eyewitness journalism, or if you're doing a story with a lighter <span translate=\"no\"></span>feel, then writing or explaining it or telling it in a different way, <span translate=\"no\"></span>or in a lighter tone, or in a more colorful tone, or in a more conversational tone is perfectly appropriate. ",
+  "<span translate=\"no\"></span>ستكون هناك دائمًا غالبية القصص التي سيكون لها طريقة مباشرة إلى حد ما للكتابة بنفسها، ولكن إذا كنت<span translate=\"no\"></span> تقوم بمزيد من الصحافة التفسيرية، أو إذا كنت تقوم بمزيد من صحافة شهود العيان، أو إذا كنت تفعل ذلك من المناسب تمامًا كتابة قصة ذات<span translate=\"no\"></span> طابع أخف، ثم كتابتها أو شرحها أو سردها بطريقة مختلفة،<span translate=\"no\"></span> أو بنبرة أخف، أو بنبرة أكثر تلوينًا، أو بنبرة محادثة أكثر. "
+ ],
+ [
+  "<span translate=\"no\"></span>So long as you do it in the way that the audience expects. ",
+  "<span translate=\"no\"></span>طالما أنك تفعل ذلك بالطريقة التي يتوقعها الجمهور. "
+ ],
+ [
+  "The biggest mistake that we all make as <span translate=\"no\"></span>digital journalists is surprising the audience in an unexpected way when they click on something that they don't <span translate=\"no\"></span>get what they were expecting. ",
+  "أكبر خطأ نرتكبه جميعًا كصحفيين<span translate=\"no\"></span> رقميين هو مفاجأة الجمهور بطريقة غير متوقعة عندما ينقرون على شيء لا<span translate=\"no\"></span> يحصلون عليه مما كانوا يتوقعونه. "
+ ],
+ [
+  "<span translate=\"no\"></span>So, a piece that has a lighter tone should have that tone reflected in the headline <span translate=\"no\"></span>and the presentation. ",
+  "<span translate=\"no\"></span>لذا، فإن القطعة ذات النغمة الفاتحة يجب أن تنعكس هذه النغمة في العنوان<span translate=\"no\"></span> والعرض التقديمي. "
+ ],
+ [
+  " A piece that has a serious tone should have that reflected in the headline. ",
+  " يجب أن تنعكس تلك القطعة ذات النبرة الجادة في العنوان الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>If you're serving the audience of video, they should understand when they click on it, that it's going to play rather than <span translate=\"no\"></span>something that they're going to read. ",
+  "<span translate=\"no\"></span>إذا كنت تخدم جمهور الفيديو، فيجب أن يفهموا عند النقر عليه أنه سيتم تشغيله بدلاً من<span translate=\"no\"></span> شيء سيقرأوه. "
+ ],
+ [
+  "<span translate=\"no\"></span>These sorts of things are really important. ",
+  "<span translate=\"no\"></span>هذه الأنواع من الأشياء مهمة حقًا. "
+ ],
+ [
+  "<span translate=\"no\"></span>Keeping them through that beginning, middle and end is about delivering on the promise that you've given them in the headline. ",
+  "<span translate=\"no\"></span>إن إبقائهم خلال تلك البداية والوسط والنهاية يتعلق بالوفاء بالوعد الذي قدمته لهم في العنوان الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>We don't have the luxury of people sitting there throughout our programs. ",
+  "<span translate=\"no\"></span>لا نتمتع برفاهية الأشخاص الذين يجلسون هناك طوال برامجنا. "
+ ],
+ [
+  "We have to get them in there. ",
+  "علينا أن ندخلهم إلى هناك. "
+ ],
+ [
+  "And we get them <span translate=\"no\"></span>in there through a headline. ",
+  "ونقوم<span translate=\"no\"></span> بإدخالهم إلى هناك من خلال عنوان رئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>And if we give them a headline and they don't get it in the first 30 seconds, they're gonna jump off. ",
+  "<span translate=\"no\"></span>وإذا أعطيناهم عنوانًا رئيسيًا ولم يحصلوا عليه في أول 30 ثانية، فسوف يقفزون. "
+ ],
+ [
+  "<span translate=\"no\"></span>If we give them a headline and they get it in the first 30 seconds, they're not gonna stay for the next two minutes. ",
+  "<span translate=\"no\"></span>إذا أعطيناهم عنوانًا وحصلوا عليه في أول 30 ثانية، فلن يبقوا للدقيقتين التاليتين. "
+ ],
+ [
+  "<span translate=\"no\"></span>Keeping people through that beginning and middle and end is like you're telling this story, and you're telling them what you've <span translate=\"no\"></span>promised them that you were going to tell them in the headline. ",
+  "<span translate=\"no\"></span>إن إبقاء الناس في تلك البداية والوسط والنهاية يشبه سرد هذه القصة، وتخبرهم بما<span translate=\"no\"></span> وعدتهم بأنك ستخبرهم به في العنوان الرئيسي. "
+ ],
+ [
+  "<span translate=\"no\"></span>We do a lot of headlines that are focused on watching something or seeing something. ",
+  "<span translate=\"no\"></span>نقوم بالعديد من العناوين الرئيسية التي تركز على مشاهدة شيء ما أو رؤية شيء ما. "
+ ],
+ [
+  "<span translate=\"no\"></span>You know, how can you use your headline to paint a picture of what people are going to see? ",
+  "<span translate=\"no\"></span>كما تعلمون، كيف يمكنك استخدام العنوان الخاص بك لرسم صورة لما سيراه الناس؟ "
+ ],
+ [
+  "<span translate=\"no\"></span>I think, specifically for video, that's what we really try and do. ",
+  "<span translate=\"no\"></span>أعتقد، تحديدًا للفيديو، أن هذا ما نحاول فعله حقًا. "
+ ]
+]

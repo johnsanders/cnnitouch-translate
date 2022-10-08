@@ -24,7 +24,9 @@ const downloadCaptionFile = async (
 	return true;
 };
 const deleteInactiveCaptions = async (files: any[]) => {
-	const toDelete = files.find((file: any) => file.active === false);
+	const toDelete = files.find(
+		(file: any) => file.active === false || file.display_language.includes('generated'),
+	);
 	if (toDelete) {
 		console.log('Deleting', toDelete.uri);
 		await fetch(apiBase + toDelete.uri, {
