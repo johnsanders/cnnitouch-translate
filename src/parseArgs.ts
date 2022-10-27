@@ -26,7 +26,9 @@ export const vimeo = () => {
 		},
 	});
 	if (!args.mode || (args.mode.includes('captions') && (!args.lang || !args.input))) {
-		console.log('--mode=videos|captionsDown|captionsUp --lang=languageToDownload --deleteInactive');
+		console.log(
+			'--mode=videos|captionsDown|captionsUp --input=inputName --lang=languageToDownload --deleteInactive',
+		);
 		process.exit(1);
 	}
 	const languageName = args.lang as LanguageName;
