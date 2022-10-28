@@ -12,7 +12,7 @@ const downloadCaptionFile = async (
 	const localFilePath = `${localPath}/${id}.vtt`;
 	if (!fs.existsSync(localPath)) fs.mkdirSync(localPath);
 	if (fs.existsSync(localFilePath)) {
-		console.log('File already exists', id);
+		console.log('File already exists', localFilePath);
 		return true;
 	}
 	const file = files.find((file: any) => file.active && file.language === languageName);
