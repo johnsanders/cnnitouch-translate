@@ -1,6 +1,7 @@
 import fs from 'fs';
 import getCaptions from './vimeoGetCaptions.js';
 import getVideos from './vimeoGetVideos.js';
+import listVideos from './vimeoListVideos.js';
 import { vimeo as parseArgs } from '../parseArgs.js';
 import putCaptions from './vimeoPutCaptions.js';
 import vimeoKey from './vimeoKey_disableGit.js';
@@ -30,6 +31,7 @@ const run = async () => {
 		);
 	else if (args.mode === 'captionsUp')
 		await putCaptions(args.contentName, args.languageName, args.limit);
-	else if (args.mode === 'videos') await getVideos(getIds(args.contentName));
+	else if (args.mode === 'getVideos') await getVideos(getIds(args.contentName));
+	else if (args.mode === 'listVideos') await listVideos();
 };
 run();

@@ -36,7 +36,7 @@ export const vimeo = () => {
 	const noDownload = args.noDownload;
 	const contentName = args.input as string;
 	const limit = args.limit ? parseInt(args.limit) : Infinity;
-	const mode = args.mode as 'videos' | 'captionsDown' | 'captionsUp';
+	const mode = args.mode as 'listVideos' | 'getVideos' | 'captionsDown' | 'captionsUp';
 	return { contentName, deleteInactive, languageName, limit, mode, noDownload };
 };
 
